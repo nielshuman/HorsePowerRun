@@ -1,3 +1,5 @@
+/*navbar*/
+
 .nav-item {
   padding: .5rem 1rem;
   padding-right: .5rem;
@@ -9,169 +11,32 @@
 .nav-item a:hover, #kinda-logo:hover {
   color: rgba(255,255,255,.95);
   text-decoration: none;
-
 }
 
-header {
-  padding: 54px 0 50px;
+/*header*/
+
+.masthead {
+  height: 50vh;
+  background-image: url('banner.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fffe;
 }
 
-section {
-  padding: 50px 0;
-}
+/*content*/
 
-:root {
-  --breakpoint-sm: 576px;
-  --breakpoint-md: 768px;
-  --breakpoint-lg: 992px;
-  --breakpoint-xl: 1200px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
+section {padding: 50px 0;}
 
 
-@-ms-viewport {
-  width: device-width;
-}
 
-footer, header, hgroup, main, nav, section {
-  display: block;
-}
+/*footer*/
 
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #212529;
-  text-align: left;
-  background-color: #fff;
-}
-
-[tabindex="-1"]:focus {
-  outline: 0 !important;
-}
-
-hr {
-  box-sizing: content-box;
-  height: 0;
-  overflow: visible;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-p {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-ol,
-ul,
-dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-ol ol,
-ul ul,
-ol ul,
-ul ol {
-  margin-bottom: 0;
-}
-
-b,
-strong {
-  font-weight: bolder;
-}
-
-small {
-  font-size: 80%;
-}
-
-a {
-  color: #007bff;
-  text-decoration: none;
-  background-color: transparent;
-  -webkit-text-decoration-skip: objects;
-}
-
-a:hover {
-  color: info;
-  text-decoration: underline;
-}
-
-a:not([href]):not([tabindex]) {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:not([href]):not([tabindex]):focus {
-  outline: 0;
-}
-
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
-  margin-bottom: 0.5rem;
-  font-family: inherit;
-  font-weight: 500;
-  line-height: 1.2;
-  color: inherit;
-}
-
-h1, .h1 {font-size: 2.5rem;}
-h2, .h2 {font-size: 2rem;}
-h3, .h3 {font-size: 1.75rem;}
-h4, .h4 {font-size: 1.5rem;}
-h5, .h5 {font-size: 1.25rem;}
-h6, .h6 {font-size: 1rem;}
-
-
-hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-
-code {
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
-}
-/* Footer gebeuren */
-html {
-    position: relative;
-    min-height: 100%;
-}
-body {
-    margin: 0 0 100px;
-    /* bottom = footer height */
-    /*padding: 25px; */
-}
 footer {
-    background-color: orange;
     position: absolute;
     left: 0;
     bottom: 0;
     height: 100px;
     width: 100%;
     overflow:hidden;
-}
-.masthead {
-  height: 50vh;
-/*  min-height: 50px;*/
-  background-image: url('banner.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: #fffe;
-  /*font-weight: ;*/
 }

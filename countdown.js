@@ -3,8 +3,8 @@ const count_down_to = Math.floor(new Date("Sep 15, 2019 10:00:00").getTime() / 1
 
 //apr 19 2020
 
-new FlipDown(count_down_to, 'countdown').start();
-
+let flipclock = new FlipDown(count_down_to, 'countdown');
+flipclock.start();
 
 // const updateHTML =  (d, u, m , s) => {
 // 	document.getElementById("countdown").innerHTML = `Nog ${d} dagen, ${u} uren, ${m} minuten en ${s} seconden!`; //zet in ondertitel
