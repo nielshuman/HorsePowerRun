@@ -16,7 +16,7 @@
 /*header*/
 
 .masthead {
-  height: 50vh;
+  height: 40vh;
   background-image: url('banner.jpg');
   background-size: cover;
   background-position: center;
@@ -26,10 +26,16 @@
 
 #countdown {
   display: inline-block;
+  width: auto;
 }
 
 #countdown_wrapper {
   text-align: center;
+}
+
+#header_content {
+  background: #0008;
+  padding: 3vh;
 }
 
 /*content*/
