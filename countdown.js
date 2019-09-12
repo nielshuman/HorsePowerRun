@@ -1,5 +1,5 @@
 // countdown
-const count_down_to = Math.floor(new Date("Sep 15, 2019 10:00:00").getTime() / 1000) // javascript not epoch but epoch + milisec
+const count_down_to = Math.floor(new Date("Apr 19, 2020 10:00:00").getTime() / 1000) // javascript not epoch but epoch + milisec
 
 //apr 19 2020
 
