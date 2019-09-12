@@ -24,6 +24,14 @@
   color: #fffe;
 }
 
+#countdown {
+  display: inline-block;
+}
+
+#countdown_wrapper {
+  text-align: center;
+}
+
 /*content*/
 
 section {padding: 50px 0;}
