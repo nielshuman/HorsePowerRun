@@ -1,5 +1,5 @@
 ---
-layout: nl
+layout: en
 title: Info
 ---
 

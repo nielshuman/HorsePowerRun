@@ -1,5 +1,5 @@
 ---
-layout: nl-title
+layout: en-title
 title: Home
 ---
 
