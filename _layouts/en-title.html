@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{site.title}} - {{page.title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="stylesheet" type="text/css" href="../css/flipdown.css">
+    <link rel="stylesheet" type="text/css" href="../css/button.css">
+    <script type="text/javascript" src="../js/flipdown.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+      <div class="container">
+        <a id="kinda-logo" href="index.html">HorsePowerRun</a>
+        <a id="kinda-logo" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
+        <a id="kinda-logo" href="/de/">Deutsch <img src="../assets/de.svg"></a>
+         <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a href="inschrijven/">Inschrijven</a>
+            </li>
+            <li class="nav-item">
+              <a href="info/">Info voor deelnemers</a>
+            </li>
+            <li class="nav-item">
+              <a href="#">Foto's</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <header class="masthead">
+      <div class="container h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-12 text-center">
+            <div id="header_content">
+            <h1 class="text white font-weight-bold">{{site.title}} - {{page.title}}</h1>
+              <div id="countdown_wrapper">
+                 <div id="countdown" class="flipdown"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            {{content}}
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Footer -->
+    <footer class="py-5 bg-dark" style="margin-top: -50px;">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright © 2019 Stichting HorsePower Run. Alle rechten voorbehouden.</p>
+      </div>
+    </footer>
+  </body>
+  <script type="text/javascript" src="../js/countdown.js"> </script>
+</html>
