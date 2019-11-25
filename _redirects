@@ -1,0 +1,19 @@
+/                    /nl
+
+# nederlands
+/nederlands          /nl
+/nederlands/*        /nl/:splat
+/info                /nl/info
+/informatie          /nl/info
+/fotos               /nl/fotos
+/inschrijven         /nl/inschrijven
+
+# engels
+/english             /en
+/english/*           /en/:splat
+/inforamtion         /en/info
+/photos              /en/photos
+
+# Duits
+/deutsch             /de
+/deutsch/*           /de/:splat
