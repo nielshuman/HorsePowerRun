@@ -1,6 +1,6 @@
 /                    /nl
 
-# nederlands
+# Nederlands
 /nederlands          /nl
 /nederlands/*        /nl/:splat
 /info                /nl/info
@@ -8,12 +8,16 @@
 /fotos               /nl/fotos
 /inschrijven         /nl/inschrijven
 
-# engels
+# Engels
 /english             /en
 /english/*           /en/:splat
 /inforamtion         /en/info
 /photos              /en/photos
+/sign-up			 /inschrijven
+/sign-up             /inschrijven
 
 # Duits
 /deutsch             /de
 /deutsch/*           /de/:splat
+
+/*                   /nl/:splat
