@@ -6,9 +6,14 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="#">Features</a>
-      <a class="nav-item nav-link" href="#">Pricing</a>
-      <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+
+      {% for item in site.data.nav %}
+        <a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{ item.link }}">
+          {{ item.name }}
+          {% if page.url == item.link %} <span class="sr-only">(current)</span> {% endif %}
+        </a>
+      {% endfor %}
+      
     </div>
   </div>
 </nav>
