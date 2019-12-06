@@ -7,9 +7,9 @@
     <div class="navbar-nav">
 
       {% for item in site.data.nav %}
-        <a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{ item.link }}">
+        <a class="nav-item nav-link {% if page.title == item.name %}active{% endif %}" href="{{ item.link }}">
           {{ item.name }}
-          {% if page.url == item.link %} <span class="sr-only">(current)</span> {% endif %}
+          {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
         </a>
       {% endfor %}
 
