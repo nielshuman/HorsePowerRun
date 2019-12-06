@@ -4,6 +4,6 @@ title: Foto's
 ---
 
 # Foto's
-Hier vind u fotos van de horsepowerrun.
+Hier vindt u fotos van de horsepowerrun.
 
-{% include gallery.html userID="29460210@N08" %}
+{% include gallery.html userID="flattank_motorcycles" %}
