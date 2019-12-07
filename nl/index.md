@@ -3,5 +3,6 @@ layout: nl-title
 title: Home
 ---
 
-# Home (ONDER CONSTRUCTIE)
-Welkom bij de homepagina!
+Volgende editie:
+# Zondag 19 April 2020
+Welkom op de homepagina! (deze is nog onder construtie)
