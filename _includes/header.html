@@ -5,17 +5,17 @@
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
+    <ul class="navbar-nav mr-auto">
 
       {% for item in site.data.nav %}
-        <a class="nav-item nav-link {% if page.title == item.name %}active{% endif %}" href="{{ item.link }}">
-          {{ item.name }}
+        <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+          <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
           {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
-        </a>
+          </a>        
+        </li>
       {% endfor %}
 
-    </div>
-    AAAAA
+    </ul>
   </div>
 </div>
 </nav>
