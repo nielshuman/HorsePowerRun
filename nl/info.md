@@ -1,6 +1,6 @@
 ---
 layout: nl
-title: Info
+title: Informatie voor deelnemers
 ---
 
 # Algemene informatie

@@ -10,30 +10,20 @@
     <script type="text/javascript" src="../js/flipdown.js"></script>
   </head>
   <body>
-
     {% include header.html %}
-
     <header class="masthead" style="height:30vh;">
-      <div class="container h-100">
-        <div class="row h-100 align-items-center">
-          <div class="col-12 text-center">
-            <div id="header_content">
+          <div id="header_content">
             <h1 class="text white font-weight-bold">{{site.title}} - {{page.title}}</h1>
-              <div id="countdown_wrapper">
-                 <div id="countdown" class="flipdown"></div>
-              </div>
+            <div id="countdown_wrapper">
+              <div id="countdown" class="flipdown"></div>
             </div>
           </div>
-        </div>
-      </div>
     </header>
     <section id="about">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-
             {{content}}
-
           </div>
         </div>
       </div>
