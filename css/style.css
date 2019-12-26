@@ -15,7 +15,7 @@
 
 /*header*/
 
-.masthead {
+#banner {
   height: 40vh;
   background-image: url('/assets/banner.jpg');
   background-size: cover;
