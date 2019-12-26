@@ -2,9 +2,9 @@
 layout: nl
 ---
 
-X = Gedaan
--= todo
-? = Afvragen of we het nog wel gaan doen
+X = Gedaan <br>
+-= todo <br>
+? = Afvragen of we het nog wel gaan doen <br>
 
 # Todo enzo voor niels
 
@@ -18,7 +18,7 @@ X = Gedaan
 # Todo enzo voor niet niels
 
 | Done? | Ding |
-| ----- | ---- |
+| :-----: | :---- |
 | -     | Engelse vertaling |
 | ? 	| Duitse vertaling |
 | -		| Inscrijfformulier  |
