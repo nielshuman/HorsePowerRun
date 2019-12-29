@@ -8,6 +8,6 @@ exports.handler = async (event, context) => {
 
 	return {
 		statusCode: 200,
-		body: {text: 'You got the get via GET!'}
+		body: '{"text": "You got the get via GET!"}'
 	};
 }
