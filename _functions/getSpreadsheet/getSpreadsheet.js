@@ -6,7 +6,9 @@ console.log('Credentials:', credentials);
 console.log('Token type:', typeof token);
 console.log('Token:', token);
 
-exports.handler = async (event, context) => {{return {satusCode:200, body: 'aaaaaaaaaaaaa'}};
+exports.handler = async (event, context) => {
+  return {satusCode:200, body: 'aaaaaaaaaaaaa'}
+};
 // authorize(credentials, listMajors);
 
 function authorize(credentials, callback) {
