@@ -1,11 +1,14 @@
-const {google} = require('googleapis');
-const token = JSON.parse(process.env.token);
-const credentials = JSON.parse(process.env.credentials);
+// const {google} = require('googleapis');
+const {token, credentials} = process.env;
+
+console.log('Credentials type:', typeof credentials);
+console.log('Credentials:', credentials);
+console.log('Token type:', typeof token);
+console.log('Token:', token);
 
 exports.handler = async (event, context) => {
   return {satusCode:200, body: 'aaaaaaaaaaaaa'}
 };
-
 // authorize(credentials, listMajors);
 
 function authorize(credentials, callback) {
