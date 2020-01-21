@@ -7,7 +7,7 @@ title: Informatie voor deelnemers
 #### Route Informatie
 De start is om 09.30 uur.
 De totale lengte van de rit is circa 90 km.
-De start, hoofdpauze en finish zijn op dezelfde locatie. Informatie over de locaties van de koffie pauze en de thee pauze zal enkel weken voor het evenement op deze site en op [onze facebookpagina](facebook.com/horsepowerrun) worden gepubliceerd.
+De start, hoofdpauze en finish zijn op dezelfde locatie. Informatie over de locaties van de koffie pauze en de thee pauze zal enkel weken voor het evenement op deze site en op [onze facebookpagina](https://facebook.com/horsepowerrun) worden gepubliceerd.
 De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rechts en S voor rechtdoor.
 
 #### Benzine
