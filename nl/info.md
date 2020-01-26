@@ -1,5 +1,4 @@
 ---
-layout: nl
 title: Informatie voor deelnemers
 ---
 

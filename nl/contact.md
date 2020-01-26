@@ -1,5 +1,4 @@
 ---
-layout: nl
 title: Contact
 ---
 # Contact

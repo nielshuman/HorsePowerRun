@@ -1,5 +1,5 @@
 ---
-layout: nl-title
+layout: title
 title: Home
 ---
 # Home

@@ -1,5 +1,4 @@
 ---
-layout: nl
 title: Foto's
 ---
 

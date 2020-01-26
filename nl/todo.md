@@ -1,7 +1,3 @@
----
-layout: nl
----
-
 X = Gedaan <br>
 -= todo <br>
 ? = Afvragen of we het nog wel gaan doen <br>
