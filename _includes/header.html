@@ -41,26 +41,26 @@
         {% endfor %}
       {% endif %}
 
+    </ul>
+    <ul class="navbar-nav ml-auto">
+      {% unless page.url contains "/nl/" %}
+      <li class="nav-item">
+        <a class="nav-link" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
+      </li>
+      {% endunless %}
+
+      {% unless page.url contains "/en/" %}
+      <li class="nav-item">
+        <a class="nav-link" href="/en/">English <img src="../assets/en.svg"></a>
+      </li>
+      {% endunless %}
+
+      {% unless page.url contains "/de/" %}
+      <li class="nav-item">
+        <a class="nav-link" href="/de/">Deutsch <img src="../assets/de.svg"></a>
+      </li>
+      {% endunless %}
+    </ul>
   </div>
-  </ul>
-  <ul class="navbar-nav ml-auto">
-    {% unless page.url contains "/nl/" %}
-    <li class="nav-item">
-      <a class="nav-link" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
-    </li>
-    {% endunless %}
-
-    {% unless page.url contains "/en/" %}
-    <li class="nav-item">
-      <a class="nav-link" href="/en/">English <img src="../assets/en.svg"></a>
-    </li>
-    {% endunless %}
-
-    {% unless page.url contains "/de/" %}
-    <li class="nav-item">
-      <a class="nav-link" href="/de/">Deutsch <img src="../assets/de.svg"></a>
-    </li>
-    {% endunless %}
-  </ul>
 </div>
 </nav>
