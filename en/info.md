@@ -1,5 +1,4 @@
 ---
-layout: en
 title: Info
 ---
 
