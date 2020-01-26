@@ -3,5 +3,6 @@ layout: title
 title: Home
 ---
 
-# Home (UNDER CONSTRUCTION)
-Welcome to the homepage!
+# Home
+**Welcome to the homepage of our new website.** <br>
+**[Registration](inschrijven/) has started.**
