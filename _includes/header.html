@@ -8,22 +8,55 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <ul class="navbar-nav mr-auto">
 
-      {% for item in site.data.nav %}
-        <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-          <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-          {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
-          </a>
-        </li>
-      {% endfor %}
+      {% if page.url contains "/nl/" %}
+        {% for item in site.data.nav %}
+          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
+            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      {% endif %}
+
+      {% if page.url contains "/en/" %}
+        {% for item in site.data.nav-en %}
+          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
+            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      {% endif %}
+
+      {% if page.url contains "/de/" %}
+        {% for item in site.data.nav-de %}
+          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
+            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      {% endif %}
 
     </ul>
     <ul class="navbar-nav ml-auto">
+      {% unless page.url contains "/en/" %}
       <li class="nav-item">
         <a class="nav-link">English <img src="../assets/en.svg"></a>
       </li>
+      {% endunless %}
+
+      {% unless page.url contains "/de/" %}
       <li class="nav-item">
         <a class="nav-link">Deutsch <img src="../assets/de.svg"></a>
       </li>
+      {% endunless %}
+
+      {% unless page.url contains "/nl/" %}
+      <li class="nav-item">
+        <a class="nav-link">Nederlands <img src="../assets/nl.svg"></a>
+      </li>
+      {% endunless %}
     </ul>
   </div>
 </div>

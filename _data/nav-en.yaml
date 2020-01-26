@@ -1,0 +1,10 @@
+- name: Home
+  link: /en/
+- name: Photo's
+  link: /en/photos
+- name: Information for participants
+  link: /en/info
+- name: Sign Up
+  link: /en/signup
+- name: Contact Us
+  link: /en/contact
