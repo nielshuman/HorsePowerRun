@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
   <div class="container">
-  <a class="navbar-brand" href="#">HorsePowerRun</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+  <a class="navbar-brand" href="/">HorsePowerRun</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="##navbar-collapse-1" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+  <div class="collapse navbar-collapse" id="navbar-collapse-1">
     <ul class="navbar-nav mr-auto">
 
       {% if page.url contains "/nl/" %}
@@ -45,7 +45,7 @@
         <a class="nav-link" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
       </li>
       {% endunless %}
-      
+
       {% unless page.url contains "/en/" %}
       <li class="nav-item">
         <a class="nav-link" href="/en/">English <img src="../assets/en.svg"></a>
