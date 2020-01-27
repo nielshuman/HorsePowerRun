@@ -1,3 +1,7 @@
+---
+title: Regelement
+---
+
 # Reglement HorsePowerRun
 
 De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismuseum aan de Oude Gracht 1 in 9341 AA Veenhuizen. De 38e editie wordt gereden op zondag 21 april 2019.  

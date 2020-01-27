@@ -1,3 +1,7 @@
+---
+title: Regulation
+---
+
 # Regulation HorsePowerRun
 
 The International HorsePowerRun will start at the Nationaal Gevangenismuseum (National Prison Museum) at the Oude Gracht 1 in Veenhuizen. The 38th edition is scheduled for Sunday April 21nd, 2019.  
