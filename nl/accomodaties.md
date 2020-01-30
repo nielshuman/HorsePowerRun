@@ -1,5 +1,6 @@
 ---
-title: accomodaties
+title: Accomodaties
+published: true
 ---
 # Accomodaties
 De horsepowerrun beveelt de volgende accomodaties aan:
