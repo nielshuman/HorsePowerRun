@@ -21,3 +21,26 @@ markdown: kramdown
 
 include:
   - _redirects
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+prose:
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_data
+    - /_functions
+    - /css
+    - /assets
+    - /js
+    - _redirects
+    - Gemfile
+    - Gemfile.lock
+    - .gitattributes
+    - .gitignore
