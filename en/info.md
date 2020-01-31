@@ -1,5 +1,6 @@
 ---
-title: Info
+title: Information for participants
+published: true
 ---
 
 # Table of contents
