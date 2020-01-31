@@ -1,5 +1,6 @@
 /                    /nl
-
+/edit                http://prose.io
+/nl/edit             http://prose.io
 # Nederlands
 /nederlands          /nl
 /nederlands/*        /nl/:splat
@@ -23,4 +24,3 @@
 
 /*                   /nl/:splat
 
-/edit                http://prose.io
