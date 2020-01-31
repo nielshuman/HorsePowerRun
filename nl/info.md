@@ -1,10 +1,11 @@
 ---
 title: Informatie voor deelnemers
+published: true
 ---
 
 # Inhoud
 - [Algemene informatie](#a)
-- [Regelement](#b)
+- [Reglement](#b)
 - [Route](#c)
 
 # Algemene informatie {#a}
@@ -67,4 +68,4 @@ De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismu
     Betalen op de dag van het evenement zal € 30,00 per voertuig zijn.  
     De kosten voor een bijrijder bedragen € 15,00 per persoon of € 20,00 per persoon op het evenement zelf.
 
-# Accomodaties {#c}
+# Route {#c}
