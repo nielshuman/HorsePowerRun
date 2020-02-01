@@ -1,0 +1,12 @@
+- name: Home
+  link: /en/
+- name: Information for participants
+  link: /en/info
+- name: Places to stay
+  link: /en/places
+- name: Sign Up
+  link: /en/signup
+- name: Photo's
+  link: /en/photos
+- name: Contact Us
+  link: /en/contact

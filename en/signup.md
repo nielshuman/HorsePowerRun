@@ -1,5 +1,5 @@
 ---
-title: Inschrijven
+title: Sign Up
 ---
 
 {% include formulier.html %}

@@ -6,6 +6,9 @@ const count_down_to = Math.floor(new Date("Apr 19, 2020 10:00:00").getTime() / 1
 let flipclock = new FlipDown(count_down_to, 'countdown');
 flipclock.start();
 
+// hide seconds
+flipclock.rotors[6].parentElement.style.display = 'none';
+
 // const updateHTML =  (d, u, m , s) => {
 // 	document.getElementById("countdown").innerHTML = `Nog ${d} dagen, ${u} uren, ${m} minuten en ${s} seconden!`; //zet in ondertitel
 // }

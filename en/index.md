@@ -1,7 +1,10 @@
 ---
-layout: en-title
+layout: title
 title: Home
+published: true
 ---
 
-# Home (UNDER CONSTRUCTION)
-Welcome to the homepage!
+# Home
+**Welcome to the homepage of our new website.**
+
+**[Registration](/signup) has started.**

@@ -1,10 +1,12 @@
 - name: Home
   link: /nl/
-- name: Foto's
-  link: /nl/fotos
 - name: Informatie voor deelnemers
   link: /nl/info
 - name: Inschrijven
   link: /nl/inschrijven
+- name: Accomodaties
+  link: /nl/accomodaties
+- name: Foto's
+  link: /nl/fotos
 - name: Contact
   link: /nl/contact

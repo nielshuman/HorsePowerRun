@@ -1,13 +1,11 @@
 ---
-layout: nl-title
+layout: title
 title: Home
+published: true
 ---
 # Home
-De 39e editie van de HorsePowerRun vindt plaats op: <br>
-**Zondag 19 April 2020** <br>
-Welkom op de homepagina! (deze is nog onder constructie)
+De 39e editie van de HorsePowerRun vindt plaats op **Zondag 19 April 2020**.
+
+Welkom op de homepagina van onze vernieuwde site!
 
 **De [inschrijving](inschrijven/) is geopend.**
-
-**Welcome to the homepage of our new website.** <br>
-**[Registration](inschrijven/) has started.**
