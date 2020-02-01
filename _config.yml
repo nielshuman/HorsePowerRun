@@ -34,7 +34,6 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-    - /_data
     - /_functions
     - /css
     - /assets
