@@ -1,8 +1,8 @@
 ---
-title: Accomodations
+title: Places to stay
 published: true
 ---
-# Accomodations
+# Places to stay
 Team HorsePowerRun reccomends the following accomodations:
 
 {% include accomodaties.html %}
