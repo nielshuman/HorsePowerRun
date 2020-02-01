@@ -1,10 +1,11 @@
 ---
 title: Contact
+published: true
 ---
 # Contact
 
 **Email**: horsepowerrun@gmail.com
 
-**Post**: Petrus Campersingel 19, 9713 AC Groningen (The Netherlands)
+**Post**: Petrus Campersingel 19, 9713 AC Groningen
 
-**Tel**: (+31)-(0)50-3140662 (secretaris HPR) or (+31)-(0)625034686 (mobile)
+**Tel**: 050-3140662 (secretaris HPR) of 06-25034686
