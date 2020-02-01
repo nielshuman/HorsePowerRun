@@ -19,3 +19,4 @@ Welkom op de homepagina van onze vernieuwde site!
 ![Lieveren.jpg]({{site.baseurl}}/assets/sponsors/Lieveren.jpg)
 ![Logo_MotoPort.png]({{site.baseurl}}/assets/sponsors/Logo_MotoPort.png)
 
+{% include sponsors.html %}
