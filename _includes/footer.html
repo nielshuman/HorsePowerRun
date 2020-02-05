@@ -2,7 +2,10 @@
 <footer class="py-5 bg-dark" style="margin-top: -50px;">
   <div class="container">
     <p class="m-0 text-center align-middle text-white">
-       Dit evenement wordt mede mogelijk gemaakt door de vrienden van de HorsePowerRun. <br> 
-   	   Copyright © 2020 Stichting HorsePowerRun. Alle rechten voorbehouden.</p>
+       {% if page.url contains "/nl/" %} Dit evenement wordt mede mogelijk gemaakt door de Vrienden van de HorsePowerRun. {% endif %}
+       {% if page.url contains "/en/" %} This event is made possible in part thanks to the Friends of the HorsePowerRun. {% endif %}
+	   {% if page.url contains "/de/" %} Diese Veranstaltung wird teilweise von den Freunden des HorsePowerRun ermöglicht {% endif %}
+	   <br> 
+   	   Copyright © 2020 Stichting HorsePowerRun.</p>
   </div>
 </footer>
