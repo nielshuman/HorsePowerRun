@@ -5,7 +5,9 @@
         <span class="sr-only">Toggle navigation</span>
         <span class="navbar-toggler-icon"></span>
       </button>
-        <a class="navbar-brand" href="/">HorsePowerRun</a>
+        <a class="navbar-brand" href="/">
+          <img src="/assets/logo_burned.png" height="60px" width="50px">
+        </a>
     </div>
 
   <div class="collapse navbar-collapse" id="navbar-collapse-1">
@@ -56,9 +58,9 @@
       {% endunless %}
 
       {% unless page.url contains "/de/" %}
-<!--       <li class="nav-item">
-        <a class="nav-link" href="/de/">Deutsch <img src="../assets/de.svg"></a>
-      </li> -->
+      <li class="nav-item">
+        <a class="nav-link" onclick="alert('Leider ist die deutsche Version dieser Internetseite noch nicht verfügbar. Dies wird bald online sein. Sie können sich bereits registrieren. Verwenden Sie dazu den Button \'Inschrijven\' \n \nGrüße, Team HorsePowerRun')">Deutsch <img src="../assets/de.svg"></a>
+      </li>
       {% endunless %}
     </ul>
   </div>
