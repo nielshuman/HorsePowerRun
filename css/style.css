@@ -37,17 +37,13 @@
   padding: 3vh;
 }
 
-/*content*/
 
 section {padding: 50px 0;}
-
-
-
-/*footer*/
 
 html {
     position: relative;
     min-height: 100%;
+    scroll-behavior: smooth;
 }
 body {
     margin: 0 0 100px;
