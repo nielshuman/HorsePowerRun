@@ -7,7 +7,7 @@
 	request.open("GET", url, true);
 	request.onload = () => {
 	    if (request.status != 200) return;
-	    document.getElementById('#participants-table').innerHTML = buildTable(request.response);
+	    document.getElementById('participants-table').innerHTML = buildTable(request.response);
 	};
 
 	request.send();
