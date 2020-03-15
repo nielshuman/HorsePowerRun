@@ -4,11 +4,20 @@ title: Links
 ---
 ## Vrienden van de HorsePowerRun
 
-![advertentie HP-run nieuw.JPG]({{site.baseurl}}/nl/advertentie HP-run nieuw.JPG =200px)
+![advertentie HP-run nieuw.JPG]({{site.baseurl}}/nl/advertentie HP-run nieuw.JPG 
 
-Bert Pol Vintage Motorcycles
+![auto_louwes.jpg]({{site.baseurl}}/nl/auto_louwes.jpg)
 
+![IMG_6829.JPG]({{site.baseurl}}/nl/IMG_6829.JPG
 
-![IMG_6829.JPG]({{site.baseurl}}/nl/IMG_6829.JPG =200z)
+![yesterdays.jpg]({{site.baseurl}}/nl/yesterdays.jpg)
 
-Innomatica 
+![powerplus.jpg]({{site.baseurl}}/nl/powerplus.jpg)
+
+![smederij_krist.jpg]({{site.baseurl}}/nl/smederij_krist.jpg)
+
+![VanBergen.jpg]({{site.baseurl}}/nl/VanBergen.jpg)
+
+![Logo_MotoPort.png]({{site.baseurl}}/nl/Logo_MotoPort.png)
+
+![motorrijwiel.jpg]({{site.baseurl}}/nl/motorrijwiel.jpg)
