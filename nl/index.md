@@ -9,7 +9,7 @@ In verband met de coronacrisis hebben wij helaas moeten besluiten dat er geen Ho
 Hetzelfde geldt overigens voor [Rondom Gees](http://rondomgees.nl).  
 
 De 39e editie van de HorsePowerRun zal daarom plaatsvinden op **Zondag 18 April 2021**.
-
+Wij hopen u allen dan in goede gezondheid te kunnen begroeten!
 
 ### Oproep:
 Een evenement als het onze kan niet zonder vrijwilligers. Daarom zijn we op zoek naar nieuwe, enthousiaste mensen. Het gaat daarbij vooral om werkzaamheden op de dag zelf: verkeersregelaars, verkopers van programmaboekjes, bemanning voor de bezemwagen, etc.
