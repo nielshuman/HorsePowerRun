@@ -4,11 +4,11 @@ title: Links
 ---
 ## Vrienden van de HorsePowerRun
 
-![advertentie HP-run nieuw.JPG]({{site.baseurl}}/nl/advertentie HP-run nieuw.JPG 
+![advertentie HP-run nieuw.JPG]({{site.baseurl}}/nl/advertentie HP-run nieuw.JPG)
 
 ![auto_louwes.jpg]({{site.baseurl}}/nl/auto_louwes.jpg)
 
-![IMG_6829.JPG]({{site.baseurl}}/nl/IMG_6829.JPG
+![IMG_6829.JPG]({{site.baseurl}}/nl/IMG_6829.JPG)
 
 ![yesterdays.jpg]({{site.baseurl}}/nl/yesterdays.jpg)
 
