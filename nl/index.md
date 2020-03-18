@@ -3,7 +3,7 @@ layout: title
 title: Home
 published: true
 ---
-# Home
+# De HPR 2020 is afgelast!
 
 In verband met de coronacrisis hebben wij helaas moeten besluiten dat er geen HorsePowerRun zal zijn in 2020.
 Hetzelfde geldt overigens voor [Rondom Gees](http://rondomgees.nl).  
