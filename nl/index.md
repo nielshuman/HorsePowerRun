@@ -3,12 +3,11 @@ layout: title
 title: Home
 published: true
 ---
-# De HPR 2020 is afgelast!
+# De HPR 2020 is afgelast in verband met de Corona-crisis!
 
-In verband met de coronacrisis hebben wij helaas moeten besluiten dat er geen HorsePowerRun zal zijn in 2020.
-Hetzelfde geldt overigens voor [Rondom Gees](http://rondomgees.nl).  
+Om toch een beetje het juiste HorsePowerRun-gevoel te krijgen kunt u <hier> een documentaire over de 10e editie (1990) bekijken!
 
-De 39e editie van de HorsePowerRun zal daarom plaatsvinden op **Zondag 18 April 2021**.
+De 39e editie van de HorsePowerRun zal plaatsvinden op **Zondag 18 April 2021**.
 Wij hopen u allen dan in goede gezondheid te kunnen begroeten!
 
 ### Oproep:
