@@ -1,68 +1,30 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top" role="navigation">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="navbar-toggler-icon"></span>
-      </button>
-        <a class="navbar-brand" href="/">
-          <img src="/assets/logo_burned.png" height="60px" width="50px">
-        </a>
-    </div>
+<div class="navbar navbar-inverse headroom">
+	<div class="container">
+		
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+			<a class="navbar-brand" href="/index.html"><img src="/assets/images/logo.png"></a>
+		</div>
 
-  <div class="collapse navbar-collapse" id="navbar-collapse-1">
-    <ul class="navbar-nav mr-auto">
 
-      {% if page.url contains "/nl/" %}
-        {% for item in site.data.nav %}
-          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
-            </a>
-          </li>
-        {% endfor %}
-      {% endif %}
+		<div class="navbar-collapse collapse">
+			<ul class="nav navbar-nav pull-right">
+				{% for p in site.pages %}
+					<li class="active"><a href="#">Home</a></li>
+				{% endfor %}
+				<li><a href="about.html">About</a></li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li><a href="sidebar-left.html">Left Sidebar</a></li>
+						<li class="active"><a href="sidebar-right.html">Right Sidebar</a></li>
+					</ul>
+				</li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
+			</ul>
+		</div>
 
-      {% if page.url contains "/en/" %}
-        {% for item in site.data.nav-en %}
-          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
-            </a>
-          </li>
-        {% endfor %}
-      {% endif %}
-
-      {% if page.url contains "/de/" %}
-        {% for item in site.data.nav-de %}
-          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
-            </a>
-          </li>
-        {% endfor %}
-      {% endif %}
-
-    </ul>
-    <ul class="navbar-nav ml-auto">
-      {% unless page.url contains "/nl/" %}
-      <li class="nav-item">
-        <a class="nav-link" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
-      </li>
-      {% endunless %}
-
-      {% unless page.url contains "/en/" %}
-      <li class="nav-item">
-        <a class="nav-link" href="/en/">English <img src="../assets/en.svg"></a>
-      </li>
-      {% endunless %}
-
-      {% unless page.url contains "/de/" %}
-      <li class="nav-item">
-        <a class="nav-link" onclick="alert('Aufgrund des Corona-Virus haben wir beschlossen der HorsePowerRun dieses Jahr nicht durch zu führen.\nDies gilt auch für RondomGees am 18. April 2020.\nDeshalb wird die 39. Ausgabe erst am 18. April 2021 geritten. Wir bedauern das sehr, aber hoffen Sie bei guter Gesundheit begrüßen zu dürfen.\nDie von Ihnen entrichtete Teilnamegebühr wird zurückerstattet. \nGrüße, Team HorsePowerRun')">Deutsch <img src="../assets/de.svg"></a>
-      </li>
-      {% endunless %}
-    </ul>
-  </div>
-</div>
-</nav>
+		
+	</div>
+</div> 
