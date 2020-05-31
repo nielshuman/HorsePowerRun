@@ -7,14 +7,14 @@ sections:
 - type: heading
   label: Pagina's
 - type: directory
-  path: en
-  label: Engels
+  path: nl
+  label: Nederlands
   create: all
   match: "**/*.md"
   new_doc_ext: md
 - type: directory
-  path: nl
-  label: Nederlands
+  path: en
+  label: Engels
   create: all
   match: "**/*.md"
   new_doc_ext: md
