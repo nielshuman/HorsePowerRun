@@ -16,7 +16,7 @@
 /*header*/
 
 #banner {
-  background-image: url('/assets/banner.jpg');
+  background-image: url('/assets/img/banner.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -82,3 +82,5 @@ th {
   background-color: #4CAF50;
   color: white;
 }
+
+.headroom{-webkit-transition:all .4s ease-out;-moz-transition:all .4s ease-out;-o-transition:all .4s ease-out;transition:all .4s ease-out}img{max-width:100%}img.pull-right{margin-left:10px}img.pull-left{margin-right:10px}.sidebar{padding-top:36px;padding-bottom:30px}

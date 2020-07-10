@@ -6,7 +6,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
         <a class="navbar-brand" href="/">
-          <img src="/assets/logo_burned.png" height="60px" width="50px">
+          <img src="/assets/img/logo_burned.png" height="60px" width="50px">
         </a>
     </div>
 
@@ -14,32 +14,38 @@
     <ul class="navbar-nav mr-auto">
 
       {% if page.url contains "/nl/" %}
-        {% for item in site.data.nav %}
-          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+        {% for p in site.pages %}
+            {% if p.url contains "/nl/" %}
+          <li class="nav-item{% if page.title == p.title %} active{% endif %}">
+            <a class="nav-link" href="{{ p.url }}"> {{ p.title }}
+            {% if page.title == p.title %} <span class="sr-only">(current)</span> {% endif %}
             </a>
           </li>
+            {% endif %}
         {% endfor %}
       {% endif %}
 
       {% if page.url contains "/en/" %}
-        {% for item in site.data.nav-en %}
-          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+        {% for p in site.pages %}
+            {% if p.url contains "/en/" %}
+          <li class="nav-item{% if page.title == p.title %} active{% endif %}">
+            <a class="nav-link" href="{{ p.url }}"> {{ p.title }}
+            {% if page.title == p.title %} <span class="sr-only">(current)</span> {% endif %}
             </a>
           </li>
+            {% endif %}
         {% endfor %}
       {% endif %}
 
       {% if page.url contains "/de/" %}
-        {% for item in site.data.nav-de %}
-          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+        {% for p in site.pages %}
+            {% if p.url contains "/de/" %}
+          <li class="nav-item{% if page.title == p.title %} active{% endif %}">
+            <a class="nav-link" href="{{ p.url }}"> {{ p.title }}
+            {% if page.title == p.title %} <span class="sr-only">(current)</span> {% endif %}
             </a>
           </li>
+            {% endif %}
         {% endfor %}
       {% endif %}
 
@@ -47,19 +53,19 @@
     <ul class="navbar-nav ml-auto">
       {% unless page.url contains "/nl/" %}
       <li class="nav-item">
-        <a class="nav-link" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
+        <a class="nav-link" href="/nl/">Nederlands <img src="../assets/img/nl.svg"></a>
       </li>
       {% endunless %}
 
       {% unless page.url contains "/en/" %}
       <li class="nav-item">
-        <a class="nav-link" href="/en/">English <img src="../assets/en.svg"></a>
+        <a class="nav-link" href="/en/">English <img src="../assets/img/en.svg"></a>
       </li>
       {% endunless %}
 
       {% unless page.url contains "/de/" %}
       <li class="nav-item">
-        <a class="nav-link" onclick="alert('Aufgrund des Corona-Virus haben wir beschlossen der HorsePowerRun dieses Jahr nicht durch zu führen.\nDies gilt auch für RondomGees am 18. April 2020.\nDeshalb wird die 39. Ausgabe erst am 18. April 2021 geritten. Wir bedauern das sehr, aber hoffen Sie bei guter Gesundheit begrüßen zu dürfen.\nDie von Ihnen entrichtete Teilnamegebühr wird zurückerstattet. \nGrüße, Team HorsePowerRun')">Deutsch <img src="../assets/de.svg"></a>
+        <a class="nav-link" onclick="alert('Aufgrund des Corona-Virus haben wir beschlossen der HorsePowerRun dieses Jahr nicht durch zu führen.\nDies gilt auch für RondomGees am 18. April 2020.\nDeshalb wird die 39. Ausgabe erst am 18. April 2021 geritten. Wir bedauern das sehr, aber hoffen Sie bei guter Gesundheit begrüßen zu dürfen.\nDie von Ihnen entrichtete Teilnamegebühr wird zurückerstattet. \nGrüße, Team HorsePowerRun')">Deutsch <img src="../assets/img/de.svg"></a>
       </li>
       {% endunless %}
     </ul>
