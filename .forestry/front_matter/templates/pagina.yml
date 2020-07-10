@@ -15,6 +15,7 @@ fields:
     website.
   default: true
 pages:
+- en/contact.md
 - en/index.md
 - en/info.md
 - en/photos.md
