@@ -29,6 +29,9 @@ defaults:
     values:
       layout: "default"
 
+plugins:
+- jekyll-menus
+
 prose:
   ignore:
     - _config.yml
