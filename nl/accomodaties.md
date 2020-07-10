@@ -1,6 +1,6 @@
 ---
 title: Accomodaties
-published: true
+published: false
 
 ---
 # Accomodaties
