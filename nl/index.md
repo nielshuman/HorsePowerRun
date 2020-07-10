@@ -1,7 +1,7 @@
 ---
 layout: title
 title: Home
-published: false
+published: true
 
 ---
 # De HPR 2020 is afgelast in verband met de Corona-crisis!
