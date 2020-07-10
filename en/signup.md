@@ -1,6 +1,6 @@
 ---
 title: Sign Up
-published: true
+published: false
 
 ---
 {% include formulier.html %}
