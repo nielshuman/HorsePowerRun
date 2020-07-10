@@ -4,20 +4,12 @@ title: Links
 ---
 ## Vrienden van de HorsePowerRun:
 
-![auto]({{site.baseurl}}/nl/auto_louwes.jpg)
-
-![IMG]({{site.baseurl}}/nl/IMG_6829.JPG)
-
-![yesterdays.jpg]({{site.baseurl}}/nl/yesterdays.jpg)
-
-![powerplus.jpg]({{site.baseurl}}/nl/powerplus.jpg)
-
-![smederij]({{site.baseurl}}/nl/smederij_krist.jpg)
-
-![VanBergen.jpg]({{site.baseurl}}/nl/VanBergen.jpg)
-
-![Logo]({{site.baseurl}}/nl/Logo_MotoPort.png)
-
-![motorrijwiel.jpg]({{site.baseurl}}/nl/motorrijwiel.jpg)
-
-![advertentie HP-run nieuw.JPG]({{site.baseurl}}/nl/advertentie HP-run nieuw.JPG)
+![](/assets/img/auto_louwes.jpg)
+![](/assets/img/img_6829.JPG)
+![](/assets/img/yesterdays.jpg)
+![](/assets/img/powerplus.jpg)
+![](/assets/img/smederij_krist.jpg)
+![](/assets/img/vanbergen.jpg)
+![](/assets/img/motorrijwiel.jpg)
+![](/assets/img/logo_motoport.png)
+![](/assets/img/advertentie-hp-run-nieuw.JPG)
