@@ -16,3 +16,4 @@ fields:
   default: true
 pages:
 - nl/index.md
+- nl/inschrijven.md
