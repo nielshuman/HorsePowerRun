@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <!--
 <div class="navbar navbar-inverse headroom">
 	<div class="container">
@@ -30,11 +31,19 @@
 	</div>
 </div> -->
 
+=======
+>>>>>>> Stashed changes
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
       <a class="navbar-brand" href="#">Expand at md</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
+<<<<<<< Updated upstream
+=======
+
+  <div class="collapse navbar-collapse" id="navbar-collapse-1">
+    <ul class="navbar-nav mr-auto">
+>>>>>>> Stashed changes
 
       <div class="navbar-collapse collapse" id="navbarsExample04" style="">
         <ul class="navbar-nav mr-auto">
@@ -47,6 +56,7 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Link</a>
           </li>
+<<<<<<< Updated upstream
           <li class="nav-item">
             <a class="nav-link disabled" href="#">Disabled</a>
           </li>
@@ -60,4 +70,30 @@
           </li>
         </ul>
       </div>
+=======
+        {% endfor %}
+      {% endif %}
+
+    </ul>
+    <ul class="navbar-nav ml-auto">
+      {% unless page.url contains "/nl/" %}
+      <li class="nav-item">
+        <a class="nav-link" href="/nl/">Nederlands <img src="../assets/nl.svg"></a>
+      </li>
+      {% endunless %}
+
+      {% unless page.url contains "/en/" %}
+      <li class="nav-item">
+        <a class="nav-link" href="/en/">English <img src="../assets/en.svg"></a>
+      </li>
+      {% endunless %}
+
+      {% unless page.url contains "/de/" %}
+      <li class="nav-item">
+        <a class="nav-link" onclick="alert('Aufgrund des Corona-Virus haben wir beschlossen der HorsePowerRun dieses Jahr nicht durch zu führen.\nDies gilt auch für RondomGees am 18. April 2020.\nDeshalb wird die 39. Ausgabe erst am 18. April 2021 geritten. Wir bedauern das sehr, aber hoffen Sie bei guter Gesundheit begrüßen zu dürfen.\nDie von Ihnen entrichtete Teilnamegebühr wird zurückerstattet. \nGrüße, Team HorsePowerRun')">Deutsch <img src="../assets/de.svg"></a>
+      </li>
+      {% endunless %}
+    </ul>
+  </div>
+>>>>>>> Stashed changes
     </nav>
