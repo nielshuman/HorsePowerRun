@@ -1,6 +1,6 @@
 ---
 title: Video 10e HPR
-published: false
+published: true
 
 ---
 {% include video.html %}
