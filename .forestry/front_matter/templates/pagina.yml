@@ -15,6 +15,7 @@ fields:
     website.
   default: true
 pages:
+- en/places.md
 - en/signup.md
 - nl/accomodaties.md
 - nl/contact.md
