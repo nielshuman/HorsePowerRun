@@ -4,12 +4,18 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
+- type: directory
+  path: en
+  label: Engels
+  create: documents
+  match: "**/*.md"
+  new_doc_ext: ".md"
+- type: directory
+  path: nl
+  label: Nederlands
+  create: documents
+  match: "**/*.md"
+  new_doc_ext: ".md"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
