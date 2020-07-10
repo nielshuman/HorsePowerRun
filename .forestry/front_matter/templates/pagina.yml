@@ -1,0 +1,31 @@
+---
+label: Pagina
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titel
+  description: Titel van de pagina
+- name: published
+  type: boolean
+  label: Actief
+  description: Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
+    website.
+  default: true
+pages:
+- en/contact.md
+- en/index.md
+- en/info.md
+- en/photos.md
+- en/places.md
+- en/signup.md
+- nl/accomodaties.md
+- nl/contact.md
+- nl/deelnemers.md
+- nl/fotos.md
+- nl/index.md
+- nl/info.md
+- nl/inschrijven.md
+- nl/video.md
