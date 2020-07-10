@@ -15,6 +15,7 @@ fields:
     website.
   default: true
 pages:
+- nl/accomodaties.md
 - nl/index.md
 - nl/inschrijven.md
 - nl/video.md
