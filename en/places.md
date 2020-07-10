@@ -1,6 +1,6 @@
 ---
 title: Places to stay
-published: true
+published: false
 
 ---
 # Places to stay
