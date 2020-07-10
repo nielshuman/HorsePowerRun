@@ -1,6 +1,6 @@
 ---
 title: Inschrijven
-published: true
+published: false
 
 ---
 {% include formulier.html %}
