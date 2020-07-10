@@ -1,76 +1,41 @@
-<<<<<<< Updated upstream
-<!--
-<div class="navbar navbar-inverse headroom">
-	<div class="container">
-		
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-			<a class="navbar-brand" href="/index.html"><img src="/assets/img/logo.png"></a>
-		</div>
-
-
-		<div class="navbar-collapse collapse">
-			<ul class="nav navbar-nav pull-right">
-				{% for p in site.pages %}
-					<li class="active"><a href="#">Home</a></li>
-				{% endfor %}
-				<li><a href="about.html">About</a></li>
-				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
-					<ul class="dropdown-menu">
-						<li><a href="sidebar-left.html">Left Sidebar</a></li>
-						<li class="active"><a href="sidebar-right.html">Right Sidebar</a></li>
-					</ul>
-				</li>
-				<li><a href="contact.html">Contact</a></li>
-				<li><a class="btn" href="signin.html">SIGN IN / SIGN UP</a></li>
-			</ul>
-		</div>
-
-		
-	</div>
-</div> -->
-
-=======
->>>>>>> Stashed changes
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-      <a class="navbar-brand" href="#">Expand at md</a>
+              <a class="navbar-brand" href="/">
+          <img src="/assets/logo_burned.png" height="60px" width="50px">
+        </a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-<<<<<<< Updated upstream
-=======
 
-  <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <div class="collapse navbar-collapse" id="navbar-collapse-1">
     <ul class="navbar-nav mr-auto">
->>>>>>> Stashed changes
 
-      <div class="navbar-collapse collapse" id="navbarsExample04" style="">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <button class="btn btn-outline-light my-2 my-sm-0">Inschrijven</button>
+      {% if page.url contains "/nl/" %}
+        {% for item in site.data.nav %}
+          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
+            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+            </a>
           </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        {% endfor %}
+      {% endif %}
+
+      {% if page.url contains "/en/" %}
+        {% for item in site.data.nav-en %}
+          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
+            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+            </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+        {% endfor %}
+      {% endif %}
+
+      {% if page.url contains "/de/" %}
+        {% for item in site.data.nav-de %}
+          <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
+            {% if page.title == item.name %} <span class="sr-only">(current)</span> {% endif %}
+            </a>
           </li>
-<<<<<<< Updated upstream
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown04">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
-        </ul>
-      </div>
-=======
         {% endfor %}
       {% endif %}
 
@@ -95,5 +60,4 @@
       {% endunless %}
     </ul>
   </div>
->>>>>>> Stashed changes
-    </nav>
+</nav>
