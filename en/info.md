@@ -1,6 +1,7 @@
 ---
 title: Information for participants
 published: true
+
 ---
 ## The HPR 2020 has been canceled. All paid fees will be refunded.
 
