@@ -4,10 +4,8 @@ title: Home
 published: true
 
 ---
-# The HPR 2020 has been canceled. 
-**Due to the the Corona virus we have decided to cancel the HorsePowerRun, scheduled to take place on April 19th, 2020.**
+# The HPR 2020 and COVID:
 
-This same is true for [RondomGees](rondomgees.nl) on April 18, 2020.
+**Due to the ongoing Corona pandemic we still do not know if there will be a 2021 HPR event.  We are still hoping to be able to organize the run on Sunday 18-04-2021.**
 
-
-Therefore the 39th HorsepowerRun will now take place on Sunday April 18th, 2021. We regret this situation, but hope to meet you all then in good health!
+Together with the [RondomGees](rondomgees.nl) event, we are looking at alternative ways to organise a safe event. We will keep you updated on this site.
