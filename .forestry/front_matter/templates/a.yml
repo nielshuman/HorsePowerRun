@@ -1,16 +1,31 @@
 ---
-label: a
+label: Homepagina met aftelklok (EN)
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: layout
   label: layout
+  default: title
+  hidden: true
 - type: text
   name: title
-  label: title
-- type: datetime
-  name: countdown_date
-  label: countdown_date
+  label: Titel
+  description: Titel van de pagina
+  default: Home
 - type: boolean
   name: published
-  label: published
+  label: Actief
+  description: 'Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
+    website.<br>LET OP: Als je de homepagina deactiveert, is de site (in die taal)
+    niet bereikbaar.'
+  default: true
+- type: datetime
+  name: countdown_date
+  label: Afteldatum
+  description: De datum waarnaar afgeteld moet worden.
+  config:
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
+    export_format: YYYY-MM-DD hh:mm
+    required: true
