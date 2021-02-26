@@ -7,6 +7,12 @@ sections:
 - type: heading
   label: Pagina's
 - type: directory
+  path: de
+  label: Duits
+  create: documents
+  match: "**/*.md"
+  new_doc_ext: ".md"
+- type: directory
   path: en
   label: Engels
   create: documents
@@ -19,7 +25,7 @@ sections:
   match: "**/*.md"
   new_doc_ext: md
 - type: document
-  path: _config.yaml
+  path: _config.yml
   label: Config
 upload_dir: assets/img
 public_path: "/assets/img"
