@@ -14,6 +14,13 @@ fields:
   description: Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
     website.
   default: true
+- name: menus
+  type: text
+  config:
+    required: false
+  label: menus
+  hidden: true
+  default: nav_nl
 pages:
 - en/contact.md
 - en/index.md
