@@ -15,21 +15,12 @@ fields:
     website.
   default: true
 - name: menus
-  type: select
-  default: ''
+  type: text
   config:
     required: false
-    options:
-    - en
-    - nl
-    - de
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Taal
-  description: In welk deel van de HPR site de pagina moet zijn.
+  label: menus
+  hidden: true
+  default: nav_nl
 pages:
 - en/contact.md
 - en/index.md
