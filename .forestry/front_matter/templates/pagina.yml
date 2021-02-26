@@ -24,7 +24,6 @@ fields:
   default: nav_nl
 pages:
 - en/contact.md
-- en/info.md
 - nl/accomodaties.md
 - nl/contact.md
 - nl/deelnemers.md
