@@ -23,5 +23,6 @@ fields:
   hidden: true
   default: nav_en
 pages:
+- en/photos.md
 - en/places.md
 - en/signup.md

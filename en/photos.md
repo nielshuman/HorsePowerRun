@@ -1,5 +1,7 @@
 ---
-title: Photo's
+title: Photo'sz
+published: false
+menu: nav_en
 
 ---
 # Photo's
