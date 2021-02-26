@@ -24,7 +24,6 @@ fields:
   default: nav_nl
 pages:
 - en/contact.md
-- en/index.md
 - en/info.md
 - en/photos.md
 - en/places.md
