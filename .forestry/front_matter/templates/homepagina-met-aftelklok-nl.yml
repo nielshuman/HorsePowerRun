@@ -26,8 +26,8 @@ fields:
   config:
     required: false
     date_format: DD/MM/YYYY
-    time_format: 'hh:mm A '
+    time_format: ''
     display_utc: false
-    export_format: 'YYYY-MM-DD hh:mm '
+    export_format: YYYY-MM-DD h:mm A
 pages:
 - nl/index.md
