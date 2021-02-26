@@ -1,5 +1,7 @@
 ---
-title: Deelnemers
+title: Deelnemersz
+published: false
+menu: ''
 
 ---
 # Deelnemers
