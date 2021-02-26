@@ -14,6 +14,22 @@ fields:
   description: Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
     website.
   default: true
+- name: menus
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - en
+    - nl
+    - de
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Taal
+  description: In welk deel van de HPR site de pagina moet zijn.
 pages:
 - en/contact.md
 - en/index.md
