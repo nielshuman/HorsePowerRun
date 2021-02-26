@@ -2,7 +2,6 @@
 layout: title
 title: Home
 published: true
-menus: ''
 menu:
   nav_en:
     weight: 5

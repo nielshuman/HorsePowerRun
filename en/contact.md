@@ -1,7 +1,6 @@
 ---
 title: Contact Us
 published: true
-menus: ''
 
 ---
 # Contact Us
