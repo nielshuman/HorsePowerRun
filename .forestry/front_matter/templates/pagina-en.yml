@@ -22,3 +22,5 @@ fields:
   label: menus
   hidden: true
   default: nav_en
+pages:
+- en/signup.md
