@@ -4,7 +4,7 @@ published: true
 menus: ''
 menu:
   nav_nl:
-    weight: 5
+    weight: 6
 
 ---
 # Foto's

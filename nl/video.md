@@ -4,7 +4,7 @@ published: true
 menus: ''
 menu:
   nav_nl:
-    weight: 1
+    weight: 2
 
 ---
 {% include video.html %}
