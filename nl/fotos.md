@@ -3,7 +3,8 @@ title: Foto's
 published: true
 menus: ''
 menu:
-  nav_nl: {}
+  nav_nl:
+    weight: 6
 
 ---
 # Foto's

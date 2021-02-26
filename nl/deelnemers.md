@@ -1,7 +1,9 @@
 ---
 title: Deelnemers
+menu:
+  nav_nl:
+    weight: 9
 published: false
-menus: nav_nl
 
 ---
 # Deelnemers

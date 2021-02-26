@@ -1,7 +1,9 @@
 ---
 title: Informatie voor deelnemers
+menu:
+  nav_nl:
+    weight: 5
 published: false
-menus: nav_nl
 
 ---
 ## De HPR 2020 is afgelast i.v.m. de Coronacrises. De betaalde inschrijfgelden zullen worden teruggestort.

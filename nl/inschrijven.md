@@ -1,7 +1,9 @@
 ---
 title: Inschrijven
+menu:
+  nav_nl:
+    weight: 4
 published: false
-menus: nav_nl
 
 ---
 {% include formulier.html %}

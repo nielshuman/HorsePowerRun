@@ -4,7 +4,8 @@ title: Home
 published: true
 menus: ''
 menu:
-  nav_en: {}
+  nav_en:
+    weight: 5
 
 ---
 # The HPR 2020 and COVID:
