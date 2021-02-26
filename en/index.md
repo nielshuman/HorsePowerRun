@@ -1,7 +1,9 @@
 ---
 layout: title
 title: Home
-countdown_date: 2021-02-27 07:00
+countdown_date: 2021-04-18 09:00
+published: true
+menu: ''
 
 ---
 # The HPR 2020 and COVID:
