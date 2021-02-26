@@ -1,6 +1,6 @@
 ---
 title: Photo'sz
-published: false
+published: true
 menu: nav_en
 
 ---
