@@ -3,7 +3,6 @@ layout: title
 title: Home
 countdown_date: 2021-04-18 08:00
 
-
 ---
 # HPR 2021 en de Corona-crisis:
 
