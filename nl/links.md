@@ -4,7 +4,7 @@ published: true
 menus: ''
 menu:
   nav_nl:
-    weight: 9
+    weight: 8
 
 ---
 ## Vrienden van de HorsePowerRun:

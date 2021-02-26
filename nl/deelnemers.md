@@ -2,7 +2,7 @@
 title: Deelnemers
 menu:
   nav_nl:
-    weight: 8
+    weight: 7
 published: false
 
 ---
