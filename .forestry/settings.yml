@@ -11,7 +11,7 @@ sections:
   label: Duits
   create: documents
   match: "**/*.md"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
   path: en
   label: Engels
