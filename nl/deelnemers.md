@@ -1,6 +1,7 @@
 ---
 title: Deelnemers
 published: false
+menus: nav_nl
 
 ---
 # Deelnemers
