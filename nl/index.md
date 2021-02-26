@@ -2,7 +2,7 @@
 layout: title
 title: Home
 countdown_date: 2021-02-27 11:00
-published: false
+published: true
 menu:
   '': {}
   nav_nl: {}
