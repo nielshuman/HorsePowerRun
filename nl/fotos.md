@@ -1,5 +1,7 @@
 ---
-title: Foto's
+title: Foto'sa
+published: true
+menu: ''
 
 ---
 # Foto's
