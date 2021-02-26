@@ -1,5 +1,7 @@
 ---
-title: Contact Us
+title: Contact Usz
+published: true
+menu: nav_en
 
 ---
 # Contact Us
