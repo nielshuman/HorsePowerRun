@@ -1,7 +1,7 @@
 ---
 layout: title
 title: Home
-countdown_date: 2021-02-27 11:00
+countdown_date: 
 published: true
 menu:
   nav_nl:
