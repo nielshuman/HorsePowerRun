@@ -36,14 +36,5 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   </body>
   <script type="text/javascript" src="../assets/js/countdown.js"> </script>
-  <script type="text/javascript">
-  // countdown
-  const count_down_to = Math.floor(new Date("{% page.countdown_date %}").getTime() / 1000) // javascript not epoch but epoch + milisec
-
-  let flipclock = new FlipDown(count_down_to, 'countdown');
-  flipclock.start();
-
-  // hide seconds
-  flipclock.rotors[6].parentElement.style.display = 'none';
-</script>
+  {% include countdownscript.html %}
 </html>
