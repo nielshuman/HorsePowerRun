@@ -29,11 +29,11 @@ fields:
     time_format: hh:mm
     display_utc: false
     export_format: YYYY-MM-DD hh:mm
-- name: menus
+- name: menu
   type: text
   config:
     required: false
-  label: menus
+  label: menu
   default: nav_nl
   hidden: true
 pages:
