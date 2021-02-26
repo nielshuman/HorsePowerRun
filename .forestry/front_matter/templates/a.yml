@@ -37,4 +37,4 @@ fields:
   hidden: true
   default: nav_en
 pages:
-- en/home.md
+- en/in.md
