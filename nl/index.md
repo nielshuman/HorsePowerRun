@@ -2,7 +2,10 @@
 layout: title
 title: Home
 published: true
-menus: nav_nl
+menus: ''
+countdown_date: 
+menu:
+  nav_nl: {}
 
 ---
 # HPR 2021 en de Corona-crisis:

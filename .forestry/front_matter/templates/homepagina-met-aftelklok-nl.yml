@@ -29,3 +29,5 @@ fields:
     time_format: HH:MM
     display_utc: false
     export_format: DD-MM-YYYY h:mm
+pages:
+- nl/index.md
