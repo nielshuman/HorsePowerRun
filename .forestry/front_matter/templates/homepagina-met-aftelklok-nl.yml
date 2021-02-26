@@ -29,5 +29,12 @@ fields:
     time_format: hh:mm
     display_utc: false
     export_format: YYYY-MM-DD hh:mm
+- name: menus
+  type: text
+  config:
+    required: false
+  label: menus
+  default: nav_nl
+  hidden: true
 pages:
 - nl/index.md

@@ -29,5 +29,12 @@ fields:
     time_format: hh:mm
     export_format: YYYY-MM-DD hh:mm
     required: true
+- name: menus
+  type: text
+  config:
+    required: false
+  label: menus
+  hidden: true
+  default: nav_en
 pages:
 - en/index.md
