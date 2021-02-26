@@ -1,4 +1,24 @@
 ---
 label: Pagina (EN)
 hide_body: false
-fields: []
+fields:
+- name: titel
+  type: text
+  config:
+    required: true
+    min: 1
+  label: Titel
+  description: Titel van de pagina
+- name: published
+  type: boolean
+  label: Actief
+  description: Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
+    website.
+  default: true
+- name: menus
+  type: text
+  config:
+    required: false
+  label: menus
+  hidden: true
+  default: nav_en
