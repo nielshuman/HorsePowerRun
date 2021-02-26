@@ -1,7 +1,10 @@
 ---
 title: Contact
 published: true
-menus: nav_nl
+menus: ''
+menu:
+  nav_nl:
+    weight: 7
 
 ---
 # Contact

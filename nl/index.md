@@ -2,8 +2,10 @@
 layout: title
 title: Home
 countdown_date: 2021-02-27 11:00
-published: false
-menu: nav_nl
+published: true
+menu:
+  nav_nl:
+    weight: 1
 
 ---
 # HPR 2021 en de Corona-crisis:

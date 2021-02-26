@@ -1,7 +1,10 @@
 ---
 title: Video 10e HPR
 published: true
-menus: nav_nl
+menus: ''
+menu:
+  nav_nl:
+    weight: 2
 
 ---
 {% include video.html %}

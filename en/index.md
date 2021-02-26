@@ -2,7 +2,10 @@
 layout: title
 title: Home
 published: true
-menus: nav_en
+menus: ''
+menu:
+  nav_en:
+    weight: 5
 
 ---
 # The HPR 2020 and COVID:
