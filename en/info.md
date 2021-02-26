@@ -1,5 +1,5 @@
 ---
-title: Information for participants
+title: Information for participant
 published: false
 menu: nav_en
 
