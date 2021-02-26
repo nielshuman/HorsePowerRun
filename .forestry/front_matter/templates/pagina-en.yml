@@ -20,11 +20,10 @@ fields:
   config:
     required: false
   label: menu
-  hidden: true
+  hidden: false
   default: nav_en
 pages:
 - en/contact.md
 - en/info.md
 - en/photos.md
 - en/places.md
-- en/signup.md
