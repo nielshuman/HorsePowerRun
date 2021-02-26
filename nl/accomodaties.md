@@ -1,6 +1,7 @@
 ---
 title: Accomodaties
 published: false
+menus: nav_nl
 
 ---
 # Accomodaties

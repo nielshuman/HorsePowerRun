@@ -2,6 +2,7 @@
 layout: title
 title: Home
 published: true
+menus: nav_en
 
 ---
 # The HPR 2020 and COVID:

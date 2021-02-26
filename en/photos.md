@@ -1,6 +1,7 @@
 ---
 title: Photo's
 published: true
+menus: nav_en
 
 ---
 # Photo's

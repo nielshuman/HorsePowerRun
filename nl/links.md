@@ -1,6 +1,7 @@
 ---
 title: Links
 published: true
+menus: nav_nl
 
 ---
 ## Vrienden van de HorsePowerRun:

@@ -1,6 +1,7 @@
 ---
 title: Contact
 published: true
+menus: nav_nl
 
 ---
 # Contact
