@@ -3,6 +3,7 @@ layout: title
 title: Home
 countdown_date: 2021-04-18 08:00
 published: true
+menus: ''
 menu:
   nav_nl:
     weight: 1
