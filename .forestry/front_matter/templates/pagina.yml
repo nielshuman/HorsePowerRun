@@ -15,11 +15,11 @@ fields:
   description: Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
     website.
   default: true
-- name: menus
+- name: menu
   type: text
   config:
     required: false
-  label: menus
+  label: menu
   hidden: true
   default: nav_nl
 pages:
