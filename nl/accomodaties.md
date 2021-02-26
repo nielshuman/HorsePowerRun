@@ -1,5 +1,7 @@
 ---
-title: Accomodaties
+title: Accomodatiesz
+published: true
+menu: ''
 
 ---
 # Accomodaties

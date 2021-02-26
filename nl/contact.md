@@ -1,5 +1,7 @@
 ---
-title: Contact
+title: Contacts
+published: true
+menu: ''
 
 ---
 # Contact
