@@ -2,7 +2,7 @@
 title: Informatie voor deelnemers
 menu:
   nav_nl:
-    weight: 5
+    weight: 4
 published: false
 
 ---

@@ -5,7 +5,7 @@ countdown_date: 2021-04-18 08:00
 published: true
 menu:
   nav_nl:
-    weight: 1
+    weight: 6
 
 ---
 # HPR 2021 en de Corona-crisis:

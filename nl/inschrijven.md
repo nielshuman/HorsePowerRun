@@ -2,7 +2,7 @@
 title: Inschrijven
 menu:
   nav_nl:
-    weight: 4
+    weight: 3
 published: false
 
 ---

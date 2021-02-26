@@ -1,12 +1,13 @@
 ---
 layout: title
 title: Home
-published: false
-menus: ''
 countdown_date: 2021-02-27 07:00
 menu:
+  '':
+    weight: 1
   nav_en:
     weight: 5
+published: false
 
 ---
 # The HPR 2020 and COVID:
