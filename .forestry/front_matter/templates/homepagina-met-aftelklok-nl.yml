@@ -36,5 +36,3 @@ fields:
   label: menu
   default: nav_nl
   hidden: true
-pages:
-- nl/index.md
