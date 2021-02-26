@@ -1,5 +1,7 @@
 ---
-title: Video 10e HPR
+title: Video 10e HP
+published: true
+menu: ''
 
 ---
 {% include video.html %}
