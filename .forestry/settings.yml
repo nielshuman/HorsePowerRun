@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _config.yaml
-  label: Config
-  match: "**/*"
 - type: heading
   label: Pagina's
 - type: directory
@@ -22,6 +18,9 @@ sections:
   create: documents
   match: "**/*.md"
   new_doc_ext: md
+- type: document
+  path: _config.yaml
+  label: Config
 upload_dir: assets/img
 public_path: "/assets/img"
 front_matter_path: ''
