@@ -14,38 +14,32 @@
     <ul class="navbar-nav mr-auto">
 
       {% if page.url contains "/nl/" %}
-        {% for p in site.pages %}
-            {% if p.url contains "/nl/" %}
+        {% for p in site.menus.nav_nl %}
           <li class="nav-item{% if page.title == p.title %} active{% endif %}">
             <a class="nav-link" href="{{ p.url }}"> {{ p.title }}
             {% if page.title == p.title %} <span class="sr-only">(current)</span> {% endif %}
             </a>
           </li>
-            {% endif %}
         {% endfor %}
       {% endif %}
 
       {% if page.url contains "/en/" %}
-        {% for p in site.pages %}
-            {% if p.url contains "/en/" %}
+        {% for p in site.menus.nav_en %}
           <li class="nav-item{% if page.title == p.title %} active{% endif %}">
             <a class="nav-link" href="{{ p.url }}"> {{ p.title }}
             {% if page.title == p.title %} <span class="sr-only">(current)</span> {% endif %}
             </a>
           </li>
-            {% endif %}
         {% endfor %}
       {% endif %}
 
       {% if page.url contains "/de/" %}
-        {% for p in site.pages %}
-            {% if p.url contains "/de/" %}
+        {% for p in site.menus.nav_de %}
           <li class="nav-item{% if page.title == p.title %} active{% endif %}">
             <a class="nav-link" href="{{ p.url }}"> {{ p.title }}
             {% if page.title == p.title %} <span class="sr-only">(current)</span> {% endif %}
             </a>
           </li>
-            {% endif %}
         {% endfor %}
       {% endif %}
 
