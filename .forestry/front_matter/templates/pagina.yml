@@ -23,6 +23,7 @@ fields:
   hidden: true
   default: nav_nl
 pages:
+- nl/accomodaties.md
 - nl/contact.md
 - nl/foto-s.md
 - nl/informatie-voor-deelnemers.md
