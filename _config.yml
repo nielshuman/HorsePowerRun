@@ -29,18 +29,5 @@ defaults:
     values:
       layout: "default"
 
-
-prose:
-  ignore:
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /_functions
-    - /css
-    - /assets
-    - /js
-    - _redirects
-    - Gemfile
-    - Gemfile.lock
-    - .gitattributes
-    - .gitignore
+plugins:
+- jekyll-menus
