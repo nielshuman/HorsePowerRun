@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 published: true
-menus: ''
+menus: nav_en
 
 ---
 # Contact Us
