@@ -5,6 +5,27 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: title
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titel
+  default: Home
+  description: Titel van de pagina.
+- name: published
+  type: boolean
+  label: Actief
+  description: 'Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
+    website.<br>LET OP: Als je de homepagina deactiveert, is de site (in die taal)
+    niet bereikbaar.'
+  default: true
+- name: countdown_date
+  type: datetime
+  label: Afteldatum
+  description: De datum waarnaar afgeteld moet worden.
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: HH:MM
+    display_utc: false
+    export_format: DD-MM-YYYY h:mm
