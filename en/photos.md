@@ -1,7 +1,8 @@
 ---
-title: Photo'sz
+title: Photo's
 published: true
-menu: nav_en
+menu:
+  nav_en: {}
 
 ---
 # Photo's
