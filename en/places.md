@@ -1,7 +1,8 @@
 ---
-title: Places to sta
+title: Places to stay
 published: false
-menu: nav_en
+menu:
+  nav_en: {}
 
 ---
 # Places to stay
