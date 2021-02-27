@@ -1,7 +1,8 @@
 ---
-title: Information for participant
+title: Information for participants
 published: false
-menu: nav_en
+menu:
+  nav_en: {}
 
 ---
 ## The HPR 2020 has been canceled. All paid fees will be refunded.
