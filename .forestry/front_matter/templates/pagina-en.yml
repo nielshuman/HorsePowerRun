@@ -20,7 +20,7 @@ fields:
   config:
     required: false
   label: menu
-  hidden: false
+  hidden: true
   default: nav_en
 pages:
 - en/contact.md
