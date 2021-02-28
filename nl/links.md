@@ -1,6 +1,6 @@
 ---
-published: true
 title: Links
+published: true
 menu:
   nav_nl:
     weight: 2
