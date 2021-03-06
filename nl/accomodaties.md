@@ -1,5 +1,6 @@
 ---
 title: Accomodaties
+published: false
 menu:
   nav_nl:
     weight: 8
