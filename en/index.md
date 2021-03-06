@@ -1,7 +1,6 @@
 ---
 layout: title
 title: Home
-published: true
 countdown_date: 2021-04-17 09:00
 menu:
   nav_en:

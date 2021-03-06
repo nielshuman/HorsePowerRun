@@ -2,7 +2,8 @@
 title: Contact Us
 published: true
 menu:
-  nav_en: {}
+  nav_en:
+    weight: 6
 
 ---
 # Contact Us

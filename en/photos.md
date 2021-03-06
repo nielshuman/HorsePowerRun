@@ -2,7 +2,8 @@
 title: Photo's
 published: true
 menu:
-  nav_en: {}
+  nav_en:
+    weight: 4
 
 ---
 # Photo's
