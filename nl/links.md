@@ -3,7 +3,7 @@ title: Links
 published: true
 menu:
   nav_nl:
-    weight: 3
+    weight: 4
 
 ---
 ## Vrienden van de HorsePowerRun:
