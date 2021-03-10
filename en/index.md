@@ -5,7 +5,7 @@ countdown_date: 2021-04-18 05:00
 published: true
 menu:
   nav_en:
-    weight: 2
+    weight: 1
 
 ---
 # The HPR 2020 and COVID:
