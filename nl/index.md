@@ -14,7 +14,7 @@ Helaas hebben we nog steeds te maken met de gevolgen van het coronavirus en is h
 
 Er wordt door het bestuur, in overleg met de organisatie van Rondom Gees, gekeken naar mogelijke aanpassingen.
 
-Indien mogelijk zal de 39e editie van de HorsePowerRun plaatsvinden op **Zondag 18 April 2021**. Als u van plan bent mee te doen kunt u zich nu aanmelden voor onze voorlopige inschrijving.
+Indien mogelijk zal de 39e editie van de HorsePowerRun plaatsvinden op **Zondag 18 April 2021**. Als u van plan bent mee te doen kunt u zich nu aanmelden via onze voorlopige inschrijving.
 
 Op dit moment zijn onze vaste startlocatie en de beoogde pauzelocaties helaas nog gesloten, maar mogelijk volgen de komende weken versoepelingen en kunnen we de HPR alsnog door laten gaan. Nadere info volgt zo spoedig mogelijk!
 
