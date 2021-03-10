@@ -2,6 +2,7 @@
 layout: title
 title: Home
 countdown_date: 2021-04-17 09:00
+published: false
 menu:
   nav_en:
     weight: 2
@@ -11,4 +12,4 @@ menu:
 
 **Due to the ongoing Corona pandemic we still do not know if there will be a 2021 HPR event.  We are still hoping to be able to organize the run on Sunday 18-04-2021.**
 
-Together with the [RondomGees](rondomgees.nl) event, we are looking at alternative ways to organise a safe event. We will keep you updated on this site.
+Together with the [RondomGees](rondomgees.nl) event, we are looking at alternative ways to organise a safe event. Unfortunately at this moment there is still a 10 days quarantine requirement for foreign vistotors. We will keep you updated on this site.
