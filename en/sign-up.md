@@ -1,6 +1,6 @@
 ---
 title: Sign Up
-published: true
+published: false
 menu:
   nav_en:
     weight: 2
