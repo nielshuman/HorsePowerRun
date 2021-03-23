@@ -8,15 +8,11 @@ menu:
     weight: 1
 
 ---
-# HPR 2021 en de Corona-crisis:
+# HPR 2021 afgelast:
 
-Helaas hebben we nog steeds te maken met de gevolgen van het coronavirus en is het niet duidelijk wat er in het voorjaar mogelijk zal zijn qua buitenactiviteiten.
+Helaas hebben we nog steeds te maken met de gevolgen van het coronavirus. In verband met de geldende maatregelen hebben we moeten besluiten om de HorsePowerRun ook dit jaar niet door te laten gaan. 
 
-Er wordt door het bestuur, in overleg met de organisatie van Rondom Gees, gekeken naar mogelijke aanpassingen.
-
-Indien mogelijk zal de 39e editie van de HorsePowerRun plaatsvinden op **Zondag 18 April 2021**. Als u van plan bent mee te doen kunt u zich nu aanmelden via onze voorlopige inschrijving.
-
-Op dit moment zijn onze vaste startlocatie en de beoogde pauzelocaties helaas nog gesloten, maar mogelijk volgen de komende weken versoepelingen en kunnen we de HPR alsnog door laten gaan. Nadere info volgt zo spoedig mogelijk!
+Wij hopen u allen op **Zondag 17 April 2022**. alsnog in goede gezondheid te mogen begroeten voor de 39e editie. 
 
 <!--
 
