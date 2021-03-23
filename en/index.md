@@ -8,10 +8,8 @@ menu:
     weight: 1
 
 ---
-# The HPR 2020 and COVID:
+# HPR 2021 has been canceled:
 
-**Due to the ongoing Corona pandemic we still do not know if there will be a 2021 HPR event.  We are still hoping to be able to organize the run on Sunday 18-04-2021.**
+**Due to the ongoing Corona pandemic there will be no 2021 HPR event.**  
 
-Together with the [RondomGees](rondomgees.nl) event, we are looking at alternative ways to organise a safe event. Unfortunately at this moment there is still a 10 days quarantine requirement for foreign vistotors. We will keep you updated on this site.
-
-You can sign up on our provisional list if you are interested in participating (if safely possible in April)
+**We are hoping to be able to meet all of you in good health for the 39th edition of the run on Sunday 17-04-2022.**
