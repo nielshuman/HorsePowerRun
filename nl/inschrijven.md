@@ -1,6 +1,6 @@
 ---
 title: Inschrijven
-published: true
+published: false
 menu:
   nav_nl:
     weight: 2
