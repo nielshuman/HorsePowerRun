@@ -1,9 +1,9 @@
 ---
 title: Accomodaties
-published: false
 menu:
   nav_nl:
-    weight: 8
+    weight: 9
+published: false
 
 ---
 # Accomodaties

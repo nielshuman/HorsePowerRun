@@ -1,6 +1,5 @@
 ---
 title: Photo's
-published: true
 menu:
   nav_en:
     weight: 4

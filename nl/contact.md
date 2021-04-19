@@ -1,9 +1,8 @@
 ---
 title: Contact
-published: true
 menu:
   nav_nl:
-    weight: 7
+    weight: 8
 
 ---
 # Contact

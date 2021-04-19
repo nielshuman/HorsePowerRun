@@ -1,9 +1,9 @@
 ---
 title: Places to stay
-published: false
 menu:
   nav_en:
     weight: 3
+published: false
 
 ---
 # Places to stay

@@ -1,9 +1,9 @@
 ---
 title: Information for participants
-published: false
 menu:
   nav_en:
     weight: 5
+published: false
 
 ---
 # Table of contents
