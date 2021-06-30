@@ -1,23 +1,24 @@
-/                    /nl
-/nl/edit             /edit
-/en/edit			 /edit
-/de/edit			 /edit
+/                    /nl/
+/nl/edit             /edit/
+/en/edit			 /edit/
+/de/edit			 /edit/
 # Nederlands
-/nederlands          /nl
+/nederlands          /nl/
 /nederlands/*        /nl/:splat
 /info                /nl/info
 /informatie          /nl/info
 /fotos               /nl/fotos
 /inschrijven         /nl/inschrijven
-/home_nl.php         /nl
+/home_nl.php         /nl/
 
 # Engels
-/english             /en
+/english             /en/
 /english/*           /en/:splat
 /inforamtion         /en/info
 /photos              /en/photos
 /sign-up			 /inschrijven
 /signup             /inschrijven
+/home_en.php         /en/
 
 # Duits
 /deutsch             /de
