@@ -2,16 +2,19 @@
 layout: title
 title: Home
 countdown_date: 2022-04-17 09:00
+published: false
 menu:
   nav_nl:
     weight: 1
 
 ---
-# HPR 2021 afgelast:
+# Aanmelding HPR 2022 
 
-Helaas hebben we nog steeds te maken met de gevolgen van het coronavirus. In verband met de geldende maatregelen hebben we moeten besluiten om de HorsePowerRun ook dit jaar niet door te laten gaan. 
+Helaas hebben we nog steeds te maken met de gevolgen van het coronavirus. In verband met de geldende maatregelen is het op dit moment dan ook nog niet duidelijk of de HorsePowerRun dit jaar wel door kan gaan. 
 
-Wij hopen u allen op **Zondag 17 April 2022**. alsnog in goede gezondheid te mogen begroeten voor de 39e editie. 
+Toch zijn we gestart met de voorbereidingen en zullen we binnenkort de mogelijkheid bieden om een voorlopige inschrijving in  te dienen via deze site.
+
+Wij hopen u allen op **Zondag 17 April 2022** in goede gezondheid te mogen begroeten voor de 39e editie!
 
 <!--
 
