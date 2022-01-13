@@ -12,7 +12,7 @@ menu:
 
 Helaas hebben we nog steeds te maken met de gevolgen van het coronavirus. In verband met de geldende maatregelen is het op dit moment dan ook nog niet duidelijk of de HorsePowerRun dit jaar wel door kan gaan. 
 
-Toch zijn we gestart met de voorbereidingen en zullen we binnenkort de mogelijkheid bieden om een voorlopige inschrijving in  te dienen via deze site.
+Toch zijn we gestart met de voorbereidingen en zullen we binnenkort de mogelijkheid bieden om een voorlopige inschrijving in te dienen via deze site.
 
 Wij hopen u allen op **Zondag 17 April 2022** in goede gezondheid te mogen begroeten voor de 39e editie!
 
