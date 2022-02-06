@@ -1,5 +1,6 @@
 ---
 title: Informatie voor deelnemers
+published: true
 menu:
   nav_nl:
     weight: 6
