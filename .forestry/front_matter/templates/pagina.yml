@@ -9,12 +9,6 @@ fields:
     required: false
   label: Titel
   description: Titel van de pagina
-- name: published
-  type: boolean
-  label: Actief
-  description: Als een pagina niet actief is, wordt deze niet weergegeven op de HPR
-    website.
-  default: true
 - name: menu
   type: text
   config:
