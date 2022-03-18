@@ -2,7 +2,7 @@
 layout: title
 title: Home
 countdown_date: 2022-04-17 09:00
-published: false
+published: true
 menu:
   nav_nl:
     weight: 1
