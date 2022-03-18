@@ -8,7 +8,7 @@ menu:
     weight: 1
 
 ---
-# Registration HPR 2022 has opened:
+# Registration for the HPR 2022 has opened:
 
 Now that most COVID-related regulations are gone and both the gevangenismuseum and our coffee-stop locations have reopened, we will be able to organise the event this year.
 
