@@ -3,7 +3,6 @@ title: Information for participants
 menu:
   nav_en:
     weight: 5
-published: false
 
 ---
 # Table of contents
