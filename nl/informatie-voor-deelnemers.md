@@ -3,11 +3,8 @@ title: Informatie voor deelnemers
 menu:
   nav_nl:
     weight: 6
-published: false
 
 ---
-## De HPR 2020 is afgelast i.v.m. de Coronacrises. De betaalde inschrijfgelden zullen worden teruggestort.
-
 # Inhoudsopgave
 
 * [Algemene informatie](#a)
@@ -74,4 +71,4 @@ De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismu
    Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.  
    De kosten voor een bijrijder bedragen € 20,00 per persoon.
 
-   Deelnemers die zich af moeten melden in verband met corona-gerelateerde klachten krijgen hun inschrijfgeld teruggestort. 
+   Deelnemers die zich af moeten melden in verband met corona-gerelateerde klachten krijgen hun inschrijfgeld teruggestort.
