@@ -5,6 +5,6 @@ menu:
     weight: 2
 
 ---
-Door de coronacrisis is het nog steeds niet duidelijk of de HorsePowerRun in 2022 door kan gaan. Het bestuur kijkt naar mogelijkheden om het evenement veilig en binnen de regels te kunnen organiseren. Op onderstaande formulier kunt u zich vrijblijvend voorinschrijven:
+We hebben er lang op moeten wachten, maar het lijkt er op dat we op 17 April weer mogen rijden vanuit het mooie Veenhuizen. Op het onderstaande formulier kunt u zich tot en met 3 April inschrijven:
 
 {% include formulier.html %}
