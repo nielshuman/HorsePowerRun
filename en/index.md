@@ -8,8 +8,8 @@ menu:
     weight: 1
 
 ---
-# Pre-registration HPR 2022:
+# Registration HPR 2022 has opened:
 
-**Due to the ongoing COVID-19 pandemic we still can not say if there will be a 2022 HPR event. Nevertheless we have started the preparationa and have opened the registration page on this website.**
+Now that most COVID-related regulations are gone and both the gevangenismuseum and our coffee-stop locations have reopened, we will be able to organise the event this year.
 
-**We are hoping to be able to meet all of you in good health for the 39th edition of the run on Sunday 17-04-2022.**
+**We are looking forward to meeting all of you in good health for the 39th edition of the run on Sunday 17-04-2022.**
