@@ -2,15 +2,15 @@
 layout: title
 title: Home
 countdown_date: 2022-04-17 09:00
-published: true
+published: false
 menu:
   nav_nl:
     weight: 1
 
 ---
-# Voorinschrijving HPR 2022 geopend
+# De inschrijving voor de 39e HPR is geopend
 
-Ondanks dat het door de voortgaande corona-pandemie nog niet helemaal duidelijk is of de HorsePowerRun dit jaar door kan gaan, zijn we gestart met de voorbereidingen. U kunt zich vanaf nu dus voorinschrijven via [deze ](https://horsepowerrun.nl/inschrijven "Inschrijven")pagina.
+Na twee jaar van afwezigheid gaat de HorsePowerRun dit jaar in principe wél door. U kunt zich vanaf nu dus definitief inschrijven via [**deze**](https://horsepowerrun.nl/inschrijven "Inschrijven") pagina.
 
 Wij hopen u allen op **Zondag 17 April 2022** in goede gezondheid te mogen begroeten voor de 39e editie!
 
