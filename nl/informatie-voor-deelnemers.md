@@ -45,7 +45,7 @@ De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismu
 **De volgende regels zijn van toepassing.**
 
 1. **Voertuig**  
-   Het ingeschreven voertuig moet in één van de volgende categoriën vallen:
+   Het ingeschreven voertuig moet in één van de volgende categorieën vallen:
    * solo machine
    * machine met zijspan
    * driewieler/forecars
