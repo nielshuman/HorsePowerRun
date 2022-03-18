@@ -65,6 +65,5 @@ The International HorsePowerRun will start at the Nationaal Gevangenismuseum (Na
 6. **Motorbike Mat**  
    You are required to use a motorbike mat to deal with possible dripping oil/fuel when parking your vehicle. The minimal size for this mat is 80 by 50 centimeters. You are allowed to bring your own suitable mat, or you can buy one for €5 via the HorsePowerRun.
 7. **Costs**  
-   By advance payment, the costs for participation are €25 per vehicle.  
-   Paying on the day of the event will be €30 per vehicle.  
-   Costs for passengers (like inside a sidecar) are €15 in advance or €20 on the day of the event.
+   By advance payment, the costs for participation are €30 per vehicle.  
+   Costs for passengers (like inside a sidecar) are €20.
