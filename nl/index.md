@@ -8,7 +8,9 @@ menu:
     weight: 1
 
 ---
-# Welkom bij de HorsePowerRun, voor motorfietsen tot en met bouwjaar 1920.
+# Welkom bij de HorsePowerRun! 
+
+### Een toerrit voor motorfietsen tot en met bouwjaar 1920.
 
 Na twee jaar van afwezigheid gaat de HorsePowerRun dit jaar in weer door. 
 
