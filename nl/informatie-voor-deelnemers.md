@@ -47,8 +47,7 @@ De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismu
    * machine met zijspan
    * driewieler/forecars
 
-   Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd.
-   Indien het voertuig nog niet eerder gestart is in de HorsePowerRun, dan moet u aantonen dat het 		startgerechtigd is. Dat kan op twee manieren:
+   Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het voertuig nog niet eerder gestart is in de HorsePowerRun, dan moet u aantonen dat het startgerechtigd is. Dat kan op twee manieren:
    * door het nummer van het pioneercertificaat, dat afgegeven is voor de machine, in te vullen op het inschrijvingsformulier op de website; of
    * via het aanleveren van daterende documentatie (folders, gegevens uit merkpublicatie, VMC-dateringscertificaat, motor- en framenummers, etc.) aan onze organisatie via ons emailadres.
 2. **Rijbewijs**  
