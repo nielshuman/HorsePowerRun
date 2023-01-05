@@ -12,7 +12,7 @@ menu:
 
 ### Een toerrit voor motorfietsen tot en met bouwjaar 1920.
 
-De komende editie is een lustrumversie. Wij hopen u allen op **Zondag 16 April 2023** in goede gezondheid te mogen begroeten voor de 40e editie!
+De inschrijving voor onze lustrumversie is geopend. Wij hopen u allen op **Zondag 16 April 2023** in goede gezondheid te mogen begroeten voor de 40e editie!
 
 ### Oproep:
 
