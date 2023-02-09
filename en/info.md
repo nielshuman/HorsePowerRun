@@ -2,7 +2,7 @@
 title: Information for participants
 menu:
   nav_en:
-    weight: 5
+    weight: 6
 
 ---
 # Table of contents

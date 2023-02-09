@@ -1,6 +1,9 @@
 ---
 title: Deelnemers
 menu:
+  nav_en:
+    weight: 3
+    title: Participants
   nav_nl:
     weight: 5
 

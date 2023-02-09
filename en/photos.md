@@ -2,7 +2,7 @@
 title: Photo's
 menu:
   nav_en:
-    weight: 4
+    weight: 5
 
 ---
 # Photo's

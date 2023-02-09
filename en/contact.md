@@ -2,7 +2,7 @@
 title: Contact Us
 menu:
   nav_en:
-    weight: 6
+    weight: 7
 
 ---
 # Contact Us
