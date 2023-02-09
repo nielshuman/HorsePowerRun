@@ -1,6 +1,5 @@
 ---
 title: Deelnemers
-published: true
 ---
 
 # Deelnemers
