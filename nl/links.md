@@ -2,7 +2,7 @@
 title: Links
 menu:
   nav_nl:
-    weight: 6
+    weight: 11
 
 ---
 ## Vrienden van de HorsePowerRun:

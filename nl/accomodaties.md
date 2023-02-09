@@ -2,7 +2,7 @@
 title: Accomodaties
 menu:
   nav_nl:
-    weight: 10
+    weight: 9
 
 ---
 # Accomodaties
