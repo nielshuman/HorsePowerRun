@@ -2,7 +2,6 @@
 layout: title
 title: Home
 countdown_date: 2023-04-16 05:00
-published: true
 menu:
   nav_nl:
     weight: 1

@@ -2,7 +2,7 @@
 title: Informatie voor deelnemers
 menu:
   nav_nl:
-    weight: 6
+    weight: 7
 
 ---
 # Inhoudsopgave

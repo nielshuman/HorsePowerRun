@@ -2,7 +2,7 @@
 title: Route
 menu:
   nav_nl:
-    weight: 10
+    weight: 11
 published: false
 
 ---
@@ -26,4 +26,4 @@ Vertrek eerste rijder uit Veenhuizen: 13:00 uur
 
 Theepauze Leek (Nienoord) 14:00 uur
 
-Slotmanifestatie in Veenhuizen vanaf 15:00 
+Slotmanifestatie in Veenhuizen vanaf 15:00
