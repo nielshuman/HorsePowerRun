@@ -9,5 +9,9 @@ menu:
 
 ---
 # Deelnemers
+
 De volgende deelnemers hebben zich al ingeschreven:
+
+(Deze lijst wordt ongeveer één keer per week bijgewerkt) 
+
 {% include table.html %}
