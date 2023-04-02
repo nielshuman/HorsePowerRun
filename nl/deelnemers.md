@@ -10,8 +10,6 @@ menu:
 ---
 # Deelnemers
 
-De volgende deelnemers hebben zich al ingeschreven:
-
-(Deze lijst wordt ongeveer één keer per week bijgewerkt) 
+De volgende deelnemers hebben zich ingeschreven:
 
 {% include table.html %}
