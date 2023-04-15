@@ -19,7 +19,9 @@ Terugkomst in Veenhuizen vanaf 11:30
 
 ### Middagroute:
 
-![](/assets/img/hpr-middagroute-nienoord-2023.png)
+(Deze route is tussen Een en Nieuw-Roden aangepast ten opzichte van de eerder gepubliceerde versie.)
+
+![](/assets/img/aangepaste-middagroute.png)
 
 Vertrek eerste rijder uit Veenhuizen: 13:00 uur
 
