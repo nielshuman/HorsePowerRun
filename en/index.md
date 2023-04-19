@@ -1,11 +1,11 @@
 ---
 layout: title
 title: Home
-countdown_date: 2023-04-16 05:00
+countdown_date: 2024-04-21 09:00
 published: false
 menu:
   nav_en:
     weight: 1
 
 ---
-**We are looking forward to meeting all of you in good health for the 40th edition of the run on Sunday 16-04-2023.**
+**We are looking forward to meeting all of you in good health for the 41th edition of the run on Sunday 21-04-2024.**
