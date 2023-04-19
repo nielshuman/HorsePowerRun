@@ -2,7 +2,7 @@
 layout: title
 title: Home
 countdown_date: 2024-04-21 09:00
-published: false
+published: true
 menu:
   nav_en:
     weight: 1
