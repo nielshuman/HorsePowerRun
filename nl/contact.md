@@ -3,6 +3,7 @@ title: Contact
 menu:
   nav_nl:
     weight: 10
+published: true
 _template: pagina__nl
 ---
 
