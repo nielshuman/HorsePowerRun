@@ -3,6 +3,7 @@ title: Links
 menu:
   nav_nl:
     weight: 11
+published: true
 _template: pagina__nl
 ---
 
