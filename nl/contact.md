@@ -3,8 +3,9 @@ title: Contact
 menu:
   nav_nl:
     weight: 10
-
+_template: pagina
 ---
+
 # Contact
 
 **Email**: [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)

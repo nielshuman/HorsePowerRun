@@ -1,13 +1,14 @@
 ---
 layout: title
 title: Home
-countdown_date: 2024-04-20 09:00
+countdown_date: '2024-04-20 09:00'
 published: true
 menu:
   nav_nl:
     weight: 1
-
+_template: homepagina_met_aftelklok_nl
 ---
+
 # Welkom bij de HorsePowerRun!
 
 ### Een toerrit voor motorfietsen tot en met bouwjaar 1920.

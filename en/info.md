@@ -3,8 +3,9 @@ title: Information for participants
 menu:
   nav_en:
     weight: 6
-
+_template: pagina_en
 ---
+
 # Table of contents
 
 * [General information](#a)

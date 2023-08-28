@@ -3,8 +3,9 @@ title: Photo's
 menu:
   nav_en:
     weight: 5
-
+_template: pagina_en
 ---
+
 # Photo's
 Here you can find photo's of previous editions of the HorsePowerRun.
 

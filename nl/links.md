@@ -3,8 +3,9 @@ title: Links
 menu:
   nav_nl:
     weight: 11
-
+_template: pagina
 ---
+
 ## Vrienden van de HorsePowerRun:
 
 ![](/assets/img/auto_louwes.jpg)

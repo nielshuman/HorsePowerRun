@@ -3,8 +3,9 @@ title: Contact Us
 menu:
   nav_en:
     weight: 7
-
+_template: pagina_en
 ---
+
 # Contact Us
 
 **Email**: [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)

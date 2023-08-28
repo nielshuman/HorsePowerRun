@@ -3,8 +3,9 @@ title: Informatie voor deelnemers
 menu:
   nav_nl:
     weight: 6
-
+_template: pagina
 ---
+
 # Inhoudsopgave
 
 * [Algemene informatie](#a)

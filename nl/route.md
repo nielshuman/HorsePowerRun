@@ -4,7 +4,9 @@ menu:
   nav_nl:
     weight: 8
 published: false
+_template: pagina
 ---
+
 ## De routes van dit jaar:
 
 ### Ochtendroute:
