@@ -22,6 +22,13 @@ export function homepagina_met_aftelklok__en_Fields() {
       label: "Afteldatum",
       required: true,
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
+    },
   ] as TinaField[];
 }
 export function homepagina_met_aftelklok__nl_Fields() {
@@ -46,6 +53,13 @@ export function homepagina_met_aftelklok__nl_Fields() {
       name: "countdown_date",
       label: "Afteldatum",
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
+    },
   ] as TinaField[];
 }
 export function pagina__en_Fields() {
@@ -56,6 +70,13 @@ export function pagina__en_Fields() {
       label: "Titel",
       required: true,
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
+    },
   ] as TinaField[];
 }
 export function pagina__nl_Fields() {
@@ -65,5 +86,13 @@ export function pagina__nl_Fields() {
       name: "title",
       label: "Titel",
     },
+    {
+      type: "rich-text",
+      name: "body",
+      label: "Body of Document",
+      description: "This is the markdown body",
+      isBody: true,
+    },
   ] as TinaField[];
+  
 }
