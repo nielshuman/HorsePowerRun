@@ -3,6 +3,11 @@
 /en/edit			 /edit/
 /de/edit			 /edit/
 
+/edit                /admin
+/nl/admin            /admin
+/en/admin            /admin
+/de/admin            /admin
+
 # Nederlands
 /nederlands          /nl/
 /nederlands/*        /nl/:splat
