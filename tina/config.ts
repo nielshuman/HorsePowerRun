@@ -82,7 +82,7 @@ export default defineConfig({
         format: "yml",
         label: "Config",
         name: "config",
-        path: ".",
+        path: "/",
         ui: {
           allowedActions: {
             create: false,
