@@ -34,19 +34,14 @@ export function homepagina_met_aftelklok__en_Fields() {
 export function homepagina_met_aftelklok__nl_Fields() {
   return [
     {
-      type: "string",
-      name: "layout",
-      label: "layout",
+      type: "boolean",
+      name: "published",
+      label: "Published / Actief",
     },
     {
       type: "string",
       name: "title",
       label: "Titel",
-    },
-    {
-      type: "boolean",
-      name: "published",
-      label: "Actief",
     },
     {
       type: "datetime",
@@ -60,6 +55,12 @@ export function homepagina_met_aftelklok__nl_Fields() {
       description: "This is the markdown body",
       isBody: true,
     },
+    {
+      type: "string",
+      name: "layout",
+      label: "layout",
+      description: "Niet aanzitten!",
+    },
   ] as TinaField[];
 }
 export function pagina__en_Fields() {
@@ -69,6 +70,11 @@ export function pagina__en_Fields() {
       name: "title",
       label: "Titel",
       required: true,
+    },
+    {
+      type: "boolean",
+      name: "published",
+      label: "Published / Actief",
     },
     {
       type: "rich-text",
@@ -85,6 +91,11 @@ export function pagina__nl_Fields() {
       type: "string",
       name: "title",
       label: "Titel",
+    },
+    {
+      type: "boolean",
+      name: "published",
+      label: "Published / Actief",
     },
     {
       type: "rich-text",

@@ -50,15 +50,27 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
+        // fields: [
+        //   {
+        //     type: "rich-text",
+        //     name: "body",
+        //     label: "Body of Document",
+        //     description: "This is the markdown body",
+        //     isBody: true,
+        //   },
+        // ],
+        templates: [
           {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
+            name: 'homepagina_met_aftelklok__en',
+            label: 'EN Homepagina met aftelklok',
+            fields: homepagina_met_aftelklok__en_Fields()
           },
-        ],
+          {
+            name: 'pagina__en',
+            label: 'Pagina (EN)',
+            fields: pagina__en_Fields()
+          },
+        ]
       },
       {
         format: "md",
