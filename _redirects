@@ -25,5 +25,5 @@
 /deutsch             /de
 /deutsch/*           /de/:splat
 
-/*                   /nl/:splat
-
+# /*                   /nl/:splat
+# /admin tarpje
