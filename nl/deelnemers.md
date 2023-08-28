@@ -6,7 +6,7 @@ menu:
     title: Participants
   nav_nl:
     weight: 5
-
+published: false
 ---
 # Deelnemers
 

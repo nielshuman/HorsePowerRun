@@ -3,7 +3,7 @@ title: Route
 menu:
   nav_nl:
     weight: 8
-
+published: false
 ---
 ## De routes van dit jaar:
 
