@@ -7,6 +7,7 @@ menu:
   nav_nl:
     weight: 5
 published: false
+template: pagina__nl
 ---
 # Deelnemers
 

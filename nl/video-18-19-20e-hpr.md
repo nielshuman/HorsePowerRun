@@ -4,7 +4,7 @@ menu:
   nav_nl:
     weight: 4
 published: true
-_template: pagina
+_template: pagina__nl
 ---
 
 {% include video2021.html %}

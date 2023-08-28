@@ -3,6 +3,7 @@ title: Links
 menu:
   nav_nl:
     weight: 11
+template: pagina__nl
 ---
 
 ## Vrienden van de HorsePowerRun:

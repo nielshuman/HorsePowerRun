@@ -6,7 +6,7 @@ published: true
 menu:
   nav_nl:
     weight: 1
-_template: homepagina_met_aftelklok_nl
+_template: homepagina_met_aftelklok__nl
 ---
 
 # Welkom bij de HorsePowerRun!

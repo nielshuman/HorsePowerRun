@@ -3,7 +3,7 @@ title: Informatie voor deelnemers
 menu:
   nav_nl:
     weight: 6
-_template: pagina
+_template: pagina__nl
 ---
 
 # Inhoudsopgave
