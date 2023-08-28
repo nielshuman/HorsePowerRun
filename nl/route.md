@@ -11,7 +11,7 @@ _template: pagina__nl
 
 ### Ochtendroute:
 
-![](/assets/img/ochtenroute-naar-marum.png)
+![](/media/assets/img/ochtenroute-naar-marum.png)
 
 Vertrek eerste rijder uit Veenhuizen: 9:30 uur
 
@@ -23,7 +23,7 @@ Terugkomst in Veenhuizen vanaf 11:30
 
 (Deze route is tussen Een en Nieuw-Roden aangepast ten opzichte van de eerder gepubliceerde versie.)
 
-![](/assets/img/aangepaste-middagroute.png)
+![](/media/assets/img/aangepaste-middagroute.png)
 
 Vertrek eerste rijder uit Veenhuizen: 13:00 uur
 
