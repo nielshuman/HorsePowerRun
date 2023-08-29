@@ -1,36 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: HorsePowerRun
 email: info@horsepowerrun.nl
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your neaw site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.0ml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://horsepowerrun.nl" # the base hostname & protocol for your site
-github_username:  UltraNiels
-
-# Build settings
+description: >
+  Write an awesome description for your neaw site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.0ml site description.
+baseurl: ''
+url: 'https://horsepowerrun.nl'
+github_username: UltraNiels
 markdown: kramdown
-
 include:
   - _redirects
-
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
+  - scope:
+      path: ''
     values:
-      layout: "default"
-
+      layout: default
 plugins:
-- jekyll-menus
-
+  - jekyll-menus
 gems:
-- jekyll-menus
+  - jekyll-menus
+dummy: test
