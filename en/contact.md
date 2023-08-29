@@ -3,7 +3,7 @@ title: Contact Us
 menu:
   nav_en:
     weight: 7
-_template: pagina__en
+_template: pagina
 ---
 
 # Contact Us

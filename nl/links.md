@@ -4,23 +4,25 @@ menu:
   nav_nl:
     weight: 11
 published: true
-_template: pagina__nl
+_template: pagina
 ---
 
 ## Vrienden van de HorsePowerRun:
 
-![](/media/assets/img/auto_louwes.jpg)
+![](/media/auto_louwes.jpg)
 
-![](/media/assets/img/img_6829.JPG)
+![](/media/img_6829.JPG)
 
-![](/media/assets/img/powerplus.jpg)![](/media/yesterdays.jpg)
+![](/media/powerplus.jpg)
 
-![](/media/assets/img/smederij_krist.jpg)
+![](/media/yesterdays.jpg)
 
-![](/media/assets/img/vanbergen.jpg)
+![](/media/smederij_krist.jpg)
 
-![](/media/assets/img/motorrijwiel.jpg)
+![](/media/vanbergen.jpg)
 
-![](/media/assets/img/logo_motoport.png)
+![](/media/motorrijwiel.jpg)
 
-![](/media/assets/img/advertentie-hp-run-nieuw.JPG)
+![](/media/logo_motoport.png)
+
+![](/media/advertentie-hp-run-nieuw.JPG)

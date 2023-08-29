@@ -4,7 +4,7 @@ menu:
   nav_en:
     weight: 4
 published: false
-_template: pagina__en
+_template: pagina
 ---
 
 # Places to stay

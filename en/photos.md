@@ -3,7 +3,7 @@ title: Photo's
 menu:
   nav_en:
     weight: 5
-_template: pagina__en
+_template: pagina
 ---
 
 # Photo's

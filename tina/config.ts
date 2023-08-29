@@ -1,8 +1,5 @@
 import { defineConfig } from "tinacms";
-import { homepagina_met_aftelklok__en_Fields } from "./templates";
-import { homepagina_met_aftelklok__nl_Fields } from "./templates";
-import { pagina__en_Fields } from "./templates";
-import { pagina__nl_Fields } from "./templates";
+import * as templates from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
@@ -26,50 +23,15 @@ export default defineConfig({
     collections: [
       {
         format: "md",
-        label: "Duits",
-        name: "duits",
-        path: "de",
-        match: {
-          include: "**/*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-        ],
-      },
-      {
-        format: "md",
         label: "Engels",
         name: "engels",
         path: "en",
         match: {
           include: "**/*",
         },
-        // fields: [
-        //   {
-        //     type: "rich-text",
-        //     name: "body",
-        //     label: "Body of Document",
-        //     description: "This is the markdown body",
-        //     isBody: true,
-        //   },
-        // ],
         templates: [
-          {
-            name: 'homepagina_met_aftelklok__en',
-            label: 'EN Homepagina met aftelklok',
-            fields: homepagina_met_aftelklok__en_Fields()
-          },
-          {
-            name: 'pagina__en',
-            label: 'Pagina (EN)',
-            fields: pagina__en_Fields()
-          },
+          templates.homepagina(),
+          templates.pagina(),
         ]
       },
       {
@@ -80,26 +42,9 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        // fields: [
-        //   {
-        //     type: "rich-text",
-        //     name: "body",
-        //     label: "Body of Document",
-        //     description: "This is the markdown body",
-        //     isBody: true,
-        //   },
-        // ],
         templates: [
-          {
-            name: 'homepagina_met_aftelklok__nl',
-            label: 'NL Homepagina met aftelklok',
-            fields: homepagina_met_aftelklok__nl_Fields()
-          },
-          {
-            name: 'pagina__nl',
-            label: 'Pagina (NL)',
-            fields: pagina__nl_Fields()
-          },
+          templates.homepagina(),
+          templates.pagina(),
         ]
       },
       {

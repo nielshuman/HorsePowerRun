@@ -1,12 +1,12 @@
 ---
 layout: title
 title: Home
-countdown_date: '2024-04-20 09:00'
+countdown_date: 2024-04-20T07:00:00.000Z
 published: true
 menu:
   nav_nl:
     weight: 1
-_template: homepagina_met_aftelklok__nl
+_template: homepagina
 ---
 
 # Welkom bij de HorsePowerRun!

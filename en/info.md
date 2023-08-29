@@ -3,7 +3,7 @@ title: Information for participants
 menu:
   nav_en:
     weight: 6
-_template: pagina__en
+_template: pagina
 ---
 
 # Table of contents

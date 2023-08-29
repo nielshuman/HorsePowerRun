@@ -4,7 +4,7 @@ menu:
   nav_nl:
     weight: 8
 published: false
-_template: pagina__nl
+_template: pagina
 ---
 
 ## De routes van dit jaar:

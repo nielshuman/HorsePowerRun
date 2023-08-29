@@ -6,7 +6,7 @@ published: true
 menu:
   nav_en:
     weight: 1
-_template: homepagina_met_aftelklok__en
+_template: homepagina
 ---
 
 **We are looking forward to meeting all of you in good health for the 41th edition of the run on Sunday 21-04-2024.**
