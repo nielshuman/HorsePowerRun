@@ -32,18 +32,21 @@ export function homepagina() {
   return {
     name: 'homepagina',
     label: 'Homepagina (met aftelklok)',
+    defaultItem: {
+      layout: "title",
+    },
     fields : [
-      {
-        type: "boolean",
-        name: "published",
-        label: "Published / Actief",
-      },
       {
         type: "string",
         name: "title",
         label: "Titel",
         isTitle: true,
         required: true,
+      },
+      {
+        type: "boolean",
+        name: "published",
+        label: "Published / Actief",
       },
       {
         type: "datetime",
@@ -53,8 +56,8 @@ export function homepagina() {
       {
         type: "rich-text",
         name: "body",
-        label: "Body of Document",
-        description: "This is the markdown body",
+        label: "Content",
+        description: "De inhoud van de pagina",
         isBody: true,
       },
       {
