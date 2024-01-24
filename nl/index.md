@@ -1,11 +1,11 @@
 ---
-layout: title
-title: Home
-countdown_date: 2024-04-20T07:00:00.000Z
-published: true
 menu:
   nav_nl:
     weight: 1
+title: Home
+published: true
+countdown_date: 2024-04-20T22:00:00.000Z
+layout: title
 _template: homepagina
 ---
 
