@@ -1,8 +1,9 @@
 ---
-title: Information for participants
 menu:
   nav_en:
     weight: 6
+title: Information for participants
+published: true
 _template: pagina
 ---
 
@@ -36,34 +37,33 @@ The final presentation including the pricegiving ceremony will take place at the
 
 # Regulation HorsePowerRun {#b}
 
-The International HorsePowerRun will start at the Nationaal Gevangenismuseum (National Prison Museum) at the Oude Gracht 1 in Veenhuizen. The 39th edition is scheduled for Sunday, April the 19th, 2020.
+The International HorsePowerRun will start at the Nationaal Gevangenismuseum (National Prison Museum) at the Oude Gracht 1 in Veenhuizen. The 41th edition is scheduled for Sunday, April the 21th, 2024.
 
 **The following rules apply.**
 
-1. **Vehicle**  
+1. **Vehicle**\
    The registered vehicle must fall in one of the following categories:
    * solo machine
    * machine with sidecar
    * tricycle/forecars
-
-   The vehicle may not be manufactured any later than December 31st, 1920.  
+   The vehicle may not be manufactured any later than December 31st, 1920.\
    In case the vehicle has not started before in the HorsePowerRun, one must prove it to be a valid vehicle through one of the following two options:
    * through corresponding the number of the pioneer certificate for said machine, on the registration form or by email; or
    * through providing evidence in the form of dated documents (folders, brochures, date of brand publication, VMC dating certificate, motor and frame numbers, etc.) to our organization by email.
-2. **Driver's license**  
+2. **Driver's license**\
    The participant must be in possession of a valid driver's license for the registered vehicle.
-3. **Registration certificate and insurance**  
+3. **Registration certificate and insurance**\
    The participant needs to be in possession of a valid registration certificate of the registered vehicle. This vehicle must be insured on the day of the event.
-4. **Changing rider and/or vehicle**  
-   To start the event with a different vehicle than registered is not allowed unless this has been made known to the organization. The latest this can be done is on the day of the event, before the start, at the registrationdesk.  
+4. **Changing rider and/or vehicle**\
+   To start the event with a different vehicle than registered is not allowed unless this has been made known to the organization. The latest this can be done is on the day of the event, before the start, at the registrationdesk.\
    Changing the rider and/or vehicle once the event has started is not allowed.
-5. **Check in on the day of the event**  
+5. **Check in on the day of the event**\
    On the day of the event, the participant is asked to report at the secretariat between 7.30 am and 9.00 am. The secretariat will be in the hall next to the restaurant of the Prison Museum.
-   * The participant needs to sign a document in which the participant declares the organization to not hold any responsibility towards the participant and its vehicle. The participant takes part in his own risk.  
+   * The participant needs to sign a document in which the participant declares the organization to not hold any responsibility towards the participant and its vehicle. The participant takes part in his own risk.\
      The organization is insured through the Dutch Vintage Motorcycle Club for liability.
    * The participant receives the programme booklet, consumption tickets for the event, and a starting number that needs to be attached to the vehicle.
-6. **Motorbike Mat**  
+6. **Motorbike Mat**\
    You are required to use a motorbike mat to deal with possible dripping oil/fuel when parking your vehicle. The minimal size for this mat is 80 by 50 centimeters. You are allowed to bring your own suitable mat, or you can buy one for €5 via the HorsePowerRun.
-7. **Costs**  
-   By advance payment, the costs for participation are €30 per vehicle.  
-   Costs for passengers (like inside a sidecar) are €20.
+7. **Costs**\
+   By advance payment, the costs for participation are €35 per vehicle.\
+   Costs for passengers (like inside a sidecar) are €25.
