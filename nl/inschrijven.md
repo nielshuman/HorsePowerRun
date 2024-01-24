@@ -1,12 +1,12 @@
 ---
-title: Inschrijven
 menu:
   nav_nl:
     weight: 2
+title: Inschrijven
 published: false
 _template: pagina
 ---
 
-Op zondag 16 April rijden we vanuit vanuit het mooie Veenhuizen de 40e editie van de HorsePowerRun. De inschrijving is ondertussen gesloten.
+Op zondag 21 April rijden we vanuit het mooie Veenhuizen de 41e editie van de HorsePowerRun. De inschrijving is ondertussen geopend. U kunt het formulier hieronder invullen en ontvangt dan van ons een bevestiging indien de inschrijving gelukt is.
 
-Wilt u alsnog meedoen? Stuur dan een mail naar horsepowerrun@gmail.com!
+Wilt u alsnog meedoen? Stuur dan een mail naar [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)!
