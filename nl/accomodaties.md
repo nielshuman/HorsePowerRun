@@ -1,9 +1,9 @@
 ---
-title: Accomodaties
 menu:
   nav_nl:
     weight: 9
-published: false
+title: Accomodaties
+published: true
 _template: pagina
 ---
 
