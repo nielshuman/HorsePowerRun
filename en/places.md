@@ -1,9 +1,9 @@
 ---
-title: Places to stay
 menu:
   nav_en:
     weight: 4
-published: false
+title: Places to stay
+published: true
 _template: pagina
 ---
 
