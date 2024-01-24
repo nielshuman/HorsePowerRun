@@ -1,8 +1,8 @@
 ---
-title: Informatie voor deelnemers
 menu:
   nav_nl:
     weight: 6
+title: Informatie voor deelnemers
 published: true
 _template: pagina
 ---
@@ -39,7 +39,7 @@ De slotmanifestatie zal plaatsvinden op het middenterrein van het [Gevangenismus
 
 # Reglement HorsePowerRun {#b}
 
-De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismuseum aan de Oude Gracht 1 in 9341 AA Veenhuizen. De 39e editie wordt gereden op zondag 19 april 2020.
+De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismuseum aan de Oude Gracht 1 in 9341 AA Veenhuizen. De 41e editie wordt gereden op zondag 21 april 2024.
 
 **De volgende regels zijn van toepassing.**
 
@@ -48,7 +48,7 @@ De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismu
    * solo machine
    * machine met zijspan
    * driewieler/forecars
-   Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het voertuig nog niet eerder gestart is in de HorsePowerRun, dan moet u aantonen dat het startgerechtigd is. Dat kan op twee manieren:
+     Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het voertuig nog niet eerder gestart is in de HorsePowerRun, dan moet u aantonen dat het startgerechtigd is. Dat kan op twee manieren:
    * door het nummer van het pioneercertificaat, dat afgegeven is voor de machine, in te vullen op het inschrijvingsformulier op de website; of
    * via het aanleveren van daterende documentatie (folders, gegevens uit merkpublicatie, VMC-dateringscertificaat, motor- en framenummers, etc.) aan onze organisatie via ons emailadres.
 2. **Rijbewijs**\
@@ -63,12 +63,12 @@ De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismu
    * De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
      De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
    * De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
-   * Heeft u klachten die kunnen wijzen op een corona-besmetting? blijf dan thuis en meldt u af via horsepowerrun@gmail.com
+   * Heeft u klachten die kunnen wijzen op een corona-besmetting? blijf dan thuis en meldt u af via [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)
 6. **Milieumat**\
-   Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er een voor €5 aanschaffen via de Stichting HorsePower Run.
+   Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
 7. **Kosten**\
-   De kosten voor deelname bedragen € 30,00 per voertuig, bij voorkeur bij vooruitbetaling.\
+   De kosten voor deelname bedragen € 35,00 per voertuig, bij voorkeur bij vooruitbetaling.\
    Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
-   De kosten voor een bijrijder bedragen € 20,00 per persoon.
+   De kosten voor een bijrijder bedragen € 25,00 per persoon.
 
    Deelnemers die zich af moeten melden in verband met corona-gerelateerde klachten krijgen hun inschrijfgeld teruggestort.
