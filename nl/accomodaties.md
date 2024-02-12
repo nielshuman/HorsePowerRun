@@ -2,13 +2,13 @@
 menu:
   nav_nl:
     weight: 9
-title: Accomodaties
+title: Accommodaties
 published: true
 _template: pagina
 ---
 
-# Accomodaties
+# Accommodaties
 
-De HorsePowerRun beveelt de volgende accomodaties aan:
+De HorsePowerRun beveelt de volgende accommodaties aan:
 
 {% include accomodaties.html %}
