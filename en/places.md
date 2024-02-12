@@ -9,6 +9,6 @@ _template: pagina
 
 # Places to stay
 
-Team HorsePowerRun reccomends the following accomodations:
+Team HorsePowerRun reccomends the following accommodations:
 
 {% include accomodaties.html %}
