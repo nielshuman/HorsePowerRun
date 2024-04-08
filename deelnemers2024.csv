@@ -1,41 +1,41 @@
-"Merk","Model","cc","Hp","bouwjaar","aanhef","voornaam","achternaam","land"
-"Humber","Coventry","375","2","1902","Dhr. ","Wilfried","Manders","NL"
-"FN","Model 1903","228","2","1903","Dhr. ","Geert Jan ","De Kater","NL"
-"Peugeot ","D","300","2 1/2","1903","Dhr. ","Ben ","Wieringa ","NL"
-"Kerry","Ladies model","308","2 1/4","1903","Dhr. ","Pieter","Belgraver","NL"
-"Cottereau","Model 1904","345","3","1904","Dhr. ","Jan","Opheikens","NL"
-"Sarolea ","1905","400","4","1905","Dhr. ","Stany ","Wouters ","BE"
-"The Quadrant","2,5 PK","330","2 1/2","1905","Dhr. ","Gerrit","Miedema","NL"
-"Triumph","3 1/2 HP  Magneto- Ignition","453","4","1907","Dhr. ","Rudolf","Spörer","DE"
-"Triumph","Roadster","500","3","1911","Dhr. ","Kees","Rens","NL"
-"Magnat Debon","KK","500","4","1911","Dhr. ","Wim","Marsman","NL"
-"Magnat Debon","2 3-4HP","340","2","1911","Dhr. ","Matthias","Klingele ","FRA"
-"The Campion","Tourist","500","3 3/4","1911","Dhr. ","Albert","Groenenboom","NL"
-"triumpf","500 cc","500","3","1912","Dhr. ","Hans","van Os","DE"
-"FN","4 cylinder 1912","500","7","1912","Dhr. ","Herman","Noorman","NL"
-"Zenith","Gradua 500cc single","500","3 1/2","1912","Dhr. ","Arend","Heijs","NL"
-"Sarolea","3,5HP single speed","500","3","1912","Dhr. ","Vincent","Belgraver ","NL"
-"P&M","3,5 HP","475","4","1912","Dhr. ","Mark","de Boer","NL"
-"Bradbury ","3,5 hp","554","3","1912","Dhr. ","Fred","Haverkort ","NL"
-"Williamson","Air Cooled","964","8","1913","Dhr. ","Fred","Hesselink","NL"
-"Anglo Dane","4 HP","500","4","1913","Dhr. ","Lars","Klitgaard","DK"
-"Royal Enfield","Model 140","425","3","1913","Dhr. ","Geert","de Boer","NL"
-"Triumph ","Type C","500","4","1913","Dhr. ","Chris","Bekkenkamp","NL"
-"Bradbury","Belt Drive","554","4","1913","Dhr. ","Kees","de Jong","NL"
-"FN","4 cilinder","498","5","1913","Dhr. ","Johan","Beenen","NL"
-"Terrot","Motorette 3","317","3","1914","Dhr. ","Henk","v d Veen","NL"
-"James","Nr.6","598","4","1914","Dhr. ","Ulrich","Wesolek","DE"
-"Royal Enfield ","Model 180","770","6","1914","Dhr. ","Heiner ","Rohrwick","DE"
-"James","Model 8","228","2","1914","Dhr. ","Paul","Morley","UK"
-"Royal Ruby","Lightweight","269","2","1914","Dhr. ","Jeroen","Mennen","NL"
-"Royal Enfield","2cil","770","2","1914","Dhr. ","Jans ","Keizer ","NL"
-"Rover ","3 speed","500","3 1/2","1914","Dhr. ","Peter ","Haanen ","NL"
-"Humber","3 speed  ","500","3 1/2","1914","Dhr. ","Chrit","Haanen","NL"
-"Wanderer","Heeresmodell","440","5","1914","Dhr. ","Jan","Buis","NL"
-"Harley Davidson ","J17","1000","23","1917","Dhr. ","Gertjan ","Van geest ","NL"
-"BSA","H","550","4","1917","Dhr. ","Michel","Steins","BE"
-"Triumph","H","550","4","1917","Dhr. ","Rik","Diephuis","NL"
-"Triumph","H","550","3","1918","Dhr. ","Ben","Dirks","NL"
-"Indian","PowerPlus","1000","7","1919","Dhr. ","Maarten","Bakker","NL"
-"Indian","PowerPlus","1000","9","1920","Dhr. ","Frank","Bakker","NL"
-"Sunbeam","3.5 HP","500","3 1/2","1920","Dhr. ","Peder","Hansen","DK"
+Merk,Model,cc,Hp,bouwjaar,aanhef,voornaam,achternaam,land
+Humber,Coventry,375,2,1902,Dhr. ,Wilfried,Manders,NL
+FN,Model 1903,228,2,1903,Dhr. ,Geert Jan ,De Kater,NL
+Peugeot ,D,300,2 1/2,1903,Dhr. ,Ben ,Wieringa ,NL
+Kerry,Ladies model,308,2 1/4,1903,Dhr. ,Pieter,Belgraver,NL
+Cottereau,Model 1904,345,3,1904,Dhr. ,Jan,Opheikens,NL
+Sarolea ,1905,400,4,1905,Dhr. ,Stany ,Wouters ,BE
+The Quadrant,2.5 PK,330,2 1/2,1905,Dhr. ,Gerrit,Miedema,NL
+Triumph,3 1/2 HP  Magneto- Ignition,453,4,1907,Dhr. ,Rudolf,Spörer,DE
+Triumph,Roadster,500,3,1911,Dhr. ,Kees,Rens,NL
+Magnat Debon,KK,500,4,1911,Dhr. ,Wim,Marsman,NL
+Magnat Debon,2 3-4HP,340,2,1911,Dhr. ,Matthias,Klingele ,FRA
+The Campion,Tourist,500,3 3/4,1911,Dhr. ,Albert,Groenenboom,NL
+triumpf,500 cc,500,3,1912,Dhr. ,Hans,van Os,DE
+FN,4 cylinder 1912,500,7,1912,Dhr. ,Herman,Noorman,NL
+Zenith,Gradua 500cc single,500,3 1/2,1912,Dhr. ,Arend,Heijs,NL
+Sarolea,3.5HP single speed,500,3,1912,Dhr. ,Vincent,Belgraver ,NL
+P&M,3.5 HP,475,4,1912,Dhr. ,Mark,de Boer,NL
+Bradbury ,3.5 hp,554,3,1912,Dhr. ,Fred,Haverkort ,NL
+Williamson,Air Cooled,964,8,1913,Dhr. ,Fred,Hesselink,NL
+Anglo Dane,4 HP,500,4,1913,Dhr. ,Lars,Klitgaard,DK
+Royal Enfield,Model 140,425,3,1913,Dhr. ,Geert,de Boer,NL
+Triumph ,Type C,500,4,1913,Dhr. ,Chris,Bekkenkamp,NL
+Bradbury,Belt Drive,554,4,1913,Dhr. ,Kees,de Jong,NL
+FN,4 cilinder,498,5,1913,Dhr. ,Johan,Beenen,NL
+Terrot,Motorette 3,317,3,1914,Dhr. ,Henk,v d Veen,NL
+James,Nr.6,598,4,1914,Dhr. ,Ulrich,Wesolek,DE
+Royal Enfield ,Model 180,770,6,1914,Dhr. ,Heiner ,Rohrwick,DE
+James,Model 8,228,2,1914,Dhr. ,Paul,Morley,UK
+Royal Ruby,Lightweight,269,2,1914,Dhr. ,Jeroen,Mennen,NL
+Royal Enfield,2cil,770,2,1914,Dhr. ,Jans ,Keizer ,NL
+Rover ,3 speed,500,3 1/2,1914,Dhr. ,Peter ,Haanen ,NL
+Humber,3 speed  ,500,3 1/2,1914,Dhr. ,Chrit,Haanen,NL
+Wanderer,Heeresmodell,440,5,1914,Dhr. ,Jan,Buis,NL
+Harley Davidson ,J17,1000,23,1917,Dhr. ,Gertjan ,Van geest ,NL
+BSA,H,550,4,1917,Dhr. ,Michel,Steins,BE
+Triumph,H,550,4,1917,Dhr. ,Rik,Diephuis,NL
+Triumph,H,550,3,1918,Dhr. ,Ben,Dirks,NL
+Indian,PowerPlus,1000,7,1919,Dhr. ,Maarten,Bakker,NL
+Indian,PowerPlus,1000,9,1920,Dhr. ,Frank,Bakker,NL
+Sunbeam,3.5 HP,500,3 1/2,1920,Dhr. ,Peder,Hansen,DK
