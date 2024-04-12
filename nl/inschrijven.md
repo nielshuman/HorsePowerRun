@@ -7,6 +7,10 @@ published: true
 _template: pagina
 ---
 
-Op zondag 21 April rijden we vanuit het mooie Veenhuizen de 41e editie van de HorsePowerRun. De inschrijving is ondertussen geopend. U kunt het formulier hieronder invullen en ontvangt dan van ons een bevestiging indien de inschrijving gelukt is.
+Op zondag 21 April rijden we vanuit het mooie Veenhuizen de 41e editie van de HorsePowerRun. 
 
-{% include formulier.html %}
+De inschrijving via deze website is ondertussen gesloten. Als u alsnog mee wilt doen stuur dan even een mailtje aan horsepowerrun\@gmail.com!
+
+met vr. groet
+
+team HPR
