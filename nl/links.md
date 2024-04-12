@@ -1,8 +1,8 @@
 ---
-title: Links
 menu:
   nav_nl:
     weight: 11
+title: Links
 published: true
 _template: pagina
 ---
@@ -11,13 +11,9 @@ _template: pagina
 
 ![](/media/auto_louwes.jpg)
 
-![](/media/img_6829.JPG)
-
 ![](/media/powerplus.jpg)
 
 ![](/media/yesterdays.jpg)
-
-![](/media/smederij_krist.jpg)
 
 ![](/media/vanbergen.jpg)
 
