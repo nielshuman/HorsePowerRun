@@ -4,7 +4,7 @@ menu:
     weight: 1
 title: Home
 published: true
-countdown_date: 2024-04-20T22:00:00.000Z
+countdown_date: 2025-04-19T22:00:00.000Z
 layout: title
 _template: homepagina
 ---
@@ -13,7 +13,7 @@ _template: homepagina
 
 ### Een toerrit voor motorfietsen tot en met bouwjaar 1920.
 
-Wij hopen u allen op **Zondag 21 April 2024** in goede gezondheid te mogen begroeten in Veenhuizen voor de 41e editie!
+Wij hopen u allen op **Zondag 20 April 2025** in goede gezondheid te mogen begroeten in Veenhuizen voor de 42e editie!
 
 ### Oproep:
 
