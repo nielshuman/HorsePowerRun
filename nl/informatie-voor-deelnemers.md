@@ -3,7 +3,7 @@ menu:
   nav_nl:
     weight: 6
 title: Informatie voor deelnemers
-published: true
+published: false
 _template: pagina
 ---
 
