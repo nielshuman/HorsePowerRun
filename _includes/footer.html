@@ -2,9 +2,11 @@
 <footer class="py-5 bg-dark" style="height: 150px;">
   <div class="container">
     <p class="m-0 text-center align-middle text-white">
-       {% if page.url contains "/nl/" %} Dit evenement wordt mede mogelijk gemaakt door de Vrienden van de HorsePowerRun. {% endif %}
-       {% if page.url contains "/en/" %} This event is made possible in part thanks to the Friends of the HorsePowerRun. {% endif %}
-	   {% if page.url contains "/de/" %} Diese Veranstaltung wird teilweise von den Freunden des HorsePowerRun ermöglicht {% endif %}
+       {% if page.url contains "/nl/" %} Dit evenement wordt mede mogelijk gemaakt door de <a href="https://horsepowerrun.nl/nl/links"> Vrienden van de HorsePowerRun. </a> {% endif %}
+
+       {% if page.url contains "/en/" %} This event is made possible by the <a href="https://horsepowerrun.nl/en/links"> Friends of the HorsePowerRun. </a> {% endif %}
+	     {% if page.url contains "/de/" %} Dieses Ereignis wird durch die <a href="https://horsepowerrun.nl/de/links"> Freunde des HorsePowerRun </a> ermöglicht. {% endif %}
+       {% if page.url contains "/fr/" %} Cet événement est rendu possible par les <a href="https://horsepowerrun.nl/fr/links"> Amis du HorsePowerRun. </a> {% endif %}
 	   <br> 
    	   Copyright © 2020 Stichting HorsePowerRun.</p>
   </div>
