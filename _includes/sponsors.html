@@ -23,7 +23,7 @@
   .slide > img {
     /* width: 100px; */
     height: 50px;
-    animation: scroll 40s linear infinite;
+    animation: scroll 200s linear infinite;
     max-width: none;
   }
 
@@ -48,7 +48,7 @@
 
 <div class="slider">
   <div class="slide-track">
-    {% for i in (1..5) %}
+    {% for i in (1..8) %}
       {% for sponsor in site.data.sponsors %}
         <div class="slide">
           <img src="{{sponsor}}" alt="{{ sponsor }}" />
