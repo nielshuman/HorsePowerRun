@@ -21,69 +21,90 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
 <style>
-  .logos_container {
+  body {
+    background-color: #333;
+  }
+
+  img {
+    width: 100px;
+    height: 100px;
+    animation: scroll 60s linear infinite;
+  }
+
+  .slide-track {
+    width: 100%;
+    display: flex;
+    gap: 3em;
     overflow: hidden;
   }
 
-  .logos_container .slider {
-    animation: slidein 30s linear infinite;
-    white-space: nowrap;
+  .slider {
+    margin-top: 70px;
+    background-color: whitesmoke;
+    padding: 8em 2em;
   }
 
-  .logos_container .slider .logos {
-    width: 100%;
-    display: inline-block;
-    margin: 0px 0;
-  }
-
-  .logos_container .slider .logos .fab {
-    width: calc(100% / 5);
-    animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
-  }
-
-  @keyframes slidein {
-    from {
-      transform: translate3d(0, 0, 0);
-    }
-
-    to {
-      transform: translate3d(-100%, 0, 0);
-    }
-  }
-
-  @keyframes fade-in {
-    0% {
-      opacity: 0;
-    }
-
-    100% {
-      opacity: 1;
-    }
+  @keyframes scroll {
+    0% {transform: translateX(0);}
+    100% {transform: translatex(-1000%)}
   }
 </style>
 
-<div class="logos_container h-100"></div>
-  <div class="row align-items-center h-100">
-    <div class="logos_container rounded">
-      <h1 class="text-center">Featured in:</h1>
-      <div class="slider">
-        <div class="logos">
-
-          <i class="fab fa-js fa-4x"></i>
-          <i class="fab fa-linkedin-in fa-4x"></i>
-          <i class="fab fa-dribbble fa-4x"></i>
-          <i class="fab fa-medium-m fa-4x"></i>
-          <i class="fab fa-github fa-4x"></i>
-        </div>
-        <div class="logos">
-          <i class="fab fa-js fa-4x"></i>
-          <i class="fab fa-linkedin-in fa-4x"></i>
-          <i class="fab fa-dribbble fa-4x"></i>
-          <i class="fab fa-medium-m fa-4x"></i>
-          <i class="fab fa-github fa-4x"></i>
-        </div>
-      </div>
+<div class="slider">
+  <div class="slide-track">
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mcdonalds-black-logo.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/images/large/2x/starbucks-logo-black-and-white.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/general-electric-black-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/nfl-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/mercedes-benz-6-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/hogwarts-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mcdonalds-black-logo.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/images/large/2x/starbucks-logo-black-and-white.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/general-electric-black-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/nfl-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/mercedes-benz-6-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/hogwarts-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mcdonalds-black-logo.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/images/large/2x/starbucks-logo-black-and-white.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/general-electric-black-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/nfl-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/mercedes-benz-6-logo-png-transparent.png" alt="">
+    </div>
+    <div class="slide">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/hogwarts-logo-png-transparent.png" alt="">
     </div>
   </div>
-
 </div>
