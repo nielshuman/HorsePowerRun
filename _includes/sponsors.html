@@ -1,5 +1,5 @@
-<style>
-.flex-container {
+<!-- <style>
+.flex-logos_container {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
@@ -10,10 +10,78 @@
 }
 </style>
 
-<div class="flex-container">
+<div class="flex-logos_container">
   {% for sponsor in site.data.sponsors %}
     <div class="flex-item">
       <img src="{{sponsor}}" alt="{{ sponsor }}" style="height: 100px;" class="img-responsive" />
     </div>
   {% endfor %}
+</div> -->
+
+
+<style>
+  .logos_container {
+    overflow: hidden;
+  }
+
+  .logos_container .slider {
+    animation: slidein 30s linear infinite;
+    white-space: nowrap;
+  }
+
+  .logos_container .slider .logos {
+    width: 100%;
+    display: inline-block;
+    margin: 0px 0;
+  }
+
+  .logos_container .slider .logos .fab {
+    width: calc(100% / 5);
+    animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+  }
+
+  @keyframes slidein {
+    from {
+      transform: translate3d(0, 0, 0);
+    }
+
+    to {
+      transform: translate3d(-100%, 0, 0);
+    }
+  }
+
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+
+<div class="logos_container h-100"></div>
+  <div class="row align-items-center h-100">
+    <div class="logos_container rounded">
+      <h1 class="text-center">Featured in:</h1>
+      <div class="slider">
+        <div class="logos">
+          <i class="fab fa-js fa-4x"></i>
+          <i class="fab fa-linkedin-in fa-4x"></i>
+          <i class="fab fa-dribbble fa-4x"></i>
+          <i class="fab fa-medium-m fa-4x"></i>
+          <i class="fab fa-github fa-4x"></i>
+        </div>
+        <div class="logos">
+          <i class="fab fa-js fa-4x"></i>
+          <i class="fab fa-linkedin-in fa-4x"></i>
+          <i class="fab fa-dribbble fa-4x"></i>
+          <i class="fab fa-medium-m fa-4x"></i>
+          <i class="fab fa-github fa-4x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
