@@ -47,10 +47,12 @@
 
 <div class="slider">
   <div class="slide-track">
-    {% for sponsor in site.data.sponsors %}
-      <div class="slide">
-        <img src="{{sponsor}}" alt="{{ sponsor }}" />
-      </div>
+    {% for i in (1..5) %}
+      {% for sponsor in site.data.sponsors %}
+        <div class="slide">
+          <img src="{{sponsor}}" alt="{{ sponsor }}" />
+        </div>
+      {% endfor %}
     {% endfor %}
   </div>
 </div>
