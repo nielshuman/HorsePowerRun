@@ -18,14 +18,9 @@
   {% endfor %}
 </div> -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
 
 <style>
-  body {
-    background-color: #333;
-  }
-
-  img {
+  .slide > img {
     width: 100px;
     height: 100px;
     animation: scroll 60s linear infinite;
@@ -52,59 +47,10 @@
 
 <div class="slider">
   <div class="slide-track">
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mcdonalds-black-logo.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/images/large/2x/starbucks-logo-black-and-white.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/general-electric-black-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/nfl-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/mercedes-benz-6-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/hogwarts-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mcdonalds-black-logo.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/images/large/2x/starbucks-logo-black-and-white.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/general-electric-black-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/nfl-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/mercedes-benz-6-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/hogwarts-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/mcdonalds-black-logo.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/images/large/2x/starbucks-logo-black-and-white.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/general-electric-black-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/nfl-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/mercedes-benz-6-logo-png-transparent.png" alt="">
-    </div>
-    <div class="slide">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/hogwarts-logo-png-transparent.png" alt="">
-    </div>
+    {% for sponsor in site.data.sponsors %}
+      <div class="slide">
+        <img src="{{sponsor}}" alt="{{ sponsor }}" />
+      </div>
+    {% endfor %}
   </div>
 </div>
