@@ -2,27 +2,11 @@
 menu:
   nav_nl:
     weight: 11
-title: Links
+title: Vrienden
 published: true
 _template: pagina
 ---
 
-# Nieuwe test
+# Vrienden van de HorsePowerRun
 
 {% include sponsors.html %}
-
-## Vrienden van de HorsePowerRun:
-
-![](/media/auto_louwes.jpg)
-
-![](/media/powerplus.jpg)
-
-![](/media/yesterdays.jpg)
-
-![](/media/vanbergen.jpg)
-
-![](/media/motorrijwiel.jpg)
-
-![](/media/logo_motoport.png)
-
-![](/media/advertentie-hp-run-nieuw.JPG)
