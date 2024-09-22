@@ -7,6 +7,10 @@ published: true
 _template: pagina
 ---
 
+# Nieuwe test
+
+{% include sponsors.html %}
+
 ## Vrienden van de HorsePowerRun:
 
 ![](/media/auto_louwes.jpg)
