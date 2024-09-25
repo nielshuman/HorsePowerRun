@@ -9,23 +9,23 @@
           kind: 'flickr',
           userID: '{{ include.userID }}',
           thumbnailHeight: '250', thumbnailWidth: 'auto',
-          galleryDisplayMode: 'pagination',                 // gallery pagination mode
-          galleryMaxRows: 3,                                // gallery with max 3 rows
+          galleryDisplayMode: 'fullContent',                 // gallery pagination mode
+          // galleryMaxRows: 3,                                // gallery with max 3 rows
           gallerySorting: 'random',
           thumbnailAlignment: 'fillWidth',
-          thumbnailL1GutterWidth: 20,
-          thumbnailL1GutterHeight: 20,
+          thumbnailGutterWidth: 20,
+          thumbnailGutterHeight: 20,
           thumbnailBorderHorizontal: 1,
           thumbnailBorderVertical: 1,
 
           // THUMBNAIL TOOLS & LABEL
-          thumbnailL1Label: { display: true, position:'overImageOnTop', hideIcons: true, titleFontSize: '1.5em', align: 'left'},
+          thumbnailLabel: { display: true, position:'overImageOnTop', hideIcons: true, titleFontSize: '1.5em', align: 'left'},
           thumbnailToolbarImage :  { topLeft: 'select', bottomRight : 'featured,display,download,info,cart' },
 
           // DISPLAY ANIMATION
           thumbnailDisplayTransition: 'flipUp',       // thumbnail display animation
           thumbnailDisplayTransitionDuration: 400,
-          thumbnailDisplayInterval: 200,
+          thumbnailDisplayInterval: 0,
           thumbnailDisplayOrder: 'rowByRow',
 
           // THUMBNAIL'S HOVER ANIMATION
