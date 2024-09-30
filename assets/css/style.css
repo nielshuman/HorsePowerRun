@@ -45,7 +45,7 @@
 
 section {padding: 50px 0;}
 html, body {
-  min-height: 100%; /* Ensure the body takes the full height of the viewport */
+  min-height: 100vh; /* Ensure the body takes the full height of the viewport */
   margin: 0; /* Remove default margin */
 }
 body {
