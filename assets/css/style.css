@@ -44,17 +44,18 @@
 
 
 section {padding: 50px 0;}
-
-html {
-    position: relative;
-    min-height: 100%;
-    scroll-behavior: smooth;
+html, body {
+  height: 100%; /* Ensure the body takes the full height of the viewport */
+  margin: 0; /* Remove default margin */
 }
 body {
-    margin: 0;
-    /* bottom = footer height */
-    /*padding: 25px; */
+  display: flex;
+  flex-direction: column;
 }
+section {
+  flex: 1; /* Grow to fill available space */
+}
+
 footer {
     /* height: 100px; */
     width: 100%;
