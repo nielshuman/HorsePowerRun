@@ -57,8 +57,9 @@ section {
 }
 
 footer {
-    width: 100%;
-    overflow:hidden;
+  padding-top: 1rem;
+  width: 100%;
+  overflow:hidden;
 }
 
 /* tables */
