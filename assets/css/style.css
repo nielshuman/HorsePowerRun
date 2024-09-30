@@ -57,7 +57,7 @@ section {
 }
 
 footer {
-    /* height: 100px; */
+    min-height: 100px;
     width: 100%;
     overflow:hidden;
 }
