@@ -46,14 +46,11 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    margin: 0 0 100px;
+    margin: 0;
     /* bottom = footer height */
     /*padding: 25px; */
 }
 footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
     /* height: 100px; */
     width: 100%;
     overflow:hidden;
