@@ -38,8 +38,8 @@
 }
 
 .dark_overlay {
-  /* background: rgba(0,0,0,.5); */
-  background: #0008;
+  background: rgba(0,0,0,.5);
+  /* background: #0008; */
 }
 
 
@@ -86,3 +86,7 @@ th {
 }
 
 .headroom{-webkit-transition:all .4s ease-out;-moz-transition:all .4s ease-out;-o-transition:all .4s ease-out;transition:all .4s ease-out}img{max-width:100%}img.pull-right{margin-left:10px}img.pull-left{margin-right:10px}.sidebar{padding-top:36px;padding-bottom:30px}
+
+.fa-ul {
+  margin: 0;
+}
