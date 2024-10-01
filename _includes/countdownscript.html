@@ -1,11 +1,8 @@
 <script type="text/javascript">
     // countdown
     const count_down_to = Math.floor(new Date("{{ page.countdown_date }}").getTime() / 1000); // javascript not epoch but epoch + milisec
-    const options = {
-        {% if page.url contains "/nl/" %} 
-            headings: ['Dagen', 'Uren', 'Minuten', 'Seconden'] 
-        {% endif %}
-    };
+    const dutch = {{ page.url contains "/nl/" }};
+	console.log(dutch)
     let flipclock = new FlipDown(count_down_to, 'countdown');
     flipclock.start();
 
