@@ -1,10 +1,9 @@
 ---
 title: Contact
-published: false
 menu:
   nav_nl:
     weight: 10
-published: true
+published: false
 _template: pagina
 ---
 
