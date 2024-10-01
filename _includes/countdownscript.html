@@ -3,7 +3,7 @@
     const count_down_to = Math.floor(new Date("{{ page.countdown_date }}").getTime() / 1000); // javascript not epoch but epoch + milisec
     const pageUrl = '{{ page.url }}';
 	const headings = pageUrl.includes('/nl/') ? ['Dagen', 'Uren', 'Minuten', 'Seconden'] : ['Days', 'Hours', 'Minutes', 'Seconds'];	
-	conspole.log(headings);
+	console.log(headings);
     let flipclock = new FlipDown(count_down_to, 'countdown', {headings: headings});
     flipclock.start();
     // hide seconds
