@@ -3,7 +3,7 @@
 	const count_down_to = Math.floor(new Date("{{ page.countdown_date }}").getTime() / 1000) // javascript not epoch but epoch + milisec
 	const options = {
 		{% if page.url contains "/nl/" %} 
-			headings: ['Dagen', 'Uren', 'Minuten', "Seconden"] 
+			headings: ['Dagen', 'Uren', 'Minuten', 'Seconden'] 
 		{% endif %}
 	}
 	let flipclock = new FlipDown(count_down_to, 'countdown'{% if });
