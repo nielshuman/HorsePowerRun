@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% if page.url contains "/nl/" %}nl{% endif %}{% if page.url contains "/en/" %}en{% endif %}">
   <head>
     <title>{{site.title}}</title>
     {% include head.html %}
