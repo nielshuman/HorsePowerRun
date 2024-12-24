@@ -1,5 +1,5 @@
 ---
-title: Thanks
+title: Thanks!
 _template: pagina
 ---
 
