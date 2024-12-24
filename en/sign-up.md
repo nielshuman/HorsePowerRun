@@ -3,7 +3,7 @@ menu:
   nav_en:
     weight: 2
 title: Sign Up
-published: true
+published: false
 _template: pagina
 ---
 
