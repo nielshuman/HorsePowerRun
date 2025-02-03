@@ -97,7 +97,7 @@ th {
 }
 
 @media (max-width: 992px) {
-  .navbar-nav.mr-auto {
+  .navbar-nav.mr-auto, .navbar-nav.ml-auto {
     text-align: center;
   }
 }
