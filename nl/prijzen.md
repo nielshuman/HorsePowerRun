@@ -1,9 +1,9 @@
 ---
-title: Prijzen
 menu:
   nav_nl:
     weight: 3
-published: true
+title: Prijzen
+published: false
 _template: pagina
 ---
 
