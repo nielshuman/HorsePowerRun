@@ -101,11 +101,11 @@ th {
     text-align: center;
   }
   .container-fluid {
-    justify-content: center;
+    justify-content: center !important;
   }
   .navbar-brand {
     display: flex;
     width: 100%;
-    justify-content: center !important;
+    justify-content: center;
   }
 }
