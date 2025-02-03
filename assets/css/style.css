@@ -100,4 +100,12 @@ th {
   .navbar-nav.mr-auto, .navbar-nav.ml-auto {
     text-align: center;
   }
+  .container-fluid {
+    justify-content: center;
+  }
+  .navbar-brand {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
 }
