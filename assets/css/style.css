@@ -95,3 +95,9 @@ th {
 .flipdown.flipdown__theme-dark .rotor-group-heading:before {
   color: #fff !important;
 }
+
+@media (min-width: 992px) {
+  .navbar-nav.mr-auto {
+    text-align: center;
+  }
+}
