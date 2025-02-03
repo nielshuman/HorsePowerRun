@@ -1,8 +1,9 @@
 ---
-title: Pricing
 menu:
   nav_en:
     weight: 3
+title: Pricing
+published: false
 _template: pagina
 ---
 
