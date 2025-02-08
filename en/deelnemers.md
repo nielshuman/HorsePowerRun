@@ -1,14 +1,14 @@
 ---
 menu:
-  nav_nl:
+  nav_en:
     weight: 5
-title: Deelnemers
+title: Participants
 published: true
 _template: pagina
 ---
 
-# Deelnemers
+# Participants
 
-De volgende deelnemers hebben zich ingeschreven:
+The following participants have registered:
 
 {% include table.html %}
