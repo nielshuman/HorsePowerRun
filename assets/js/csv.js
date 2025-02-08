@@ -1,34 +1,36 @@
 function buildTable(response) {
-    var allRows = response.split(/\r?\n|\r/).filter(a => !!a);
-    var table = '<table>';
-    for (var singleRow = 0; singleRow < allRows.length; singleRow++) {
-        if (singleRow === 0) {
-            table += '<thead>';
-            table += '<tr>';
+    const allRows = response.split(/\r?\n|\r/).filter(Boolean);
+    let table = '<table>';
+    
+    allRows.forEach((row, index) => {
+        const rowCells = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(cell => cell.replace(/^"|"$/g, ''));
+        
+        if (index === 0) {
+            table += '<thead><tr>';
+            rowCells.forEach(cell => {
+                table += `<th>${escapeHtml(cell)}</th>`;
+            });
+            table += '</tr></thead><tbody>';
         } else {
             table += '<tr>';
-        }
-        var rowCells = allRows[singleRow].split(',');
-        for (var rowCell = 0; rowCell < rowCells.length; rowCell++) {
-            if (singleRow === 0) {
-                table += '<th>';
-                table += rowCells[rowCell];
-                table += '</th>';
-            } else {
-                table += '<td>';
-                table += rowCells[rowCell];
-                table += '</td>';
-            }
-        }
-        if (singleRow === 0) {
-            table += '</tr>';
-            table += '</thead>';
-            table += '<tbody>';
-        } else {
+            rowCells.forEach(cell => {
+                table += `<td>${escapeHtml(cell)}</td>`;
+            });
             table += '</tr>';
         }
-    }
-    table += '</tbody>';
-    table += '</table>';
+    });
+    
+    table += '</tbody></table>';
     return table;
+}
+
+function escapeHtml(text) {
+    const map = {
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#039;'
+    };
+    return text.replace(/[&<>"']/g, m => map[m]);
 }
