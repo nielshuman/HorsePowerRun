@@ -8,7 +8,7 @@ _template: pagina
 ---
 
 {% include Deelnemercounter.html %}
-<h2 style="text-align: center;"> Deelnemers tot nu toe </h3>
+<h2 style="text-align: center;"> Deelnemers tot nu toe </h2>
 
 De volgende deelnemers hebben zich ingeschreven:
 {% include table.html %}
