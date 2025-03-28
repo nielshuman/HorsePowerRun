@@ -11,4 +11,5 @@ _template: pagina
 
 De volgende deelnemers hebben zich ingeschreven:
 
+{% include Deelnemerscounter.html %}
 {% include table.html %}
