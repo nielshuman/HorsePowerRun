@@ -7,8 +7,7 @@ published: true
 _template: pagina
 ---
 
-# Participants
-
-The following participants have registered:
+{% include Deelnemercounter.html %}
 
 {% include table.html %}
+

@@ -9,5 +9,4 @@ _template: pagina
 
 {% include Deelnemercounter.html %}
 
-De volgende deelnemers hebben zich ingeschreven:
 {% include table.html %}
