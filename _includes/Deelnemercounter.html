@@ -68,10 +68,10 @@
         border-radius: 0.12em !important;
     }
 </style>
-<div class="tick" data-value="0" data-did-init="handleTickInit">
-
+<h1 class="tick-label" data-view="text">Deelnemers</h1>
+<div class="tick" data-value="0" data-did-init="handleTickInit" data-credits="false">
     <div data-layout="horizontal center" data-repeat="true"
-        data-transform="arrive(9, .001) -> round -> pad('   ') -> split -> delay(rtl, 100, 150)">
+        data-transform="arrive(9, .001) -> round -> pad('  ') -> split -> delay(rtl, 100, 150)">
 
         <span data-view="flip"></span>
 
@@ -82,7 +82,8 @@
     function handleTickInit(tick) {
         window.deelnemersTick = tick;
         if (window.numberOfParticipants) {
-            tick.value = window.numberOfParticipants;
+            // tick.value = window.numberOfParticipants;
         }
+        tick.value = 50;
     }
 </script>
