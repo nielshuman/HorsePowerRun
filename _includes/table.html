@@ -11,7 +11,7 @@
 	    if (request.status != 200) return;
 	    document.getElementById('participants-table').innerHTML = buildTable(request.response);
 		// get number of participants from csv file
-		window.numberOfParticipants = request.response.split('\n').length - 1;
+		window.numberOfParticipants = request.response.split('\n').length - 2;
 		window.deelnemersTick.value = window.numberOfParticipants;
 	};
 
