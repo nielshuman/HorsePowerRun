@@ -6,6 +6,7 @@ title: Deelnemers
 published: true
 _template: pagina
 ---
+
 {% include Deelnemercounter.html %}
 <h2 style="text-align: center;"> Deelnemers tot nu toe </h3>
 
