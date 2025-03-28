@@ -77,6 +77,9 @@
     </div>
 
 </div>
+{% if page.url contains "/nl/" %} <h2 style="text-align: center;"> Deelnemers tot nu toe </h2> {% endif %}
+{% if page.url contains "/en/" %} <h2 style="text-align: center;"> Participants so far </h2> {% endif %}
+{% if page.url contains "/de/" %} <h2 style="text-align: center;"> Teilnehmer bisher </h2> {% endif %}
 <script>
     function handleTickInit(tick) {
         window.deelnemersTick = tick;
