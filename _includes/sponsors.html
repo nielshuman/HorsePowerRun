@@ -28,11 +28,26 @@
   }
 
   .slide-track {
-    width: 100%;
-    display: flex;
-    gap: 3em;
-    overflow: hidden;
-  }
+  width: 100%;
+  display: flex;
+  gap: 3em;
+  overflow: hidden;
+  /* Add these properties for the fade effect */
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+}
 
   .slider {
     /* margin-top: 70px; */
@@ -48,7 +63,7 @@
 
 <div class="slider">
   <div class="slide-track">
-    {% for i in (1..8) %}
+    {% for i in (</div>1..8) %}
       {% for sponsor in site.data.sponsors %}
         <div class="slide">
           <img src="{{sponsor}}" alt="{{ sponsor }}" />
