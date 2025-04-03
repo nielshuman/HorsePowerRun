@@ -11,7 +11,7 @@
       userID: '{{ include.userID }}',
       thumbnailHeight: 250,
       thumbnailWidth: 'auto',
-      galleryDisplayMode: 'pagination', 
+      galleryDisplayMode: 'pagination',
       galleryMaxRows: 2,
       gallerySorting: 'random',
       thumbnailAlignment: 'center',
@@ -20,18 +20,27 @@
       thumbnailBorderHorizontal: 2,
       thumbnailBorderVertical: 2,
 
-      // LABEL SETTINGS - Show Album Names always, outside the image
-      thumbnailLabel: { 
+      // ALBUM LABELS (Only for albums, solid background, no transparency)
+      thumbnailL1Label: { 
         display: true, 
-        position: 'onBottom',  // Moves label outside the image
-        titleFontSize: '1.2em', 
+        valign: 'bottom', 
+        hideIcons: true, 
+        titleFontSize: '1.5em', 
         align: 'center',
+        titleMultiLine: true, 
+        displayDescription: false,
+        background: '#333', // Solid background color
         titleColor: '#fff',
-        titleShadow: 'none',
-        title: 'album' // Only show album names
+        padding: '10px', // Adds space for better readability
+        borderRadius: '4px'
       },
 
-      thumbnailToolbarImage : { 
+      // PHOTO LABELS (Hidden to avoid clutter)
+      thumbnailLabel: { 
+        display: false 
+      },
+
+      thumbnailToolbarImage: { 
         topLeft: 'select', 
         bottomRight: 'featured,display,download,info,cart' 
       },
