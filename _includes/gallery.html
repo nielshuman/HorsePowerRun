@@ -20,14 +20,14 @@
       thumbnailBorderHorizontal: 2,
       thumbnailBorderVertical: 2,
 
-      // LABEL SETTINGS - Show only Album names, hide photo titles
+      // LABEL SETTINGS - Show Album Names always, outside the image
       thumbnailLabel: { 
         display: true, 
-        position: 'overImageOnBottom', 
+        position: 'onBottom',  // Moves label outside the image
         titleFontSize: '1.2em', 
         align: 'center',
         titleColor: '#fff',
-        titleShadow: '2px 2px 4px rgba(0,0,0,0.5)',
+        titleShadow: 'none',
         title: 'album' // Only show album names
       },
 
@@ -43,7 +43,7 @@
       thumbnailDisplayOrder: 'rowByRow',
 
       // HOVER EFFECTS (No sepia, better scaling to prevent black borders)
-      thumbnailHoverEffect2: 'imageScale150|toolsSlideUp|labelAppear75',
+      thumbnailHoverEffect2: 'imageScale150|toolsSlideUp',
       touchAnimation: true,
       touchAutoOpenDelay: -1,
 
