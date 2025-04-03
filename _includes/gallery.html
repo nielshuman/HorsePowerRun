@@ -11,8 +11,8 @@
       userID: '{{ include.userID }}',
       thumbnailHeight: 250,
       thumbnailWidth: 'auto',
-      galleryDisplayMode: 'pagination', // Enables pagination for better navigation
-      galleryMaxRows: 2,  // Limits to 2 rows per page for a clean look
+      galleryDisplayMode: 'pagination', 
+      galleryMaxRows: 2,
       gallerySorting: 'random',
       thumbnailAlignment: 'center',
       thumbnailGutterWidth: 15,
@@ -20,15 +20,17 @@
       thumbnailBorderHorizontal: 2,
       thumbnailBorderVertical: 2,
 
-      // THUMBNAIL LABELS & TOOLS
+      // LABEL SETTINGS - Show only Album names, hide photo titles
       thumbnailLabel: { 
         display: true, 
         position: 'overImageOnBottom', 
         titleFontSize: '1.2em', 
         align: 'center',
         titleColor: '#fff',
-        titleShadow: '2px 2px 4px rgba(0,0,0,0.5)'
+        titleShadow: '2px 2px 4px rgba(0,0,0,0.5)',
+        title: 'album' // Only show album names
       },
+
       thumbnailToolbarImage : { 
         topLeft: 'select', 
         bottomRight: 'featured,display,download,info,cart' 
