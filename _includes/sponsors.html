@@ -1,29 +1,69 @@
-<style>
-  .slide-track {
-    display: flex;
-    gap: 3em;
-    overflow: hidden;
-    width: max-content; /* Allow continuous flow */
-    animation: scroll 20s linear infinite;
-    /* Add fading effect */
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-    mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-  }
+<!-- <style>
+.flex-logos_container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
 
+.flex-item {
+  margin: auto;
+}
+</style>
+
+<div class="flex-logos_container">
+  {% for sponsor in site.data.sponsors %}
+    <div class="flex-item">
+      <img src="{{sponsor}}" alt="{{ sponsor }}" style="height: 100px;" class="img-responsive" />
+    </div>
+  {% endfor %}
+</div> -->
+
+
+<style>
   .slide > img {
+    /* width: 100px; */
     height: 50px;
+    animation: scroll 200s linear infinite;
     max-width: none;
   }
 
+  .slide-track {
+  width: 100%;
+  display: flex;
+  gap: 3em;
+  overflow: hidden;
+  /* Add these properties for the fade effect */
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 10%,
+    black 90%,
+    transparent 100%
+  );
+}
+
+  .slider {
+    /* margin-top: 70px; */
+    /* background-color: whitesmokea */
+    /* padding: 8em 2em; */
+  }
+
   @keyframes scroll {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); } /* Move only half so loop stays seamless */
+    0% {transform:  (0);}
+    100% {transform: translatex(-10000px)}
   }
 </style>
 
 <div class="slider">
   <div class="slide-track">
-    {% for i in (1..2) %} <!-- Duplicate the slides for looping -->
+    {% for i in (</div>1..8) %}
       {% for sponsor in site.data.sponsors %}
         <div class="slide">
           <img src="{{sponsor}}" alt="{{ sponsor }}" />
