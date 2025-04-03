@@ -1,43 +1,67 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js" type="text/javascript"></script>
-<link  href="https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
-<script  type="text/javascript" src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link href="https://unpkg.com/nanogallery2@2.4.2/dist/css/nanogallery2.min.css" rel="stylesheet">
+<script src="https://unpkg.com/nanogallery2@2.4.2/dist/jquery.nanogallery2.min.js"></script>
 
 <div id="gallery">Als hier na een tijd niks staat, ondersteunt uw browser de galerij niet.</div>
+
 <script>
-   jQuery(document).ready(() => {
-      jQuery('#gallery').nanogallery2({
-          kind: 'flickr',
-          userID: '{{ include.userID }}',
-          thumbnailHeight: '250', thumbnailWidth: 'auto',
-          galleryDisplayMode: 'fullContent',                 // gallery pagination mode
-          // galleryMaxRows: 3,                                // gallery with max 3 rows
-          gallerySorting: 'random',
-          thumbnailAlignment: 'fillWidth',
-          thumbnailGutterWidth: 20,
-          thumbnailGutterHeight: 20,
-          thumbnailBorderHorizontal: 1,
-          thumbnailBorderVertical: 1,
+  jQuery(document).ready(() => {
+    jQuery('#gallery').nanogallery2({
+      kind: 'flickr',
+      userID: '{{ include.userID }}',
+      thumbnailHeight: 250,
+      thumbnailWidth: 'auto',
+      galleryDisplayMode: 'pagination', // Enables pagination for better navigation
+      galleryMaxRows: 2,  // Limits to 2 rows per page for a clean look
+      gallerySorting: 'random',
+      thumbnailAlignment: 'center',
+      thumbnailGutterWidth: 15,
+      thumbnailGutterHeight: 15,
+      thumbnailBorderHorizontal: 2,
+      thumbnailBorderVertical: 2,
 
-          // THUMBNAIL TOOLS & LABEL
-          thumbnailLabel: { display: true, position:'overImageOnTop', hideIcons: true, titleFontSize: '1.5em', align: 'left'},
-          thumbnailToolbarImage :  { topLeft: 'select', bottomRight : 'featured,display,download,info,cart' },
+      // THUMBNAIL LABELS & TOOLS
+      thumbnailLabel: { 
+        display: true, 
+        position: 'overImageOnBottom', 
+        titleFontSize: '1.2em', 
+        align: 'center',
+        titleColor: '#fff',
+        titleShadow: '2px 2px 4px rgba(0,0,0,0.5)'
+      },
+      thumbnailToolbarImage : { 
+        topLeft: 'select', 
+        bottomRight: 'featured,display,download,info,cart' 
+      },
 
-          // DISPLAY ANIMATION
-          thumbnailDisplayTransition: 'flipUp',       // thumbnail display animation
-          thumbnailDisplayTransitionDuration: 400,
-          thumbnailDisplayInterval: 0,
-          thumbnailDisplayOrder: 'rowByRow',
+      // DISPLAY ANIMATION
+      thumbnailDisplayTransition: 'fadeIn',
+      thumbnailDisplayTransitionDuration: 500,
+      thumbnailDisplayInterval: 100,
+      thumbnailDisplayOrder: 'rowByRow',
 
-          // THUMBNAIL'S HOVER ANIMATION
-          thumbnailHoverEffect2: 'toolsSlideUp|labelSlideDown',
-          touchAnimation: true,
-          touchAutoOpenDelay: -1,
+      // HOVER EFFECTS
+      thumbnailHoverEffect2: 'imageScaleIn80|imageSepiaOff|toolsSlideUp|labelAppear75',
+      touchAnimation: true,
+      touchAutoOpenDelay: -1,
 
-          // GALLERY THEME
-          galleryTheme : { 
-            thumbnail: { titleShadow : 'none', descriptionShadow : 'none', titleColor: '#fff', borderColor: '#fff' },
-            navigationPagination :  { background: '#3C4B5B', color: '#fff', colorHover: '#aaa', borderRadius: '4px' },
-          },
-        });
+      // THEME STYLES
+      galleryTheme: {
+        thumbnail: { 
+          titleShadow: 'none', 
+          descriptionShadow: 'none', 
+          titleColor: '#fff', 
+          borderColor: '#fff',
+          background: 'rgba(0,0,0,0.8)' 
+        },
+        navigationPagination: { 
+          background: '#444', 
+          color: '#fff', 
+          colorHover: '#ddd', 
+          borderRadius: '6px', 
+          padding: '8px'
+        }
+      }
     });
+  });
 </script>
