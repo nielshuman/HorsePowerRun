@@ -1,32 +1,22 @@
 ---
-title: Route
+title: Routes
 menu:
   nav_nl:
     weight: 8
-published: false
+published: true
 _template: pagina
 ---
 
-## De routes van dit jaar:
+## Routes
 
 ### Ochtendroute:
 
-![](/media/assets/img/ochtenroute-naar-marum.png)
-
-Vertrek eerste rijder uit Veenhuizen: 9:30 uur
-
-Koffiepauze Marum (PowerPlus Tools): 10:30 uur
-
-Terugkomst in Veenhuizen vanaf 11:30
+<iframe width="300" height="300" 
+        frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
+        src="https://afstandmeten.nl/embed.php?id=3892592&kmStep=0"></iframe>
 
 ### Middagroute:
 
-(Deze route is tussen Een en Nieuw-Roden aangepast ten opzichte van de eerder gepubliceerde versie.)
-
-![](/media/assets/img/aangepaste-middagroute.png)
-
-Vertrek eerste rijder uit Veenhuizen: 13:00 uur
-
-Theepauze Leek (Nienoord) 14:00 uur
-
-Slotmanifestatie in Veenhuizen vanaf 15:00
+<iframe width="300" height="300" 
+        frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
+        src="https://afstandmeten.nl/embed.php?id=3892606&kmStep=0"></iframe>
