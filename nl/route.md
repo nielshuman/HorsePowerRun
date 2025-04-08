@@ -9,4 +9,4 @@ _template: pagina
 
 ## Routes
 
-{% include routes.html ochtendRouteID="3892592" middagRouteID="3892606" %}
+{% include routes.html ochtendRouteID="3892592" middagRouteID="3892606" kmStep="0" %}
