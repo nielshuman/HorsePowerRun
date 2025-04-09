@@ -8,7 +8,7 @@ _template: pagina
 ---
 
 ### Ochtendroute
-{% include route.html afstandmetenID="3892592" %}
+{% include routekaart.html afstandmetenID="3892592" %}
 
 ### Middagroute
-{% include route.html afstandmetenID="3892606" %}
+{% include routekaart.html afstandmetenID="3892606" %}
