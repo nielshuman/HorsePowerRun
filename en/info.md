@@ -7,65 +7,68 @@ published: true
 _template: pagina
 ---
 
-# Table of contents
+# Table of Contents
 
-* [General information](#a)
-* [Regulation](#b)
+* [General Information](#a)
+* [Regulations](#b)
 
-# General information {#a}
+# General Information {#a}
 
-The event will start at 09.30.
-The total length of the route will be around 90 kilometers.
-The start, lunchbreak and finish will be in the same location. More information on the exact route and  the coffee and tea breaks will be published a few weeks before the event on this site and trough [our facebook page](https://facebook.com/horsepowerrun).
-The route is marked with orange arrows with a letter on them: L for left, R for right and S straight on.
+#### Route Information
 
-#### Fuel
+The start is at 10:00 AM.\
+The total length of the route is approximately 85 km.\
+The start and finish are at the same location. Lunch will take place in Jubbega this year.\
+The route is indicated by orange arrows: L for left, R for right, and S for straight ahead.
 
-There are no fuel stations along the route were riding. You have to make sure to bring a sufficient quantity of fuel, so you will be able to refuel during the lunchbreak if needed.
+#### Gasoline
 
-#### Service vehicle
+There are no fuel stations directly along the route. Participants must ensure they have enough fuel.
 
-The partcipants are followed by a service vehicle that will pick up stranded machines and their riders. You will be provided with a phonenumber to contact this crew during the day if needed. The serviceteam will leave the starting location approximately 30 minutes after the last participant has started.
+#### Sweeper Vehicle
+
+A sweeper vehicle will be on the route to pick up participants and their vehicles who drop out. It is also possible to contact the sweeper vehicle if a participant has deviated from the route and needs assistance getting back on track. Contact details will be provided. The sweeper vehicle will depart approximately 15 minutes after the last participant leaves.
 
 #### Clothing
 
-We encourige participants to wear clothing that fit teh timeperiod of their machine. Wearing a safe and certified helmet is compulsary in the other hand.
+We would appreciate it if you wear clothing appropriate for the age of the vehicle. However, wearing an approved motorcycle helmet is mandatory.
 
-#### Final presentation
+#### Closing Ceremony
 
-The final presentation including the pricegiving ceremony will take place at the inner court of the [Prison museum](http://www.gevangenismuseum.nl/) in Veenhuizen.
+The closing ceremony will take place in the central area of the [Prison Museum](http://www.gevangenismuseum.nl/) in Veenhuizen.
 
-# Regulation HorsePowerRun {#b}
+# HorsePowerRun Regulations {#b}
 
-The International HorsePowerRun will start at the Nationaal Gevangenismuseum (National Prison Museum) at the Oude Gracht 1 in Veenhuizen. The 41th edition is scheduled for Sunday, April the 21th, 2024.
+The International HorsePowerRun starts from the National Prison Museum at Oude Gracht 1, 9341 AA Veenhuizen. The 42nd edition will take place on Sunday, April 20, 2025.
 
-**The following rules apply.**
+**The following rules apply:**
 
 1. **Vehicle**\
-   The registered vehicle must fall in one of the following categories:
+   The registered vehicle must fall into one of the following categories:
    * solo machine
    * machine with sidecar
-   * tricycle/forecars
+   * trike/forecar
+   The vehicle must not have been produced later than December 31, 1920. If the vehicle has not previously participated in the HorsePowerRun, you must demonstrate that it is eligible to start. This can be done in two ways:
+   1. By entering the pioneer certificate number issued for the machine on the registration form on the website; or
+   2. By providing dated documentation (brochures, information from brand publications, VMC dating certificate, engine and frame numbers, etc.) to our organization via our email address.
+2. **Driver's License**\
+   The participant must hold a valid driver's license for the vehicle being ridden.
+3. **Registration and Insurance**\
+   The participant must have a valid registration document for the registered vehicle. Vehicles with a Dutch ZZ registration number will not be accepted as participants. All participating vehicles must be insured for the event day.
+4. **Changing Rider and Vehicle**\
+   Starting with a different vehicle than the one listed during registration must be reported to the secretariat before the start.\
+   Changing rider and/or vehicle during the event is not allowed.
+5. **Check-in**\
+   On the day of the event, participants must check in between 08:30 and 09:30 AM at the secretariat located in the room next to the restaurant of the Prison Museum.
+6. The participant signs the *sign-on* list, which declares acceptance of their own responsibility and liability regarding the rider and machine during the event. The participant hereby indemnifies the organizer from all liability.\
+   The organization is insured against legal liability through the Veteran Motorcycles Club.
+7. The participant will receive the program booklet, event vouchers, and a race number, which must be attached to the front of the vehicle.
+8. If you have symptoms that might indicate a possible coronavirus infection, stay home and cancel your participation via [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com).
+9. **Environmental Mat**\
+   The use of an environmental mat is mandatory. The minimum size of the mat should be 80 x 50 centimeters. The participant may bring their own environmental mat or purchase one for €5 through the HorsePower Run Foundation.
+10. **Costs**\
+    The cost for participation is €35.00 per vehicle, preferably paid in advance.\
+    Payment on the day of the event is possible. Due to COVID-19 and the uncertainties it brings, the costs for cash payment will be the same as for pre-registration this year.\
+    The cost for a passenger is €25.00 per person.
 
-The vehicle may not be manufactured any later than December 31st, 1920.\
-In case the vehicle has not started before in the HorsePowerRun, one must prove it to be a valid vehicle through one of the following two options:
-
-1. through corresponding the number of the pioneer certificate for said machine, on the registration form or by email; or
-2. through providing evidence in the form of dated documents (folders, brochures, date of brand publication, VMC dating certificate, motor and frame numbers, etc.) to our organization by email.
-3. **Driver's license**\
-   The participant must be in possession of a valid driver's license for the registered vehicle.
-4. **Registration certificate and insurance**\
-   The participant needs to be in possession of a valid registration certificate of the registered vehicle. This vehicle must be insured on the day of the event.
-5. **Changing rider and/or vehicle**\
-   To start the event with a different vehicle than registered is not allowed unless this has been made known to the organization. The latest this can be done is on the day of the event, before the start, at the registrationdesk.\
-   Changing the rider and/or vehicle once the event has started is not allowed.
-6. **Check in on the day of the event**\
-   On the day of the event, the participant is asked to report at the secretariat between 7.30 am and 9.00 am. The secretariat will be in the hall next to the restaurant of the Prison Museum.
-   * The participant needs to sign a document in which the participant declares the organization to not hold any responsibility towards the participant and its vehicle. The participant takes part in his own risk.\
-     The organization is insured through the Dutch Vintage Motorcycle Club for liability.
-   * The participant receives the programme booklet, consumption tickets for the event, and a starting number that needs to be attached to the vehicle.
-7. **Motorbike Mat**\
-   You are required to use a motorbike mat to deal with possible dripping oil/fuel when parking your vehicle. The minimal size for this mat is 80 by 50 centimeters. You are allowed to bring your own suitable mat, or you can buy one for €5 via the HorsePowerRun.
-8. **Costs**\
-   By advance payment, the costs for participation are €35 per vehicle.\
-   Costs for passengers (like inside a sidecar) are €25.
+    Participants who need to cancel due to coronavirus-related symptoms will receive a refund of their registration fee.
