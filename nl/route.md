@@ -7,6 +7,8 @@ published: true
 _template: pagina
 ---
 
+De opzet van de HorsePowerRun is dit jaar iets anders dan gebruikelijk: we gaan Friesland in en komen dus niet terug naar Veenhuizen voor de lunch. 
+
 ### Ochtendroute
 
 {% include routekaart.html afstandmetenID="3892592" %}
