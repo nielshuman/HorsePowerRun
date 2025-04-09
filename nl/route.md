@@ -7,6 +7,8 @@ published: true
 _template: pagina
 ---
 
-## Routes
+### Ochtendroute
+{% include route.html afstandmetenID="3892592" %}
 
-{% include routes.html ochtendRouteID="3892592" middagRouteID="3892606" kmStep="0" %}
+### Middagroute
+{% include route.html afstandmetenID="3892606" %}
