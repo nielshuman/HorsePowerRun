@@ -2,6 +2,9 @@
 title: Route
 published: true
 _template: pagina
+menu:
+  nav_en:
+    weight: 2
 ---
 
 The setup of the HorsePowerRun is slightly different this year: we are heading into Friesland and will **not** be returning to Veenhuizen for lunch.
