@@ -9,4 +9,4 @@ _template: pagina
 
 Op zondag 20 April rijden we vanuit het mooie Veenhuizen de 42e editie van de HorsePowerRun.
 
-{% include formulier.html %}
+ De inschrijving via de website is gesloten. Mocht u nog mee willen rijden (er zijn nog een paar plekken beschikbaar), dan kunt u een email sturen naar horspowerrun\@gmail.com.
