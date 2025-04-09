@@ -3,7 +3,7 @@ menu:
   nav_nl:
     weight: 6
 title: Informatie voor deelnemers
-published: false
+published: true
 _template: pagina
 ---
 
@@ -16,18 +16,18 @@ _template: pagina
 
 #### Route Informatie
 
-De start is om 09.30 uur.
-De totale lengte van de rit is circa 90 km.
-De start, hoofdpauze en finish zijn op dezelfde locatie. Informatie over de route en de pauzelocaties zal enkele weken voor het evenement op deze site en op [onze facebookpagina](https://facebook.com/horsepowerrun) worden gepubliceerd.
+De start is om 10.00 uur.
+De totale lengte van de rit is circa 85 km.
+De start en finish zijn op dezelfde locatie. De lunch vindt dit jaar plaats in Jubbega. 
 De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rechts en S voor rechtdoor.
 
 #### Benzine
 
-Direct langs de route zijn geen benzinepompen aanwezig. De deelnemers dienen dus zelf voor voldoende brandstof te zorgen, zodat eventueel tijdens de lunchpauze bijgetankt kan worden.
+Direct langs de route zijn geen benzinepompen aanwezig. De deelnemers dienen dus zelf voor voldoende brandstof te zorgen. 
 
 #### Bezemwagen
 
-Op de route rijdt een bezemwagen die uitvallers met hun machines oppikt. Er kan ook telefonisch contact opgenomen worden met de bezemwagen indien een deelnemer bijvoorbeeld van de route is geraakt om weer terug op de route te komen. Contactgegevens worden nader bekend gemaakt. De bezemwagen zal ongeveer 30 min na vertrek van de laatste deelnemer vertrekken.
+Op de route rijdt een bezemwagen die uitvallers met hun machines oppikt. Er kan ook telefonisch contact opgenomen worden met de bezemwagen indien een deelnemer bijvoorbeeld van de route is geraakt om weer terug op de route te komen. Contactgegevens worden nader bekend gemaakt. De bezemwagen zal ongeveer 15 min na vertrek van de laatste deelnemer vertrekken.
 
 #### Kleding
 
@@ -39,7 +39,7 @@ De slotmanifestatie zal plaatsvinden op het middenterrein van het [Gevangenismus
 
 # Reglement HorsePowerRun {#b}
 
-De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismuseum aan de Oude Gracht 1 in 9341 AA Veenhuizen. De 41e editie wordt gereden op zondag 21 april 2024.
+De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismuseum aan de Oude Gracht 1 in 9341 AA Veenhuizen. De 42e editie wordt gereden op zondag 20 april 2025.
 
 **De volgende regels zijn van toepassing.**
 
@@ -60,17 +60,17 @@ Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het v
 5. **Wisselen berijder en voertuig**\
    Starten met een ander voertuig dan bij de aanmelding opgegeven, dient voor de start op het secretariaat te worden gemeld.\
    Het wisselen van berijder en/of voertuig gedurende de rit is niet toegestaan.
-6. **Inchecken evenementsdag**\
-   Op de dag van het evenement dient de deelnemer zich te melden tussen 07.30 tot 09.00 uur bij het secretariaat dat zich bevindt in de zaal naast het restaurant van het Gevangenismuseum.
-   * De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
-     De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
-   * De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
-   * Heeft u klachten die kunnen wijzen op een corona-besmetting? blijf dan thuis en meldt u af via [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)
-7. **Milieumat**\
-   Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
-8. **Kosten**\
-   De kosten voor deelname bedragen € 35,00 per voertuig, bij voorkeur bij vooruitbetaling.\
-   Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
-   De kosten voor een bijrijder bedragen € 25,00 per persoon.
+6. **Inchecken **\
+   Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat dat zich bevindt in de zaal naast het restaurant van het Gevangenismuseum.
+7. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
+   De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
+8. De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
+9. Heeft u klachten die kunnen wijzen op een corona-besmetting? blijf dan thuis en meldt u af via [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)
+10. **Milieumat**\
+    Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
+11. **Kosten**\
+    De kosten voor deelname bedragen € 35,00 per voertuig, bij voorkeur bij vooruitbetaling.\
+    Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
+    De kosten voor een bijrijder bedragen € 25,00 per persoon.
 
-   Deelnemers die zich af moeten melden in verband met corona-gerelateerde klachten krijgen hun inschrijfgeld teruggestort.
+    Deelnemers die zich af moeten melden in verband met corona-gerelateerde klachten krijgen hun inschrijfgeld teruggestort.
