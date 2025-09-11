@@ -3,7 +3,7 @@ menu:
   nav_en:
     weight: 6
 title: Information for participants
-published: true
+published: false
 _template: pagina
 ---
 
@@ -48,7 +48,7 @@ The International HorsePowerRun starts from the National Prison Museum at Oude G
    * solo machine
    * machine with sidecar
    * trike/forecar
-   The vehicle must not have been produced later than December 31, 1920. If the vehicle has not previously participated in the HorsePowerRun, you must demonstrate that it is eligible to start. This can be done in two ways:
+     The vehicle must not have been produced later than December 31, 1920. If the vehicle has not previously participated in the HorsePowerRun, you must demonstrate that it is eligible to start. This can be done in two ways:
    1. By entering the pioneer certificate number issued for the machine on the registration form on the website; or
    2. By providing dated documentation (brochures, information from brand publications, VMC dating certificate, engine and frame numbers, etc.) to our organization via our email address.
 2. **Driver's License**\
