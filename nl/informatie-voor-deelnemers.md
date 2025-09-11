@@ -3,7 +3,7 @@ menu:
   nav_nl:
     weight: 6
 title: Informatie voor deelnemers
-published: true
+published: false
 _template: pagina
 ---
 
@@ -18,12 +18,12 @@ _template: pagina
 
 De start is om 10.00 uur.
 De totale lengte van de rit is circa 85 km.
-De start en finish zijn op dezelfde locatie. De lunch vindt dit jaar plaats in Jubbega. 
+De start en finish zijn op dezelfde locatie. De lunch vindt dit jaar plaats in Jubbega.
 De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rechts en S voor rechtdoor.
 
 #### Benzine
 
-Direct langs de route zijn geen benzinepompen aanwezig. De deelnemers dienen dus zelf voor voldoende brandstof te zorgen. 
+Direct langs de route zijn geen benzinepompen aanwezig. De deelnemers dienen dus zelf voor voldoende brandstof te zorgen.
 
 #### Bezemwagen
 
@@ -60,7 +60,7 @@ Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het v
 5. **Wisselen berijder en voertuig**\
    Starten met een ander voertuig dan bij de aanmelding opgegeven, dient voor de start op het secretariaat te worden gemeld.\
    Het wisselen van berijder en/of voertuig gedurende de rit is niet toegestaan.
-6. **Inchecken **\
+6. \*\*Inchecken \*\*\
    Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat dat zich bevindt in de zaal naast het restaurant van het Gevangenismuseum.
 7. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
    De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
