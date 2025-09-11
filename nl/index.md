@@ -4,7 +4,7 @@ menu:
     weight: 1
 title: Home
 published: true
-countdown_date: 2025-04-19T22:00:00.000Z
+countdown_date: 2026-04-18T22:00:00.000Z
 layout: title
 _template: homepagina
 ---
