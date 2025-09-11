@@ -13,7 +13,7 @@ _template: homepagina
 
 ### Een toerrit voor motorfietsen tot en met bouwjaar 1920.
 
-Wij hopen u allen op **Zondag 20 April 2025** in goede gezondheid te mogen begroeten in Veenhuizen voor de 42e editie!
+Wij hopen u allen op **Zondag 19 April 2026** in goede gezondheid te mogen begroeten voor de 43e editie!
 
 ### Oproep:
 
