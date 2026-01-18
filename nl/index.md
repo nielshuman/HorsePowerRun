@@ -17,4 +17,4 @@ Wij hopen u allen op **Zondag 19 April 2026** in goede gezondheid te mogen begro
 
 ### Nieuwe startlocatie
 
-In 2026 heeft de Horsepowerrun een nieuwe startlocatie: Bij de Sluis in Jubbega. Dit is dezelfde locatie waar we vorig jaar de koffiepauze hadden. Door deze verhuizing kunnen we de komende jaren weer mooie nieuwe routes over rustige maken voor onze deelnemers. 
+In 2026 heeft de Horsepowerrun een nieuwe startlocatie: By de Kolk in Jubbega. Dit is dezelfde locatie waar we vorig jaar de koffiepauze hadden. Door deze verhuizing kunnen we de komende jaren weer mooie nieuwe routes over rustige maken voor onze deelnemers.
