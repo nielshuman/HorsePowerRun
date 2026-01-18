@@ -51,24 +51,25 @@ De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vin
 
 Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het voertuig nog niet eerder gestart is in de HorsePowerRun, dan moet u aantonen dat het startgerechtigd is. Dat kan op twee manieren:
 
-1. door het nummer van het pioneercertificaat, dat afgegeven is voor de machine, in te vullen op het inschrijvingsformulier op de website; of
-2. via het aanleveren van daterende documentatie (folders, gegevens uit merkpublicatie, VMC-dateringscertificaat, motor- en framenummers, etc.) aan onze organisatie via ons emailadres.
-3. **Rijbewijs**\
+* door het nummer van het pioneercertificaat, dat afgegeven is voor de machine, in te vullen op het inschrijvingsformulier op de website; of
+* via het aanleveren van daterende documentatie (folders, gegevens uit merkpublicatie, VMC-dateringscertificaat, motor- en framenummers, etc.) aan onze organisatie via ons emailadres.
+
+1. **Rijbewijs**\
    De deelnemer dient in het bezit te zijn van een geldig rijbewijs voor het te berijden voertuig.
-4. **Kentekenbewijs en verzekering**\
+2. **Kentekenbewijs en verzekering**\
    De deelnemer dient te beschikken over een geldig kentekenbewijs van het ingeschreven voertuig. Voertuigen met een Nederlands ZZ-kenteken worden niet geaccepteerd als deelnemer. Alle deelnemende voertuigen dienen aantoonbaar verzekerd te zijn op de dag van het evenement.
-5. **Wisselen berijder en voertuig**\
+3. **Wisselen berijder en voertuig**\
    Starten met een ander voertuig dan bij de aanmelding opgegeven, dient voor de start op het secretariaat te worden gemeld.\
    Het wisselen van berijder en/of voertuig gedurende de rit is niet toegestaan.
-6. \*\*Inchecken \*\*\
+4. **Inchecken**\
    Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat dat zich bevindt in de zaal naast het restaurant van het Gevangenismuseum.
-7. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
+5. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
    De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
-8. De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
-9. **Milieumat**\
+6. De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
+7. **Milieumat**\
    Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
-10. **Kosten**\
-    De kosten voor deelname bedragen € 37,50 per voertuig, bij voorkeur bij vooruitbetaling.\
-    Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
-    De kosten voor een bijrijder bedragen € 27,50 per persoon.
+8. **Kosten**\
+   De kosten voor deelname bedragen € 37,50 per voertuig, bij voorkeur bij vooruitbetaling.\
+   Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
+   De kosten voor een bijrijder bedragen € 27,50 per persoon.
 
