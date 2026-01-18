@@ -18,7 +18,7 @@ _template: pagina
 
 De start is om 10.00 uur.
 De totale lengte van de rit is circa 85 km.
-De start en finish zijn op dezelfde locatie. De lunch vindt dit jaar plaats in Jubbega.
+De start en finish zijn in Jubbega (By de Kolk, Bremsingel 26, 8411 VX Jubbega). De lunch vindt dit jaar plaats in De Blesse (restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).
 De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rechts en S voor rechtdoor.
 
 #### Benzine
@@ -39,7 +39,7 @@ De slotmanifestatie zal plaatsvinden op het middenterrein van het [Gevangenismus
 
 # Reglement HorsePowerRun {#b}
 
-De Internationale HorsePowerRun wordt verreden vanuit het Nationaal Gevangenismuseum aan de Oude Gracht 1 in 9341 AA Veenhuizen. De 42e editie wordt gereden op zondag 20 april 2025.
+De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vindt plaats op zondag 19 april 202.
 
 **De volgende regels zijn van toepassing.**
 
@@ -65,12 +65,10 @@ Het voertuig mag niet later dan 31 december 1920 zijn geproduceerd. Indien het v
 7. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
    De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
 8. De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
-9. Heeft u klachten die kunnen wijzen op een corona-besmetting? blijf dan thuis en meldt u af via [horsepowerrun@gmail.com](mailto:horsepowerrun@gmail.com)
-10. **Milieumat**\
-    Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
-11. **Kosten**\
-    De kosten voor deelname bedragen € 35,00 per voertuig, bij voorkeur bij vooruitbetaling.\
+9. **Milieumat**\
+   Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
+10. **Kosten**\
+    De kosten voor deelname bedragen € 37,50 per voertuig, bij voorkeur bij vooruitbetaling.\
     Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
-    De kosten voor een bijrijder bedragen € 25,00 per persoon.
+    De kosten voor een bijrijder bedragen € 27,50 per persoon.
 
-    Deelnemers die zich af moeten melden in verband met corona-gerelateerde klachten krijgen hun inschrijfgeld teruggestort.
