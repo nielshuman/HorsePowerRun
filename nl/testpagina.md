@@ -1,5 +1,5 @@
 ---
-title: testpagina
+title: testpagin
 published: true
 _template: pagina
 ---
