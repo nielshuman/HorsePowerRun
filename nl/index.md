@@ -13,8 +13,8 @@ _template: homepagina
 
 ### Een toerrit voor motorfietsen tot en met bouwjaar 1920.
 
-Wij hopen u allen op **Zondag 19 April 2026** in goede gezondheid te mogen begroeten voor de 43e editie!
+Wij hopen u allen op **Zondag 19 April 2026** in goede gezondheid te mogen begroeten in Jubbega voor de 43e editie!
 
-### Oproep:
+### Nieuwe startlocatie:
 
-Een evenement als het onze kan niet zonder vrijwilligers. Daarom zijn we op zoek naar nieuwe, enthousiaste mensen. Het gaat daarbij vooral om werkzaamheden op de dag zelf: verkeersregelaars, verkopers van programmaboekjes, bemanning voor de bezemwagen, etc. Daarnaast zijn we ook nog op zoek naar een extra bestuurslid. Kom jij ons team versterken?
+In 2026 heeft de Horsepowerrun een nieuwe startlocatie: Bij de Sluis in Jubbega. Dit is dezelfde locatie waar we vorig jaar de koffiepauze hadden. Door deze verhuizing kunnen we de komende jaren weer mooie nieuwe routes over rustige maken voor onze deelnemers. 
