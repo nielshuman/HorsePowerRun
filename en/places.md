@@ -11,4 +11,6 @@ _template: pagina
 
 Team HorsePowerRun reccomends the following accommodations:
 
+### This page will be updated shortly to reflect the options in the vicinity of the new venue. 
+
 {% include accomodaties.html %}
