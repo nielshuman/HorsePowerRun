@@ -18,7 +18,7 @@ _template: pagina
 
 The start is at 10:00 AM.\
 The total length of the route is approximately 85 km.\
-The start and finish are at the same location. Lunch will take place in Jubbega this year.\
+The start and finish are at the same location in Jubbega. Lunch will take place in De Blesse (restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).\
 The route is indicated by orange arrows: L for left, R for right, and S for straight ahead.
 
 #### Gasoline
