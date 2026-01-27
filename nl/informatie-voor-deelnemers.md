@@ -34,11 +34,11 @@ Wij zouden het waarderen indien u kleding draagt die bij de leeftijd van het voe
 
 #### Slotmanifestatie
 
-De slotmanifestatie zal plaatsvinden op het middenterrein van het [Gevangenismuseum](http://www.gevangenismuseum.nl/) in Veenhuizen.
+De slotmanifestatie zal plaatsvinden in het centrum van Jubbega.
 
 # Reglement HorsePowerRun {#b}
 
-De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vindt plaats op zondag 19 april 202.
+De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vindt plaats op zondag 19 april 2026.
 
 **De volgende regels zijn van toepassing.**
 
@@ -58,7 +58,7 @@ De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vin
    Starten met een ander voertuig dan bij de aanmelding opgegeven, dient voor de start op het secretariaat te worden gemeld.\
    Het wisselen van berijder en/of voertuig gedurende de rit is niet toegestaan.
 5. **Inchecken**\
-   Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat dat zich bevindt in de zaal naast het restaurant van het Gevangenismuseum.
+   Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat. 
 6. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
    De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
 7. De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
@@ -66,5 +66,5 @@ De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vin
    Het gebruik van een milieumat is verplicht. De minimale afmeting van de mat dient 80 x 50 centimeter te zijn. De deelnemer mag zijn of haar eigen milieumat meenemen of kan er één voor €5 aanschaffen via de Stichting HorsePower Run.
 9. **Kosten**\
    De kosten voor deelname bedragen € 37,50 per voertuig, bij voorkeur bij vooruitbetaling.\
-   Betalen op de dag van het evenement is mogelijk. Vanwege corona en de onzekerheden die dat met zich meebrengt, zullen de kosten bij contante betaling dit jaar hetzelfde zijn als bij voorinschrijving.\
+   Betalen op de dag van het evenement is ook mogelijk. \
    De kosten voor een bijrijder bedragen € 27,50 per persoon.
