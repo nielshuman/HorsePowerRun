@@ -7,6 +7,6 @@ published: false
 _template: pagina
 ---
 
-On the 20th of April the 41th edition of the HorsePowerRun will be held in the village of Veenhuizen.
+On the 19th of April 2026 the 43th edition of the HorsePowerRun will be held in the village of Jubbega.
 
 {% include formulier.html %}
