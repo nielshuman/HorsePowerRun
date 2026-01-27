@@ -8,4 +8,4 @@ _template: pagina
 ---
 
 **Cost per participant: €35**
-Cost per passanger: €25
+Cost per passenger: €25
