@@ -3,7 +3,7 @@ menu:
   nav_nl:
     weight: 9
 title: Accommodaties
-published: true
+published: false
 _template: pagina
 ---
 
