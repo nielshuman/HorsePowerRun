@@ -15,6 +15,6 @@ An event for pre-1921 motorcycles in the North of the Netherlands.
 
 ### New venue:
 
-This year the run will start and finish in the centre of Jubbega. Taht is the same spot where we had the coffee brake last year.  This change allows us to design new route over rustic and quiet roads for our participants.  
+This year the run will start and finish in the centre of Jubbega. The event will be held at the same spot where we had the coffee break last year.  This change allows us to design new route over rustic and quiet roads for our participants.
 
 **We are looking forward to meeting all of you in good health for the 43th edition of the run on Sunday 19-04-2026.**
