@@ -3,7 +3,7 @@ menu:
   nav_en:
     weight: 6
 title: Information for participants
-published: false
+published: true
 _template: pagina
 ---
 
