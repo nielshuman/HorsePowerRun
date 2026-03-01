@@ -3,7 +3,7 @@ menu:
   nav_en:
     weight: 5
 title: Participants
-published: false
+published: true
 _template: pagina
 ---
 
