@@ -7,4 +7,4 @@ published: true
 _template: pagina
 ---
 
-Door een technische storing is het op het moment niet mogelijk om de deelnmerlijst te bekijken. We hebben opdit moment al meer dan 40 inschrijvingen! Later deze week zal de lijst weer beschikbaar zijn.
+Door een technische storing is het op dit moment niet mogelijk om de deelnemerslijst te bekijken. We hebben op dit moment al meer dan 45 inschrijvingen! Later deze week zal de lijst weer beschikbaar zijn.
