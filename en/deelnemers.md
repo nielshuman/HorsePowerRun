@@ -7,6 +7,4 @@ published: true
 _template: pagina
 ---
 
-{% include Deelnemercounter.html %}
-
-{% include table.html %}
+Due to a technical issue, it is currently not possible to view the participant list. We already have more than 50 registrations at the moment! The list will be available again later this week.
