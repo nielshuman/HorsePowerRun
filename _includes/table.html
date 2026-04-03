@@ -4,7 +4,7 @@
 	// let url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1AIj81gCogM80A8Tl5ShboPhXEpU2K7_cwtcYzqh1WDYAj0IP7vAxKMRciZTEFeMan3cToeliHryb/pub?gid=318886033&single=true&output=csv';
 	const pageUrl = '{{ page.url }}';
 	const lang = pageUrl.includes('/nl/') ? 'nl' : 'en';
-	let url = `https://hpr-participants.caprover.justniels.nl/participants/${lang}.csv`;
+	let url = `https://hprtemp.stefan.justniels.nl/participants/${lang}.csv`;
 	let request = new XMLHttpRequest();
 	request.open("GET", url, true);
 	request.onload = () => {
