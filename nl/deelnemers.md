@@ -7,7 +7,7 @@ published: true
 _template: pagina
 ---
 
-{% include deelnemercounter.html %}
+{% include Deelnemercounter.html %}
 
 {% include table.html %}
 
