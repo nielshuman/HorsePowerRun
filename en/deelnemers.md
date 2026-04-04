@@ -1,4 +1,4 @@
----
+ook---
 menu:
   nav_en:
     weight: 5
@@ -7,7 +7,7 @@ published: true
 _template: pagina
 ---
 
-{% include deelnemercounter.html %}
+{% include Deelnemercounter.html %}
 
 {% include table.html %}
 
