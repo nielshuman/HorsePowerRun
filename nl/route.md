@@ -7,7 +7,7 @@ published: true
 _template: pagina
 ---
 
-Dit jaar hebben we een nieuwe startlocatie: By de Kolk in Jubbega. Dit is dezelfde locatie waar we vorig jaar de koffiepauze hadden.
+Dit jaar hebben we een nieuwe startlocatie: **By de Kolk in Jubbega.** Dit is dezelfde locatie waar we vorig jaar de koffiepauze hadden.
 
 ### Ochtendroute
 
