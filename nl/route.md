@@ -3,23 +3,23 @@ menu:
   nav_nl:
     weight: 8
 title: Routes
-published: false
+published: true
 _template: pagina
 ---
 
-De opzet van de HorsePowerRun is dit jaar iets anders dan gebruikelijk: we gaan Friesland in en komen dus **niet** terug naar Veenhuizen voor de lunch.
+Dit jaar hebben we een nieuwe startlocatie: By de Kolk in Jubbega. Dit is dezelfde locatie waar we vorig jaar de koffiepauze hadden.
 
 ### Ochtendroute
 
-{% include routekaart.html afstandmetenID="3892592" %}
+{% include routekaart.html afstandmetenID="4105216" %}
 
-**10.00** Vertrek eerste rijder vanuit veenhuizen\
-**11:00** Koffiepauze By de Kolk in Jubbega\
-**13:00** Lunchpauze bij pannenkoekenrestaurant De Koppenjan in Jubbega
+**10.00** Vertrek eerste rijder vanuit Jubbega\
+**11:30** Koffiepauze bij Het Anker in Elsloo \
+**13:30** Lunchpauze bij Pieter Poot in De Blesse
 
 ### Middagroute
 
-{% include routekaart.html afstandmetenID="3892606" %}
+{% include routekaart.html afstandmetenID="4105223" %}
 
-±**14:00** Vertrek eerste rijder vanuit Jubbega\
-±**15:30** Slotparade
+±**14:30** Vertrek eerste rijder vanuit Jubbega\
+±**15:30** Slotparade bij By de Kolk in Jubbega
