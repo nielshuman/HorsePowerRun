@@ -21,5 +21,5 @@ This year we have a new starting location: **By de Kolk in Jubbega**. This is th
 
 {% include routekaart.html afstandmetenID="4105223" %}
 
-±**14:30** First rider departs from Jubbega
+±**14:30** First rider departs from De Blesse
 ±**15:30** Final parade at By de Kolk in Jubbega
