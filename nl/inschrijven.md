@@ -9,6 +9,4 @@ _template: pagina
 
 Op zondag 19 April rijden we vanuit Jubbega de 43e editie van de HorsePowerRun.
 
-De inschrijving via de website is geopend tot 20 maart 2026. U kunt zich aanmelden door het onderstaande formulier in te vullen.
-
-{% include formulier.html %}
+De inschrijving via de website is op dit moment gesloten. Mocht u nog mee willen rijden (er zijn nog plekken beschikbaar!), dan kunt u een email sturen naar horspowerrun@gmail.com.
