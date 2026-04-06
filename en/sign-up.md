@@ -7,6 +7,7 @@ published: true
 _template: pagina
 ---
 
-On the 19th of April 2026 the 43th edition of the HorsePowerRun will be held in the village of Jubbega.
+On Sunday, April 19, the 43rd edition of the HorsePowerRun will take place, starting in Jubbega.
 
-{% include formulier.html %}
+Registration via the website is currently closed. If you still want to participate (there are still spots available!), you can send an email to [horspowerrun@gmail.com](mailto:horspowerrun@gmail.com).
+
