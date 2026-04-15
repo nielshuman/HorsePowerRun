@@ -16,26 +16,41 @@ _template: pagina
 
 #### Route Information
 
-The start is at 10:00 AM.\
-The total length of the route is approximately 85 km.\
-The start and finish are at the same location in Jubbega. Lunch will take place in De Blesse (restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).\
-The route is indicated by orange arrows: L for left, R for right, and S for straight ahead.
+The start is at 10:00 AM. The total length of the ride is approximately 85 km.\
+The start and finish are in Jubbega (By de Kolk, Bremsingel 26, 8411 VX Jubbega). Lunch this year will take place in De Blesse (Restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).\
+The route is marked with orange arrows: L for left, R for right and S for straight ahead.
 
-#### Gasoline
+#### Parking
 
-There are no fuel stations directly along the route. Participants must ensure they have enough fuel.
+For participants, parking is best available on the north side of the canal, along the Siemen Brincksmaweg.\
+The best approach route is via the **Singel**. An HPR volunteer will be present there to guide you to the correct parking area.
 
-#### Sweeper Vehicle
+**Navigation address:** Singel 12, 8408 CA Lippenhuizen.
 
-A sweeper vehicle will be on the route to pick up participants and their vehicles who drop out. It is also possible to contact the sweeper vehicle if a participant has deviated from the route and needs assistance getting back on track. Contact details will be provided. The sweeper vehicle will depart approximately 15 minutes after the last participant leaves.
+The route from the parking area to the start location is indicated with the familiar orange arrows.
+
+![HorsePowerRun parking map](https://emails.horsepowerrun.nl/uploads/Kaart-Parkeren-HPR.png)
+
+#### Start Location
+
+The motorcycles can be lined up in the covered section along the canal.\
+Registration is possible at the corner near the **registration desk inside By de Kolk**.
+
+#### Fuel
+
+There are no fuel stations directly along the route. Participants are therefore responsible for ensuring they have sufficient fuel.
+
+#### Sweep Vehicle
+
+A sweep vehicle will drive along the route to pick up participants who break down with their machines. Participants may also contact the sweep vehicle by phone if, for example, they have lost the route and need assistance returning to it. Contact details will be announced later. The sweep vehicle will depart approximately 15 minutes after the last participant has left.
 
 #### Clothing
 
-We would appreciate it if you wear clothing appropriate for the age of the vehicle. However, wearing an approved motorcycle helmet is mandatory.
+We would appreciate it if you wear clothing appropriate to the age of the vehicle. However, wearing an approved motorcycle helmet is mandatory.
 
-#### Closing Ceremony
+#### Closing Event
 
-The closing ceremony will take place in the centre f Jubbega.
+The closing event will take place in the centre of Jubbega.
 
 # HorsePowerRun Regulations {#b}
 
