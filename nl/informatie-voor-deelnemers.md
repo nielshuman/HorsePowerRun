@@ -16,9 +16,25 @@ _template: pagina
 
 #### Route Informatie
 
-De start is om 10.00 uur. De totale lengte van de rit is circa 85 km.
-De start en finish zijn in Jubbega (By de Kolk, Bremsingel 26, 8411 VX Jubbega). De lunch vindt dit jaar plaats in De Blesse (restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).
+De start is om 10.00 uur. De totale lengte van de rit is circa 85 km.\
+De start en finish zijn in Jubbega (By de Kolk, Bremsingel 26, 8411 VX Jubbega). De lunch vindt dit jaar plaats in De Blesse (restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).\
 De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rechts en S voor rechtdoor.
+
+#### Parkeren
+
+Voor deelnemers is parkeren het beste mogelijk aan de noordzijde van de vaart. Dit is het gedeelte aan de Siemen Brincksmaweg.\
+De beste aanrijroute is via de **Singel**. Hier zal een HPR-vrijwilliger staan om u de juiste parkeerplek te wijzen.
+
+**Navigatieadres:** Singel 12, 8408 CA Lippenhuizen.
+
+De route naar de start is vanaf de parkeerlocatie aangegeven met de bekende oranje pijlen.
+
+![Kaart parkeren HorsePowerRun](https://emails.horsepowerrun.nl/uploads/Kaart-Parkeren-HPR.png)
+
+#### Startlocatie
+
+De motoren kunnen worden opgesteld op het overdekte deel van de vaart.\
+Aanmelden kan op de hoek bij de **inschrijfbalie in By de Kolk**.
 
 #### Benzine
 
@@ -38,7 +54,8 @@ De slotmanifestatie zal plaatsvinden in het centrum van Jubbega.
 
 # Reglement HorsePowerRun {#b}
 
-De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vindt plaats op zondag 19 april 2026.
+De Internationale HorsePowerRun wordt verreden vanuit Jubbega.\
+De 43e editie vindt plaats op zondag 19 april 2026.
 
 **De volgende regels zijn van toepassing.**
 
@@ -58,7 +75,7 @@ De Internationale HorsePowerRun wordt verreden vanuit Jubbega. De 43e editie vin
    Starten met een ander voertuig dan bij de aanmelding opgegeven, dient voor de start op het secretariaat te worden gemeld.\
    Het wisselen van berijder en/of voertuig gedurende de rit is niet toegestaan.
 5. **Inchecken**\
-   Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat. 
+   Op de dag van het evenement dient de deelnemer zich te melden tussen 08.30 tot 09.30 uur bij het secretariaat.
 6. De deelnemer tekent de *sign-on*-lijst waarmee wordt verklaard akkoord te zijn met de eigen verantwoordelijkheid en aansprakelijkheid inzake rijder en machine tijdens het evenement. De deelnemer vrijwaart de organisator hiermee van alle aansprakelijkheid.\
    De organisatie is via de Veteraan Motoren Club tegen Wettelijke Aansprakelijkheid verzekerd.
 7. De deelnemer ontvangt het programmaboek, consumptiebonnen voor het evenement en een rijnummer, dat voorop het voertuig dient te worden bevestigd.
