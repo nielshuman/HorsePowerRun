@@ -3,7 +3,7 @@ menu:
   nav_nl:
     weight: 8
 title: Routes
-published: true
+published: false
 _template: pagina
 ---
 
