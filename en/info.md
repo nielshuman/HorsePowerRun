@@ -3,7 +3,7 @@ menu:
   nav_en:
     weight: 6
 title: Information for participants
-published: true
+published: false
 _template: pagina
 ---
 
@@ -29,7 +29,7 @@ The best approach route is via the **Singel**. An HPR volunteer will be present 
 
 The route from the parking area to the start location is indicated with the familiar orange arrows.
 
-![HorsePowerRun parking map](https://emails.horsepowerrun.nl/uploads/Kaart-Parkeren-HPR.png)
+![HorsePowerRun parking map](/mediahttps://emails.horsepowerrun.nl/uploads/Kaart-Parkeren-HPR.png)
 
 #### Start Location
 
