@@ -3,7 +3,7 @@ menu:
   nav_en:
     weight: 4
 title: Places to stay
-published: true
+published: false
 _template: pagina
 ---
 
@@ -11,6 +11,6 @@ _template: pagina
 
 Team HorsePowerRun reccomends the following accommodations:
 
-### This page will be updated shortly to reflect the options in the vicinity of the new venue. 
+### This page will be updated shortly to reflect the options in the vicinity of the new venue.
 
 {% include accomodaties.html %}
