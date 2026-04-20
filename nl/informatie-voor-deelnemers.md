@@ -3,7 +3,7 @@ menu:
   nav_nl:
     weight: 6
 title: Informatie voor deelnemers
-published: true
+published: false
 _template: pagina
 ---
 
@@ -29,7 +29,7 @@ De beste aanrijroute is via de **Singel**. Hier zal een HPR-vrijwilliger staan o
 
 De route naar de start is vanaf de parkeerlocatie aangegeven met de bekende oranje pijlen.
 
-![Kaart parkeren HorsePowerRun](https://emails.horsepowerrun.nl/uploads/Kaart-Parkeren-HPR.png)
+![Kaart parkeren HorsePowerRun](/mediahttps://emails.horsepowerrun.nl/uploads/Kaart-Parkeren-HPR.png)
 
 #### Startlocatie
 
