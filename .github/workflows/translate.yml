@@ -21,14 +21,13 @@ jobs:
           fetch-depth: 0
 
       - name: Get changed NL files
-        id: changes
         run: |
-          git diff --name-only HEAD~1 HEAD | grep '^nl/.*\.md$' > nl_files.txt || true
-          cat nl_files.txt
+          git diff --name-only HEAD~1 HEAD | grep '^nl/.*\.md$' > /tmp/nl_files.txt || true
+          cat /tmp/nl_files.txt
 
       - name: Stop if no changes
         run: |
-          if [ ! -s nl_files.txt ]; then
+          if [ ! -s /tmp/nl_files.txt ]; then
             echo "No NL changes"
             exit 0
           fi
@@ -37,12 +36,11 @@ jobs:
         run: |
           git fetch origin auto-translate-en || true
           if git ls-remote --exit-code origin auto-translate-en; then
-            cp nl_files.txt /tmp/nl_files.txt
-            git checkout -f -b auto-translate-en origin/auto-translate-en
-            cp /tmp/nl_files.txt nl_files.txt
+            git checkout -b auto-translate-en origin/auto-translate-en
+          else
+            git checkout -b auto-translate-en
           fi
 
-          
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -56,7 +54,16 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Commit & create PR
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add en/
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "Auto-translate NL changes (${{ github.sha }})"
+          git push origin auto-translate-en
+
+      - name: Create PR if not exists
         uses: peter-evans/create-pull-request@v6
         with:
           base: master
@@ -66,6 +73,3 @@ jobs:
             ⚠️ These translations were generated automatically.
             Please review before merging.
           labels: auto-translation
-          commit-message: "Auto-translate NL changes (${{ github.sha }})"
-          add-paths: |
-            en/
