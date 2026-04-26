@@ -10,6 +10,8 @@ github_username: UltraNiels
 markdown: kramdown
 include:
   - _redirects
+exclude:
+  - scripts
 defaults:
   - scope:
       path: ''

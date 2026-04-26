@@ -1,0 +1,67 @@
+# .github/workflows/translate.yml
+name: Auto Translate NL → EN
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'nl/**/*.md'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed NL files
+        id: changes
+        run: |
+          git diff --name-only HEAD~1 HEAD | grep '^nl/.*\.md$' > nl_files.txt || true
+          cat nl_files.txt
+
+      - name: Stop if no changes
+        run: |
+          if [ ! -s nl_files.txt ]; then
+            echo "No NL changes"
+            exit 0
+          fi
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm install openai
+
+      - name: Run translation
+        run: node scripts/translate.js
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit to translation branch
+        run: |
+          git config user.name "translation-bot"
+          git config user.email "bot@example.com"
+
+          git checkout -B auto-translate-en
+
+          git add en/
+          git commit -m "Auto-translate NL changes" || echo "No changes to commit"
+
+          git push origin auto-translate-en --force
+
+      - name: Create or update PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto-translate-en
+          title: "🌍 Auto-translated EN updates"
+          body: |
+            ⚠️ These translations were generated automatically.
+            Please review before merging.
+          labels: auto-translation
