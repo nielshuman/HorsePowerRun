@@ -16,7 +16,7 @@ _template: pagina
 
 #### Route Informatie
 
-De start is om 10.00 uur. De totale lengte van de rit is circa 85 km.\
+De start is om 10.00 uur. De totale lengte van de rit is circa 85 km. \
 De start en finish zijn in Jubbega (By de Kolk, Bremsingel 26, 8411 VX Jubbega). De lunch vindt dit jaar plaats in De Blesse (restaurant Pieter Poot, Steenwijkerweg 129, 8397 LC).\
 De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rechts en S voor rechtdoor.
 
