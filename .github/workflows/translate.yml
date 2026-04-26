@@ -56,4 +56,4 @@ jobs:
           labels: auto-translation
           commit-message: "Auto-translate NL changes"
           add-paths: |
-            en/**/*.md
+            en/
