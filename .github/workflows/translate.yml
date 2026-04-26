@@ -37,9 +37,12 @@ jobs:
         run: |
           git fetch origin auto-translate-en || true
           if git ls-remote --exit-code origin auto-translate-en; then
-            git checkout -b auto-translate-en origin/auto-translate-en
+            cp nl_files.txt /tmp/nl_files.txt
+            git checkout -f -b auto-translate-en origin/auto-translate-en
+            cp /tmp/nl_files.txt nl_files.txt
           fi
 
+          
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
