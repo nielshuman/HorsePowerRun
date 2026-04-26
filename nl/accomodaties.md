@@ -9,6 +9,6 @@ _template: pagina
 
 # Accommodaties
 
-De HorsePowerRun beveelt de volgende accommodaties aan:
+De HorsePowerRun beveelt de volgende accommodaties sterk aan:
 
 {% include accomodaties.html %}
