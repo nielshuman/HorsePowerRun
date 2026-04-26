@@ -13,7 +13,7 @@ Dit jaar hebben we een nieuwe startlocatie: **By de Kolk in Jubbega.** Dit is de
 
 {% include routekaart.html afstandmetenID="4105216" %}
 
-**10.00** Vertrek eerste rijder vanuit Jubbega\
+**10.00** Vertrek eerste rijder vanuit Jubbega \
 **11:30** Koffiepauze bij Het Anker in Elsloo \
 **13:30** Lunchpauze bij Pieter Poot in De Blesse
 
