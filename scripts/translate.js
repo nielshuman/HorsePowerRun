@@ -6,7 +6,7 @@ const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-const files = fs.readFileSync("nl_files.txt", "utf-8")
+const files = fs.readFileSync("/tmp/nl_files.txt", "utf-8")
   .split("\n")
   .filter(Boolean);
 
