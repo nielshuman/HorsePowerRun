@@ -43,7 +43,9 @@ jobs:
         run: node scripts/translate.js
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-
+      - name: Stage translation output
+        run: |
+          git add en/**
       - name: Commit & create PR
         uses: peter-evans/create-pull-request@v6
         with:
