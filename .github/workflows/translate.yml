@@ -43,7 +43,26 @@ jobs:
         run: node scripts/translate.js
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      - name: Commit & create PR
+      
+      - name: Commit & push to PR branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Create or switch to the branch
+          git fetch origin auto-translate-en || true
+          git checkout auto-translate-en 2>/dev/null || git checkout -b auto-translate-en
+          
+          # Merge any master changes in
+          git merge master --no-edit
+          
+          # Stage and commit translations
+          git add en/
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "Auto-translate NL changes (${{ github.sha }})"
+          git push origin auto-translate-en
+      
+      - name: Create PR if it doesn't exist
         uses: peter-evans/create-pull-request@v6
         with:
           base: master
@@ -53,6 +72,3 @@ jobs:
             ⚠️ These translations were generated automatically.
             Please review before merging.
           labels: auto-translation
-          commit-message: "Auto-translate NL changes"
-          add-paths: |
-            en/
