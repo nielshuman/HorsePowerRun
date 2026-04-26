@@ -21,6 +21,6 @@ In 2026 had de HorsePowerRun een nieuwe startlocatie: *By de Kolk* in Jubbega. D
 
 ### **Volgende editie**
 
-Ook in 2027 zal de HorsePowerRun weer worden georganiseerd. De exacte datum wordt binnenkort bekendgemaakt op deze website.
+Ook in 2027 zal de HorsePowerRun weer worden georganiseerd. De exacte datum wordt binnenkort bekendgemaakt via deze website.
 
 Daarnaast zullen de foto’s van de editie van 2026 binnenkort online worden geplaatst. Houd de website dus in de gaten!
