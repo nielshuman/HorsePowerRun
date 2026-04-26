@@ -44,24 +44,16 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Commit to translation branch
-        run: |
-          git config user.name "translation-bot"
-          git config user.email "bot@example.com"
-
-          git checkout -B auto-translate-en
-
-          git add en/
-          git commit -m "Auto-translate NL changes" || echo "No changes to commit"
-
-          git push origin auto-translate-en --force
-
-      - name: Create or update PR
+      - name: Commit & create PR
         uses: peter-evans/create-pull-request@v6
         with:
+          base: master
           branch: auto-translate-en
           title: "🌍 Auto-translated EN updates"
           body: |
             ⚠️ These translations were generated automatically.
             Please review before merging.
           labels: auto-translation
+          commit-message: "Auto-translate NL changes"
+          add-paths: |
+            en/**/*.md
