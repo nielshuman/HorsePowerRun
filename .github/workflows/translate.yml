@@ -69,17 +69,17 @@ jobs:
           else
             echo "No changes to commit"
           fi
-
-      - name: Create or update pull request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          branch: auto-translate
-          base: master
-          title: "Auto translations (NL → EN)"
-          body: |
-            This PR contains automated translations from `nl/` to `en/`.
-
-            - Incremental commits (no force push)
-            - Only changed NL files processed
-            - PR is continuously updated
-          labels: translation, automated
+          
+      - name: Create PR if it doesn't exist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if gh pr view auto-translate > /dev/null 2>&1; then
+            echo "PR already exists"
+          else
+            gh pr create \
+              --base master \
+              --head auto-translate \
+              --title "Auto translations (NL → EN)" \
+              --body "Automated translations from nl/ to en/.\n\n- Incremental commits\n- No force push\n- Continuously updated"
+          fi
