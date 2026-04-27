@@ -18,12 +18,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Git
+      - name: Configure Git
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
@@ -39,13 +39,15 @@ jobs:
             git checkout -b auto-translate
           fi
 
-      - name: Get changed NL markdown files
+      - name: Determine changed NL markdown files
         run: |
-          git diff --name-only origin/${{ github.ref_name }} | grep '^nl/.*\.md$' > /tmp/nl_files.txt || true
-          echo "Changed files:"
-          cat /tmp/nl_files.txt || true
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} \
+            | grep '^nl/.*\.md$' > nl_files.txt || true
 
-      - name: Setup Node
+          echo "Changed files:"
+          cat nl_files.txt || true
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -58,7 +60,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/translate.js
 
-      - name: Commit changes (incremental, no overwrite)
+      - name: Commit changes (append, no overwrite)
         run: |
           if ! git diff --quiet; then
             git add en/
@@ -68,15 +70,16 @@ jobs:
             echo "No changes to commit"
           fi
 
-      - name: Create or update PR
+      - name: Create or update pull request
         uses: peter-evans/create-pull-request@v6
         with:
           branch: auto-translate
           base: master
           title: "Auto translations (NL → EN)"
           body: |
-            Automated translation updates.
+            This PR contains automated translations from `nl/` to `en/`.
 
-            ✅ Incremental commits (no force push)  
-            ✅ Only changed NL files processed  
-            ✅ PR is continuously updated  
+            - Incremental commits (no force push)
+            - Only changed NL files processed
+            - PR is continuously updated
+          labels: translation, automated
