@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@tinacms/cli": "^1.5.29",
+    "openai": "^6.34.0",
     "tinacms": "^1.5.20"
   }
 }
