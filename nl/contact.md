@@ -13,4 +13,4 @@ _template: pagina
 
 **Post**: Petrus Campersingel 19, 9713 AC Groningen
 
-**Telefoon**: (+31) 050 3140662 (secretaris HPR) of (+31) 06 25034686
+**Telefoon**: (+31) (0) 50 3140662 (secretaris HPR) of (+31) 06 25034686
