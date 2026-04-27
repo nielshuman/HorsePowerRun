@@ -8,5 +8,5 @@ _template: pagina
 ---
 
 {% include Deelnemercounter.html %}
-
+ 
 {% include table.html %}

@@ -21,5 +21,5 @@ Dit jaar hebben we een nieuwe startlocatie: **By de Kolk in Jubbega.** Dit is de
 
 {% include routekaart.html afstandmetenID="4105223" %}
 
-±**14:30** Vertrek eerste rijder vanuit De Blesse \
+±**14:30** Vertrek eerste rijder vanuit De Blesse\
 ±**15:30** Slotparade bij By de Kolk in Jubbega

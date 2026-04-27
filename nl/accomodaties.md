@@ -11,4 +11,4 @@ _template: pagina
 
 De HorsePowerRun beveelt de volgende accommodaties aan:
 
- {% include accomodaties.html %}
+{% include accomodaties.html %}

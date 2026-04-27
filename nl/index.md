@@ -13,7 +13,7 @@ _template: homepagina
 
 ### Een toerrit voor motorfietsen tot en met bouwjaar 1920
 
-De **43e editie van de HorsePowerRun** vond plaats op **zondag 19 april 2026** in Jubbega. We kijken terug op een geslaagde dag en hopen dat alle deelnemers en bezoekers hebben genoten van de rit en de gezellige sfeer.
+De **43e editie van de HorsePowerRun** vond plaats op **zondag 19 april 2026** in Jubbega. We kijken terug op een geslaagde dag en hopen dat alle deelnemers en bezoekers hebben genoten van de rit.
 
 ### **Nieuwe startlocatie**
 

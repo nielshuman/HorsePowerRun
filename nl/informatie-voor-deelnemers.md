@@ -22,7 +22,7 @@ De route wordt door oranje gekleurde pijlen aangegeven: L voor links, R voor rec
 
 #### Parkeren
 
-Voor deelnemers is parkeren het beste mogelijk aan de noordzijde van de vaart. Dit is het gedeelte aan de Siemen Brincksmaweg.\
+Voor deelnemers is parkeren het beste mogelijk aan de noordzijde van de vaart. Dit is het gedeelte aan de Siemen Brincksmaweg. \
 De beste aanrijroute is via de **Singel**. Hier zal een HPR-vrijwilliger staan om u de juiste parkeerplek te wijzen.
 
 **Navigatieadres:** Singel 12, 8408 CA Lippenhuizen.

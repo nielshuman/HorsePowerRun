@@ -6,7 +6,7 @@ title: Vrienden
 published: true
 _template: pagina
 ---
-
+ 
 # Vrienden van de HorsePowerRun
 
 {% include sponsors.html %}
