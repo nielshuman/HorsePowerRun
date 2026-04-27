@@ -1,28 +1,39 @@
 name: Auto Translate NL → EN
+
 on:
   push:
     paths:
       - "nl/**/*.md"
+
 permissions:
   contents: write
   pull-requests: write
+
 concurrency:
   group: translate-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: true
+
 jobs:
   translate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Debounce (wait for more pushes)
+        run: sleep 120
+
       - name: Configure Git
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
       - name: Fetch base branch
         run: git fetch origin master
+
       - name: Checkout or create auto-translate branch
         run: |
           if git ls-remote --exit-code --heads origin auto-translate; then
@@ -30,22 +41,28 @@ jobs:
           else
             git checkout -b auto-translate
           fi
+
       - name: Determine changed NL markdown files
         run: |
           git diff --name-only origin/master...HEAD \
             | grep '^nl/.*\.md$' > nl_files.txt || true
+
           echo "Changed files:"
           cat nl_files.txt || true
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
       - name: Install minimal dependencies
         run: npm install openai
+
       - name: Run translation script
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/translate.js
+
       - name: Commit changes (append, no overwrite)
         run: |
           if ! git diff --quiet; then
@@ -55,28 +72,22 @@ jobs:
           else
             echo "No changes to commit"
           fi
-      - name: Create or reopen PR
+
+      - name: Create PR if none is open
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          OPEN_PR=$(gh pr list --head auto-translate --state open --json number --jq '.[0].number')
-          if [ -n "$OPEN_PR" ]; then
-            echo "PR #$OPEN_PR already open, nothing to do"
+          if gh pr list --head auto-translate --state open --json number --jq 'length > 0'; then
+            echo "PR already exists"
           else
-            CLOSED_PR=$(gh pr list --head auto-translate --state closed --json number --jq '.[0].number')
-            if [ -n "$CLOSED_PR" ]; then
-              echo "Reopening closed PR #$CLOSED_PR"
-              gh pr reopen "$CLOSED_PR"
-            else
-              echo "Creating new PR"
-              gh pr create \
-                --base master \
-                --head auto-translate \
-                --title "Auto translations (NL → EN)" \
-                --body "Automated translations from nl/ to en/
-          - Incremental commits
-          - No force push
-          - Debounced (2 min)
-          - Always up-to-date with master"
-                      fi
-                    fi
+            gh pr create \
+              --base master \
+              --head auto-translate \
+              --title "Auto translations (NL → EN)" \
+              --body "Automated translations from nl/ to en/
+
+- Incremental commits
+- No force push
+- Debounced (2 min)
+- Always up-to-date with master"
+          fi
