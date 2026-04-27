@@ -9,6 +9,6 @@ _template: pagina
 
 # Foto's
 
-Hier vindt u fotos van eerdere afleveringen van de HorsePowerRun.
+Hier vindt u fotos van eerdere afleveringen van de HorsePowerRun:
 
 {% include gallery.html %}
