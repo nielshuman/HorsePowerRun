@@ -9,10 +9,6 @@ permissions:
   contents: write
   pull-requests: write
 
-concurrency:
-  group: translate-${{ github.ref }}
-  cancel-in-progress: false
-
 jobs:
   translate:
     runs-on: ubuntu-latest
@@ -23,25 +19,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-      - name: Fetch all branches
-        run: git fetch origin
-
-      - name: Checkout or create auto-translate branch
-        run: |
-          if git show-ref --quiet refs/remotes/origin/auto-translate; then
-            git checkout -B auto-translate origin/auto-translate
-          else
-            git checkout -b auto-translate
-          fi
+      - name: Fetch base branch
+        run: git fetch origin master
 
       - name: Determine changed NL markdown files
         run: |
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} \
+          git diff --name-only origin/master...HEAD \
             | grep '^nl/.*\.md$' > nl_files.txt || true
 
           echo "Changed files:"
@@ -52,7 +35,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install openai
+      - name: Install dependencies
         run: npm install openai
 
       - name: Run translation script
@@ -60,26 +43,17 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/translate.js
 
-      - name: Commit changes (append, no overwrite)
-        run: |
-          if ! git diff --quiet; then
-            git add en/
-            git commit -m "Auto-translate: update EN files from NL changes"
-            git push origin auto-translate
-          else
-            echo "No changes to commit"
-          fi
-          
-      - name: Create PR if it doesn't exist
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if gh pr view auto-translate > /dev/null 2>&1; then
-            echo "PR already exists"
-          else
-            gh pr create \
-              --base master \
-              --head auto-translate \
-              --title "Auto translations (NL → EN)" \
-              --body "Automated translations from nl/ to en/.\n\n- Incremental commits\n- No force push\n- Continuously updated"
-          fi
+      - name: Create or update pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto-translate
+          base: master
+          title: "Auto translations (NL → EN)"
+          body: |
+            Automatische translations van `nl/` naar `en/`. Gemaakt door openai, goed checken dus!
+          commit-message: "Auto translation update"
+          add-paths: |
+            en/
+          labels: |
+            translation
+            automated
